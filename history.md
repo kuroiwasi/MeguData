@@ -81,7 +81,12 @@ tags: 東雲めぐ
 - 10/01 : [Gugenka Universe FANBOX](https://gugenka-universe.fanbox.cc/) 開設
 - 11/06 : [Gugenka所属メンバー公式サイト](https://www.gugenka-universe.com/)公開
 
+### 2021
+
 ### 今後の予定
+
+- xx/xx : 日和丘高校卒業
+- xx/xx : 演劇の専門学校へ進学
 
 ---
 
@@ -327,6 +332,27 @@ tags: 東雲めぐ
 - 11/13 : [HoloModels™ スペースチャンネル5](https://gugenka.jp/digital/holomodels_sc5.php) 東雲めぐコラボ（うららコスチューム）（[関連ツイート](https://twitter.com/Gugenka_info/status/1327197616157859840)）
 - 11/20 : [G-GEAR 東雲めぐ 推奨パソコン プレミアムモデル](https://www.tsukumo.co.jp/bto/pc/special/shinonome_megu/) 発売
 - 11/28 : ボンボンアカデミー「[ジングルベル](https://youtu.be/HgQkhmbQ1m8)」公開
+- 12/01 : [「Tokyo Anime Center Virtual Event」空間をご案内](https://youtu.be/sV5xcQ6SrfI)
+- 12/04 : [DOOR CRAFT ROOM」ギャラリールーム 作り方](https://youtu.be/bC0gYK2rRQE)
+	- [編集済動画　「DOOR CRAFT ROOM」東雲めぐ 解説ギャラリールーム 作り方](https://youtu.be/98dYznSDYJ4)
+- 12/08 : [XRKaigi](https://xrkaigi.com/2020/) アナウンス
+- 12/18 : [DOORでかしこまりちゃんとお部屋作り！【コラボ】](https://youtu.be/eRI3VCZrbfM)
+	- ダイジェスト：[DOORでかしこまりちゃんとお部屋作り！](https://youtu.be/eg972YbYH9Y)
+	- かしこまり視点：[東雲めぐちゃんと新世界へ!!【＃DOORNTT】](https://youtu.be/pzidroG4fUE)
+- 12/26 : ボンボンアカデミー「[きらきら星](https://youtu.be/51hOqspNfoY)」公開
+- 12/29 : [アコースティックライブ「夜空」](https://gugenka.jp/event/megu_concert_yozora.php)
+	- [第一部 YouTube](https://youtu.be/czoKOqxlVp0)
+	- [第二部 YouTube](https://youtu.be/DX5vtahnJqk)
+
+### 2021
+- 01/23 : ボンボンアカデミー「[はじまるよ](https://youtu.be/ItBtZaP6IgY)」公開
+- 02/05 : [【#ミクランド】MIKU LAND β Snow World 2021前夜祭](https://youtu.be/EFisiG0Ulkc)
+- 02/06-02/07 : [MIKU LAND β Snow World 2021](https://mikuland.com/2021snow/index.html)
+	- [【ライブコマース】「MIKU LAND」公式キャストの東雲めぐが、会場からミクランド商品を紹介します！](https://mikuland.com/2021snow/news.html)
+		- [ライブコマースURL](https://gugenka.jp/xlive)
+	- [【#ミクランド】MIKU LAND β Snow World 2021　開会式＆定点放送Day1](https://youtu.be/_unlVPpr0vw)
+	- [【#ミクランド】MIKU LAND β Snow World 2021　Day2＆閉会式](https://youtu.be/AOOeejwKCGg)
+	-  MIKU LAND アコースティックライブ 東雲めぐ×初音ミク
 
 ### 今後の予定
 
@@ -382,8 +408,9 @@ tags: 東雲めぐ
 - 05/27 : [マシマヒメコ](https://www.showroom-live.com/mashimahimeko)とコラボ配信
 - 06/05 : [サバイバルトレジャーゲーム！魔宮の秘宝 in VRCHAT](https://youtu.be/1Y0mjUYsJP0)
 - 06/14 : [第二回アルテマ音楽祭](https://altemamusicfestival.com/guidance-of-participation-viewing-method/) アルテマステージ実況中継 
-- 07/05 : [OGYA-ROOMのお二人と第五人格をプレイ](https://youtu.be/H2h1pQ76BB0)
-    -  ゲーム実況アプリ「Mirrativ（ミラティブ）」でコラボ配信
+- 07/05 : OGYA-ROOMのお二人と第五人格をプレイ(ゲーム実況アプリ「Mirrativ（ミラティブ）」でコラボ配信)
+	- （がんばるぅ子視点）[【コラボ】第五人格with東雲めぐちゃん、ばぶちゃ【アーカイブ】](https://youtu.be/H2h1pQ76BB0)
+    -  (めっちゃばぶ美視点) [【コラボ】7月5日第五人格コラボ/めっちゃばぶ美【アーカイブ】](https://youtu.be/TjyZ86Z8b64)
 - 07/15 : 【[えのぐはバーチャルタレントさんとお話ししたい](https://youtu.be/ynVfClH35Ns)】にゲスト出演
 - 07/19 : [【06】マシマヒメコちゃんとお絵かきオンチ！？](https://youtu.be/pDMG6Isls8Y)
 - 07/24 : [東雲めぐ×ハピバト×九条林檎 コラボ生放送](https://youtu.be/MZPsBA45_Zk)
@@ -435,5 +462,19 @@ tags: 東雲めぐ
 - 11/16 : [【生放送】東雲めぐちゃんと一緒！爆走Fall Guys！【茨ひより】](https://youtu.be/E1j0pXW9Q1M)
 	- [茨ひよりちゃんとFallGuysコラボ！『Fall Guys: Ultimate Knockout』【東雲めぐ視点】](https://youtu.be/FcYuvsX4thQ)
 - 11/17 : [【東雲めぐ】ついに憧れのあの人と…！癒し系対談コラボ♥【白雪みしろ】#めぐしろ](https://youtu.be/M9GPWsaf0E8)
+- 12/03 : [【生配信/３D】12/3（木）は ＃音葉なほ誕生祭 ！【＃まりなす】](https://youtu.be/EswiizOQuos?t=3227) お祝いメッセージ
+- 12/23 : [【桃鉄コラボ】2018年2月デビュー勢で超超超超電車バトル!!【かしこまり/春日部つくし/東雲めぐ/青道アカト/VTuber】](https://youtu.be/VwTmZe2DDEQ)
+
+### 2021
+- 01/01 : [【コント番組】「MZMのみなさんのおかげです。年越しスペシャル2020 〜今年は大変だったね〜」](https://youtu.be/qrcUj9XT13E)
+- 01/01 : [【みんなで楽しく】チューリングラブ（cover）東雲めぐ × esora uma【歌ってみた】](https://youtu.be/RTI-T9lDJd4)
+- 01/01 : 桃鉄コラボ
+	- [【#新春桃鉄コラボ/東雲めぐ視点】お正月だし仲良くやろうね【かしこまり/天開司/コーサカ】](https://youtu.be/WulmBwbzBJc)
+	- [【#新春桃鉄コラボ/天開司視点】勝負事に手は抜かない性質でね【Vtuber/かしこまり/コーサカ/東雲めぐ】](https://youtu.be/_wJylWC_OAU)
+	- [【#新春桃鉄コラボ/コーサカ視点】人生で二回目の桃鉄【Vtuber/かしこまり/天開司/東雲めぐ】](https://youtu.be/srTBtq4baxY)
+	- [【#新春桃鉄コラボ/かしこまり視点】桃太郎電鉄 ～昭和 平成 令和も定番！～【東雲めぐ/天開司/コーサカ】](https://youtu.be/KV-GwjPqqb8)
+- 01/25 : [【HoloModels】写真王は誰だ...!!!【東雲めぐ VS Altimate!!】✨Altimate!!のパレプロEX #20【LIVE 1/25】【パレプロEX】](https://youtu.be/GFeUqUY5YIw)
+- 01/30 : [【３０万人記念】みんなから初の凸待ち✨来てくれるかな！？【ホロライブ/夜空メル】](https://youtu.be/o12B4hZoKR8?t=3651)
+- 02/10 : [【コラボラジオ】#26 ミミミMidnight 〜東雲めぐちゃんと一緒♡〜 【奏みみ】](https://youtu.be/HN7zKwJ0FQ4)
 
 ### 今後の予定
