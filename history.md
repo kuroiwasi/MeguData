@@ -82,10 +82,10 @@ tags: 東雲めぐ
 - 11/06 : [Gugenka所属メンバー公式サイト](https://www.gugenka-universe.com/)公開
 
 ### 2021
+- 03/06 : 日和丘高校卒業([ツイート](https://twitter.com/megu_shinonome/status/1368042856489701378?s=20),[記念配信](https://t.co/BzjdFn0rLp?amp=1))
+- 04/06 : 誕生日(19歳) ([ツイート](https://twitter.com/megu_shinonome/status/1379087034841624577))
 
 ### 今後の予定
-
-- xx/xx : 日和丘高校卒業
 - xx/xx : 演劇の専門学校へ進学
 
 ---
@@ -353,9 +353,22 @@ tags: 東雲めぐ
 	- [【#ミクランド】MIKU LAND β Snow World 2021　開会式＆定点放送Day1](https://youtu.be/_unlVPpr0vw)
 	- [【#ミクランド】MIKU LAND β Snow World 2021　Day2＆閉会式](https://youtu.be/AOOeejwKCGg)
 	-  MIKU LAND アコースティックライブ 東雲めぐ×初音ミク
+- 02/20-02/28 : クロスマーケット2 協賛 [(プレスリリース)](https://prtimes.jp/main/html/rd/p/000000002.000073707.html)
+- 02/27 : ボンボンアカデミー「[てをたたきましょう](https://youtu.be/zNY6G7iMwZc)」公開
+- 02/28 : [バーチャル雪まつり -2021-](https://vsfp.xyz/) 閉幕式 V雪グランドフィナーレ 
+	- [プレスリリース](https://www.value-press.com/pressrelease/264864)
+	- [cluster会場](https://cluster.mu/e/4160789d-7130-4316-b0f1-69fd501b77e5)
+	- [YouTube配信](https://youtu.be/kaMJYNuTXwc)
+- 03/17 : SXSW [Tech Cave Japan Music\*Session](https://online.sxsw.com/event/sxsw-online/exhibitor/RXhoaWJpdG9yXzI4ODEyNA)[ (LEARN MORE)](https://app.swapcard.com/event/sxsw-online/planning/UGxhbm5pbmdfMzYwMzUz) ナビゲーター
+	- [プレスリリース](https://prtimes.jp/main/html/rd/p/000000018.000037875.html)
+- 03/26 : [ナゴヤVTuber展inパルコ](https://camp-fire.jp/projects/view/401798) アンバサダー
+- 03/27 : ボンボンアカデミー「[チューリップ](https://youtu.be/Q5afpGjLCLU)」公開
+- 03/28 : [まりなす（仮）卒業ライブ](https://www.zan-live.com/live/detail/10063) 祝電（[関連ツイート](https://twitter.com/MarinasuChannel/status/1376160768341671940)）
+- 04/01 : [IdentityV「心音MAX祭」三夜連続狂宴　Day1](https://youtu.be/rn5jQTdOatM) 協力サバイバー（2戦目）
 
 ### 今後の予定
-
+- 04/24-04/25 : [バーチャルクラフ特区](https://www.gugenka.net/craftok) アンバサダー
+	- [バーチャルクラフ特区に参加しよう！](https://youtu.be/HywoHut9CPo)
 ---
 
 ## 外部配信者コラボ・企画等
@@ -476,5 +489,13 @@ tags: 東雲めぐ
 - 01/25 : [【HoloModels】写真王は誰だ...!!!【東雲めぐ VS Altimate!!】✨Altimate!!のパレプロEX #20【LIVE 1/25】【パレプロEX】](https://youtu.be/GFeUqUY5YIw)
 - 01/30 : [【３０万人記念】みんなから初の凸待ち✨来てくれるかな！？【ホロライブ/夜空メル】](https://youtu.be/o12B4hZoKR8?t=3651)
 - 02/10 : [【コラボラジオ】#26 ミミミMidnight 〜東雲めぐちゃんと一緒♡〜 【奏みみ】](https://youtu.be/HN7zKwJ0FQ4)
+- 02/14 : [【バレンタインに】BABYMETAL- ギミチョコ！！- Gimme chocolate!! （cover）東雲めぐ＆メルティキッス（夜空メル＆癒月ちょこ）【歌ってみた】](https://youtu.be/x-g0SeUJxsI)
+- 02/17 : [【02/17(水)20：30～】Vキャスちゃんねる#52【ゲスト：東雲めぐ】](https://youtu.be/TAS-VYj3O4Y)
+- 02/25 : [【トッカ自宅配信✨】ミクランドのお便り読みます！【ゲスト：東雲めぐ＆みゅみゅ＆あねえるたん】](https://youtu.be/MWZxj6T4kHk)
+- 03/10 : BiliBili [お絵描きの森コラボ](https://live.bilibili.com/22671782)([ツイート](https://twitter.com/az_yukimi/status/1369618502454104065)) 
+- 03/16 : ギルラジ 春よ来い！ホワイトデーSP([ツイート](https://twitter.com/srvguild/status/1367803752313356292))
+- 03/29 : [【桃鉄コラボ】手加減なしの本気対決！！#みみとも桃鉄【杏戸ゆげ / 東雲めぐ / HACHI / 奏みみ】](https://youtu.be/IDELK2pkgOU)
+- 04/05 : Among Us コラボ #Vおにごっこ (東雲めぐ視点配信なし)（[ツイート](https://twitter.com/megu_shinonome/status/1379011725249245184)）
+- 04/07 : [南の島で何かやる【#春休み超3Dコラボ祭】](https://youtu.be/HWlOhVH2fVY)
 
 ### 今後の予定
