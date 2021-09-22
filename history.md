@@ -94,10 +94,13 @@ tags: 東雲めぐ
 - 04/06 : 誕生日(19歳) ([ツイート](https://twitter.com/megu_shinonome/status/1379087034841624577))
 	- [ご招待チケット お誕生日配信](https://xr-marketplace.com/package/366)
 - 04/xx : 演劇の専門学校へ進学
+- 09/20 : Gugenka Universe FANBOX 閉鎖
+- 09/21 : Gugenkaを退所し独立 
+	- [🔴 GUメンバーの活動方針発表](https://youtu.be/DX2MrVa9pUw)
+	- [【今日から個人勢】#はぴのひ フリー記念配信！☀](https://youtu.be/QOGPb5JX-kU)
+- 09/22 : [【MV】虹 / 東雲めぐ【オリジナル曲】](https://youtu.be/tasTXGy-j2s) 公開
 
 ### 今後の予定
-- 09/20 : Gugenka Universe FANBOX 閉鎖
-- 09/21 : Gugenkaを退所し独立 ([🔴 GUメンバーの活動方針発表](https://youtu.be/DX2MrVa9pUw))
 
 ---
 
@@ -429,8 +432,7 @@ tags: 東雲めぐ
 	- とちぎ630（[ツイート](https://twitter.com/megu_shinonome/status/1402565149664288770)，[関連記事](https://www3.nhk.or.jp/lnews/utsunomiya/20210609/1090009831.html)）
 - 06/26 : ボンボンアカデミー「[かえるの合唱](https://youtu.be/gIuntTOH6UA)」公開
 - 06/26 : [GEMS COMPANYのさらば、ラジオ。](http://anitama.com/gc/) ゲスト ([ツイート](https://twitter.com/megu_shinonome/status/1408742356258484224))
-
-### 今後の予定
+	- [【ジェムカン】GEMS COMPANYのさらば、ラジオ。#65【さらば青春の光】](https://youtu.be/ui2vqzlY65w)(アーカイブ)
 - 06/26-07/03 : [クラフ特区ファンタジー](https://www.gugenka.net/craftok-fantasy)
 	- 05/17 : [選手向け説明会](https://youtu.be/8WqDWLqXtVY)
 	- 06/04 : [VTuber大会](https://youtu.be/R4WuoPgOaZE)
@@ -438,9 +440,35 @@ tags: 東雲めぐ
 		- [暁月クララ視点](https://youtu.be/iY-NN5WEHqI)
 		- [ダイジェスト動画](https://youtu.be/de49StiPu80)
 	- 06/25 : [🔴【VRで〇×クイズ】自作スライムアバターのコンテスト結果を発表！｜Gugenka主催『クラフ特区ファンタジー』前夜祭](https://youtu.be/XDQpgOOPWTE)
+		- [ダイジェスト動画](https://youtu.be/oZ4J62WTIEE)
 	- 06/26 : [🔴【VRで〇×クイズ】6/26(土)開催！本選出場を目指すスライムたちによる、本気の〇✕クイズバトル！｜ Gugenka主催「クラフ特区ファンタジー」予選"](https://youtu.be/FqLv5z4POLM)
-	- 07/02 : 本戦前夜祭
-	- 07/03 : 本戦
+	- 07/02 : [🔴【VRで〇×クイズ】予選を勝ち抜いた選ばれし10名のスライムを紹介！！ Gugenka主催「クラフ特区ファンタジー」本選前夜祭](https://youtu.be/1HIZcmWDtTY)
+	- 07/03 : [🔴【VRで〇×クイズ】7月3日(土)開催！最強のスライムがついに決まる…！！｜ Gugenka®主催「クラフ特区ファンタジー」本選](https://youtu.be/vQTTTikFUDU)
+- 07/09 : [怒涛の50組お祝いコメントが到着!! まりなす、メジャーデビューアルバム「SUPERNOVA」リリース](https://panora.tokyo/archives/29358)
+- 07/15 : AniCast Maker [東雲めぐ コラボアセット](https://anicast-maker.com/asset/detail/3) 発売
+- 07/15 : [開催決定！MIKU LAND 2021 SUMMER VACATION【#ミクランド】](https://youtu.be/pljjkcKJRz4) NA
+- 07/24 : ボンボンアカデミー「[うみ](https://youtu.be/atKUC8NYI7I)」公開
+- 07/30-09/12 : [クラフ特区O-City](https://door.ntt/web/event/craftok-ocity.html)
+	- [特設サイト](https://craftok.jp/ocity)
+	- [【VRで暮らす】バーチャル空間で推しのVTuberの町に暮らそう！｜Gugenka®主催「クラフ特区O-City」入居者向け説明会](https://youtu.be/Aj5FX-8oxMI)
+	- 09/12 : 第1回交流会([関連ツイート](https://twitter.com/megu_shinonome/status/1436982243671502851))
+- 08/06 : [がんばるぅ子3周年Anniversaryライブ「Cheer」](https://www.showstage.live/lives/b728a1fc-9f0f-4893-b57a-de8671e298b3) お祝い動画　（[関連ツイート](https://twitter.com/ganbaruuko/status/1423655556753989634)）
+	- [【#がんばるぅ子誕生日】おたんじょうびお祝い！【がんばるぅ子】](https://youtu.be/4-vaPtKluug?t=2139) 内で紹介
+- 08/13: [SURPRIZEBOX ハロウィン限定特別企画](https://surprisebox.jp/lineup/shinonome-megu) 申込受付開始
+- 08/21-09/30 : バーチャルシネマ [MIKU LAND ミクめぐツアー2021夏](https://www.aevc.aeoncinema.com/movie/detail/507)　上映
+- 08/27-10/28 : バーチャルシネマ [東雲めぐ　「人魚姫」](https://www.aevc.aeoncinema.com/movie/detail/506)　上映
+- 08/27-08/31 : [MIKU LAND 2021 Summer Vacation](https://mikuland.com/2021summer)
+	- 08/23 : 【初音ミク公式VRワールド】MIKU LAND 2021 SUMMER VACATION 事前紹介特番　新エリアだいたい見せちゃうよスペシャル（[YouTube](https://youtu.be/7_912ezWi2g)，[niconico](https://live.nicovideo.jp/watch/lv333159160)）
+	- 08/27 : 開会式＆Day1 定点放送 （[YouTube](https://youtu.be/MPPm82jjOo4),[niconico](https://live.nicovideo.jp/watch/lv333159442)）
+	- 08/28 : Day2 定点放送 （[YouTube](https://youtu.be/ObeE4NSps40),[niconico](https://live.nicovideo.jp/watch/lv333159522)）
+	- 08/29 : Day3 定点放送 （[YouTube](https://youtu.be/t_PFzrLZW4w),[niconico](https://live.nicovideo.jp/watch/lv333159606)）
+	- 08/27-08/29 : [アコースティックLIVE](https://mikuland.com/event/minilive)
+	- 08/31 : [ボカコレVRナイト in MIKULAND](https://live.nicovideo.jp/watch/lv333042154)（[関連ツイート](https://twitter.com/Mikuland_info/status/1427193421685432331)）
+- 08/28 : ボンボンアカデミー「[南の島のハメハメハ大王](https://youtu.be/3KaFVfU1amM)」公開
+- 09/07 : [【インタビュー】デジタル甲子園でいろんな企業にインタビューしてきます♪](https://youtu.be/J3a9eX3_U28) 
+
+### 今後の予定
+- 09/24 : [はぴのひ×ウェブポン](https://webpon.net/shop/HPNH/plan/HPNH)
 
 ---
 
@@ -473,7 +501,9 @@ tags: 東雲めぐ
 - 01/17 : 「[VRadio〜ひらい・瑠璃のVtuberさんようこそ！〜](https://live2.nicovideo.jp/watch/lv317903450)」にゲスト出演
 - 01/18 : [雅まつり(@magical_matsuri )ちゃんとVRゲーム「おんぷっコ♪」を一緒にプレイ](https://youtu.be/lLoted3ZISs)
 - 01/18 : [【東雲めぐコラボ】ドレミファロンド歌ってみた♪【cover】](https://youtu.be/48oMvZn6wxc)
-- 01/23 : [VRC Oz苑の招待状が届いたよ！](https://youtu.be/DoBFwG7aMuo)([サブ配信](https://youtu.be/jtTqgyp_GxI))
+- 01/23 : [VRC Oz苑の招待状が届いたよ！](https://youtu.be/DoBFwG7aMuo) （Ozさんのお金で焼肉食べたい2nd）
+	- 別視点　[おきゅたん Ocutan VR-Ch.](https://youtu.be/jtTqgyp_GxI)
+	- 別視点　[のらきゃっとチャンネル](https://youtu.be/SCItDpGXDho)
 - 02/11 : [【バレンタイン】あなたのハートを射止めるのはどっち！？【告白シチュエーション】](https://youtu.be/TyOPNxvdbwc)
 - 02/14 : [コラボうたってみた動画「バレンタイン・キス」](https://youtu.be/R4PEMkDb418)配信
 - 02/21 : [マシマヒメコ](https://www.showroom-live.com/mashimahimeko)とコラボ配信
@@ -576,5 +606,12 @@ tags: 東雲めぐ
 - 05/05 : [ぽんぽこ24 vol.5 「ピカいい話」](https://youtu.be/UTiu6-_G9fE?t=7245)
 - 06/10 : [🟢【Fall Guys】生き残りたい！！！【＃ナギナミ生放送】](https://youtu.be/bGZQNYrg-VI)
 - 06/26 : [【VRマーダーミステリー】#2 バーチャル世界で挑む聖者の殉教](https://youtu.be/lwFV7WmVx4Y)
+- 07/03 : [【1周年記念】アンドロイドだって誕生日をお祝いしちゃいます！【九十九トッカ】](https://youtu.be/JOTocV4jdHI&t=2079s) メッセージ動画
+- 07/10 : [🟢【祝2周年】過去最大？総勢〇〇名への逆凸祭！私たちを祝ってください！！【＃ナギナミ生放送】](https://youtu.be/hwPL9rwhbus?t=8868)
+- 07/16 : [【 第4回 #はじ女子 】はじめまして！女子会しませんか？【 かしこまり/東雲めぐ/禰好亭めてお 】](https://youtu.be/t_0bhLZJegA)
+- 08/03 : [【生放送】祝！茨城県公認Vtuber茨ひより　活動３周年【茨ひより】](https://youtu.be/MPRhMfmr1zw)
+- 08/05 : [🟢【ポケモンユナイト】夏だ！コラボだ！！ユナイトだ！！！【＃真夏のV乱打戦】【ナギナミ】](https://youtu.be/f9nHIeyIbjk)
+- 08/17 : [【 第5回 #はじ女子 】はじめまして！女子会しませんか？【 奏天まひろ/東雲めぐ/禰好亭めてお 】](https://youtu.be/CXnRIq3GwTI)
+- 09/10 : [木星のビート（cover）かしこまり＆東雲めぐ]([)](https://youtu.be/4rRCTRZBk2k)
 
 ### 今後の予定
