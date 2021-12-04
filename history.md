@@ -93,12 +93,16 @@ tags: 東雲めぐ
 	- 04/02 : HoloModels 東雲めぐ -卒業Ver.- 発売 ([東雲めぐ -卒業Ver.- PV【HoloModels™️(ホロモデル)】](https://youtu.be/fnN4Tgsy7ko))
 - 04/06 : 誕生日(19歳) ([ツイート](https://twitter.com/megu_shinonome/status/1379087034841624577))
 	- [ご招待チケット お誕生日配信](https://xr-marketplace.com/package/366)
-- 04/xx : 演劇の専門学校へ進学
+- 04/xx : 演劇の専門学校（日和丘芸術専門学校）へ進学
 - 09/20 : Gugenka Universe FANBOX 閉鎖
 - 09/21 : Gugenkaを退所し独立 
 	- [🔴 GUメンバーの活動方針発表](https://youtu.be/DX2MrVa9pUw)
 	- [【今日から個人勢】#はぴのひ フリー記念配信！☀](https://youtu.be/QOGPb5JX-kU)
+	- [今後の依頼等窓口](https://twitter.com/megu_shinonome/status/1440975153416921093)
 - 09/22 : [【MV】虹 / 東雲めぐ【オリジナル曲】](https://youtu.be/tasTXGy-j2s) 公開
+- 11/01 : YouTubeメンバーシップ開設
+- 11/01 : [【MV】ぼくらのワンダーランド / 東雲めぐ【オリジナル曲】](https://youtu.be/fxlR6CLkfUI) 公開
+- 11/11 : アイドルユニットLowCalorie [YouTubeチャンネル](https://www.youtube.com/channel/UCyIRICrmHDsiRax2iwKoXjA)開設
 
 ### 今後の予定
 
@@ -142,6 +146,7 @@ tags: 東雲めぐ
 - 09/02 : [GUMMIT原宿グミパ出演](https://shinonomemegu.com/contents/190795)([プレスリリース](https://www.kanro.co.jp/files/topics/670_ext_05_0.pdf))
 - 09/20-09/23 : 東京ゲームショウ2018「[東雲めぐトークライブ](https://gugenka.jp/event/megu_tgs2018.php)」
 - 09/28 : キッズボンボン「[ゴーゴーゴー](https://www.youtube.com/watch?v=1h_b-85LuZM)」公開
+- 10/11 : GameBusiness.jp [東雲めぐ、SHOWROOMデビューからこれまでの心境を語る！中村彰憲「ゲームビジネス新潮流」第51回](https://www.gamebusiness.jp/article/2018/10/11/14988.html)
 - 10/12 : SHOWROOM magazine [【大塚愛×東雲めぐ/特別対談インタビュー】](https://magazine.showroom-live.com/interview/3968)
 - 10/27 : キッズボンボン「[グーチョキパーでなにつくろう](https://youtu.be/ogS4aqczzPA)」公開
 - 10/27 : 「[バーチャルハロウィン VR脱出ゲーム ~伝説のお菓子を求めて](https://vrz.jp/virtual-halloween/)」に参加
@@ -466,9 +471,25 @@ tags: 東雲めぐ
 	- 08/31 : [ボカコレVRナイト in MIKULAND](https://live.nicovideo.jp/watch/lv333042154)（[関連ツイート](https://twitter.com/Mikuland_info/status/1427193421685432331)）
 - 08/28 : ボンボンアカデミー「[南の島のハメハメハ大王](https://youtu.be/3KaFVfU1amM)」公開
 - 09/07 : [【インタビュー】デジタル甲子園でいろんな企業にインタビューしてきます♪](https://youtu.be/J3a9eX3_U28) 
+- 09/24 : [はぴのひ×ウェブポン](https://webpon.net/shop/HPNH/plan/HPNH)
+- 09/25 : ボンボンアカデミー「[5つのメロンパン](https://youtu.be/17_Hh9Sfd1U)」公開
+- 10/18 : [東雲めぐ　見るもの聴くものをハッピーにする多幸的Vtuber](https://media.muevo.jp/articles/8387) - muevo voice
+- 10/21 : [バーチャルキャストショッピング第89回【東雲めぐさんフリー記念＆アウリンBooth店オープン記念放送】](https://youtu.be/1QqTqSdkx2w)
+- 10/23 : ボンボンアカデミー「[きのこ](https://youtu.be/aqYJl2FuA0Q)」公開
+- 10/31 : [ネットおしゃべりフェス #11](https://t.livepocket.jp/e/shabefes_011) ([関連ツイート](https://twitter.com/shabefes/status/1454717669274357765))
+	- 10/02 : チケット販売開始
+	- [ネットおしゃべりフェス #11 第2部 小純マアメ/東雲めぐ/今羽にこ](https://youtu.be/_4uINIaSzfg)
+	- [東雲めぐさん　サイン入りチェキ【ネットおしゃべりフェス】](https://shabefes.booth.pm/items/3394820)
+	- [【サイン入り神棚写真（デジタルデータ）付】東雲めぐさんリアルギフティング](https://shabefes.booth.pm/items/3394805)
+- 11/12 : [バーチャルキャストショッピング第92回【ゲスト：東雲めぐさん】](https://youtu.be/HK9uTGM2o2Y)
+- 11/27 : ボンボンアカデミー「[おめでとうクリスマス](https://youtu.be/Acg5MgI7gF4)」公開
+- 12/04 : [【第1回】 ジラが聞く　バズったことありますか！？ 【 ジラ 東雲めぐ 】 #ジラバズ](https://youtu.be/ka9n0I0U_6k)
+	- ビータスクリエイション [ジラが聞く　バズったことありますか？　公式サイト](http://insidesystem.heteml.net/Beatus/buzztalk)
 
 ### 今後の予定
-- 09/24 : [はぴのひ×ウェブポン](https://webpon.net/shop/HPNH/plan/HPNH)
+- 12/6 : [【Vket2021】Vtuberが周るVket2021 秋葉原](https://youtu.be/8SY8iO_dIeU)
+- 12/11-12/12 : [SANRIO Virtual Fes in Sanrio Puroland](https://v-fes.sanrio.co.jp/) Day1 出演
+	- 11/19 : [【SANRIO Virtual Fes in Sanrio Puroland特別企画！】東雲めぐちゃんにインタビューしちゃいます！【コラボ配信】](https://youtu.be/xT11gG_QQqQ)
 
 ---
 
@@ -523,7 +544,7 @@ tags: 東雲めぐ
 - 05/22 : [【Vtuber身体測定】噂の清楚系美少女Vtuber身体測定します！【東雲めぐ/癒月ちょこ】](https://youtu.be/99WAyE3Gqic)
 - 05/27 : [マシマヒメコ](https://www.showroom-live.com/mashimahimeko)とコラボ配信
 - 06/05 : [サバイバルトレジャーゲーム！魔宮の秘宝 in VRCHAT](https://youtu.be/1Y0mjUYsJP0)
-- 06/14 : [第二回アルテマ音楽祭](https://altemamusicfestival.com/guidance-of-participation-viewing-method/) アルテマステージ実況中継 
+- 06/14 : [第二回アルテマ音楽祭](https://altemamusicfestival.com/guidance-of-participation-viewing-method/) アルテマステージ実況中継(SHOWROOM) 
 - 07/05 : OGYA-ROOMのお二人と第五人格をプレイ(ゲーム実況アプリ「Mirrativ（ミラティブ）」でコラボ配信)
 	- （がんばるぅ子視点）[【コラボ】第五人格with東雲めぐちゃん、ばぶちゃ【アーカイブ】](https://youtu.be/H2h1pQ76BB0)
     -  (めっちゃばぶ美視点) [【コラボ】7月5日第五人格コラボ/めっちゃばぶ美【アーカイブ】](https://youtu.be/TjyZ86Z8b64)
@@ -612,6 +633,18 @@ tags: 東雲めぐ
 - 08/03 : [【生放送】祝！茨城県公認Vtuber茨ひより　活動３周年【茨ひより】](https://youtu.be/MPRhMfmr1zw)
 - 08/05 : [🟢【ポケモンユナイト】夏だ！コラボだ！！ユナイトだ！！！【＃真夏のV乱打戦】【ナギナミ】](https://youtu.be/f9nHIeyIbjk)
 - 08/17 : [【 第5回 #はじ女子 】はじめまして！女子会しませんか？【 奏天まひろ/東雲めぐ/禰好亭めてお 】](https://youtu.be/CXnRIq3GwTI)
-- 09/10 : [木星のビート（cover）かしこまり＆東雲めぐ]([)](https://youtu.be/4rRCTRZBk2k)
+- 09/10 : [木星のビート（cover）かしこまり＆東雲めぐ](https://youtu.be/4rRCTRZBk2k)
+- 10/01 : [【誕生祭】YuNiのHappy Birth Day 記念配信！！#YuNi誕生祭](https://youtu.be/6Uih-PdNd0g?t=2530)
+- 10/15 : [ゲストトーク&凸待ち配信 Vol.3【ジェムカン主催】](https://youtu.be/YA8p9oPvCfQ?t=576)
+- 10/20 : [【新３D】音葉なほ新モデルお披露目スペシャル！【＃音葉なほ新３D/＃まりなす/VTuber/３D】](https://youtu.be/KwrSCGFCFSY)
+- 10/24 : [【#リアルタイムノベル】あなたの選択で物語が変わる!? リアルタイムノベル会議🖊【バッキー/かしこまり/東雲めぐ】](https://youtu.be/iO-GkAtqhKA)
+- 10/26 : [【#Vハロパ】何が起こるか分からない！？VTuberハロウィンパーティ＠VRChat](https://t.co/ssTxydnX5p)
+- 10/31 : [【リアルタイムノベル】 ハロウィンライブ編【かしこまり/東雲めぐ】](https://youtu.be/E1VOLPtjS28)
+- 11/03 : [万物のバーチャル博覧会 #ファンタズムセブン vs 東雲めぐ/エピト/鈴山八広/ねも/わたあめ子/少佐/おきゅたん Live#403](https://youtu.be/7sR8tJTfzzs)
+- 11/22 : [🟢【愛】ナギナミ王に俺はなるっ！！！ドンッ！！【#ナギナミ王】【ナギナミ 】](https://youtu.be/UwMC0dfBu4A)
+- 11/25 : [🟢【可愛い】女の子V同士でお喋りしながらリアルタコパっ！！！【#Vタコ女子会】【ナギナミ】](https://youtu.be/ExtvIKDbrLE)
+- 11/27 : [【まったり】ぼっちOvercooked！！！！【お料理】](https://youtu.be/oxjcIqc9XIw)
+	- インサイドちゃんMark1 & ディープブリザード
+- 12/04 : [【コラボで歌ってみた】ヴァンパイア / DECO\*27 (Covered by かしこまり＆東雲めぐ)](https://youtu.be/Flwz2NwZ6No)
 
 ### 今後の予定
