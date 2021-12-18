@@ -6,13 +6,14 @@ tags: 東雲めぐ
 	body    {
 		background-color: #fffcef !important;
 		background-image:
-			radial-gradient(#f8d74c 5%, transparent 5%),
-			radial-gradient(#f8d74c 5%, transparent 5%);
+			radial-gradient( farthest-side circle at center top, #f8d74c 8%, transparent 0%),
+			radial-gradient(farthest-side circle at center bottom, #f8d74c 8%, transparent 0%);
 		background-size: 40px 40px;
 		background-position: 0 0, 20px 20px;
 	}
 	a       { color: #737eae; }
 	a:hover { color: #8ebfe7; }
+    p       { padding: 0 1em;}
 	hr      { background-color: #ef8589 !important; }
 	#doc 	{ background-color: #fffcef !important; }
 	#doc>ul	{ padding-left: 0; }
@@ -31,11 +32,13 @@ tags: 東雲めぐ
 		border-color :#f18a5d !important;
 		margin: 0;
 		padding: 0.5em 0;
+		border-radius: 1em 1em 0.25em 0.25em;
 	}
 	.markdown-body>h2 {
 		padding: 0.25em 1em;
 		border-color :#f18a5d !important;
 		border-left: solid 1em;
+		border-radius: 0.25em 0 0 0.25em;
 	} 
 	.markdown-body>h2,
 	.markdown-body>h3 { color: #f18a5d; }
