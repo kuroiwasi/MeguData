@@ -15,6 +15,11 @@ tags: 東雲めぐ
 	a:hover { color: #8ebfe7; }
     p       { padding: 0 1em;}
 	hr      { background-color: #ef8589 !important; }
+	strong:not(a>strong)  { color: #f18a5d; }
+	small:not(a>small) {
+		color: #cdcdcd;
+		padding : 0 1em;
+	}
 	#doc 	{ background-color: #fffcef !important; }
 	#doc>ul	{ padding-left: 0; }
 	#doc>ul>li {
@@ -57,5 +62,8 @@ tags: 東雲めぐ
 	}
 	.ui-toc-label::after {
 		content: "目次";
+	}
+	.fa-user:before {
+    	content: "\f16a";
 	}
 </style>
