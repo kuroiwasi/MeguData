@@ -17,8 +17,9 @@ tags: 東雲めぐ
 ## 足跡
 ### 2018
 - **02/27** : [Twitter（@megu_shinonome）](https://twitter.com/megu_shinonome)開始
+	- **02/19** Twitter登録日([関連ツイート](https://twitter.com/megu_shinonome/status/1494975557725204480))
 - **02/27** : [Youtube（MeguRoom）](https://www.youtube.com/megu_room)[初投稿](https://youtu.be/8mCfAdJKpXw)
-	- チャンネル開設日は2/22
+	- **02/22** YouTube登録日
 - **03/01** : [SHOWROOM（ハロハピ！めぐちゃんのお部屋♪）](https://www.showroom-live.com/megu)初配信
 	- [ダイジェスト動画](https://youtu.be/-WyYkcJeMfQ)
 - **03/05** : SHOWROOM配信ルーム名を「ハロハピ！東雲めぐちゃんのお部屋♪」に変更
@@ -117,7 +118,7 @@ tags: 東雲めぐ
 - **04/27** : [バーチャルキャラクターのプロデュース手法とリアルタイムエンジンとの可能性](https://madewithunity.jp/interviews/shinonome-megu/) 
 -->
 - **05/05** : キッズボンボンTV 参加，「[こいのぼり](https://youtu.be/TYjFjhmdZnU)」公開 [name=キッズボンボン]
-- **05/09** : Unite Tokyo 2018 講演に生放送で出演<!--	- [【Unite Tokyo 2018】AniCast！東雲めぐちゃんの魔法ができるまで](https://youtu.be/1rfoFg6LJgU)-->
+- **05/09** : Unite Tokyo 2018 講演に生放送で出演<!--	- [【Unite Tokyo 2018】AniCast！東雲めぐちゃんの魔法ができるまで](https://youtu.be/1rfoFg6LJgU) [name=Unity Japan]-->
 - **05/12** : [C4LAN 2018 SPRING](https://2018s.c4-lan.com/) [ドスパラブース 出展](https://www.dospara.co.jp/5press/share_info.php?id=1316)(関連記事<!--https://shinonomemegu.com/contents/207491-->([Webアーカイブ](https://megalodon.jp/2020-0719-1915-33/https://shinonomemegu.com:443/contents/207491)))
 - **05/19** : キッズボンボン「[犬のおまわりさん](https://youtu.be/4Mo6CSpuSA8)」公開 [name=キッズボンボン]
 - **05/26** : SHOWROOM magazine [インタビュー](https://magazine.showroom-live.com/interview/2265)
@@ -128,8 +129,8 @@ tags: 東雲めぐ
 - **06/11** : [東雲めぐちゃんはGALLERIA XZを使って配信中](https://www.dospara.co.jp/5info/cts_lp_shinonomemegu)([ツイート](https://twitter.com/dospara_web/status/1006051214478360577))
 - **06/17** : キッズボンボン「[おべんとうばこのうた](https://youtu.be/Bavgg2WGdZY)」公開 [name=キッズボンボン]
 - **06/29** : キッズボンボン「[たなばたさま](https://youtu.be/vx6WlIsNXfw)」公開 [name=キッズボンボン]
-- **06/29** : [xRTech Tokyo \#10](https://vrtokyo.connpass.com/event/86277/) 「[ARKitを使ったアニメARフィギュアHoloModels®](https://youtu.be/gGSmDcSkllE)」 生放送出演
-- **07/10-09/02** : 東京タワー「天の川イルミネーション」公式アンバサダー就任([関連記事](http://localpress.jp/niigata/detail.php?id=810)，[関連動画](https://youtu.be/bperKKXE3N8)）
+- **06/29** : [xRTech Tokyo \#10](https://vrtokyo.connpass.com/event/86277/) 「[ARKitを使ったアニメARフィギュアHoloModels®](https://youtu.be/gGSmDcSkllE)」 生放送出演 [name=xR Tech Tokyo]
+- **07/10-09/02** : 東京タワー「天の川イルミネーション」公式アンバサダー就任([関連記事](http://localpress.jp/niigata/detail.php?id=810)，[関連動画](https://youtu.be/bperKKXE3N8) [name=東京タワー]）
     - **07/10-08/28** : 毎週火曜21:00〜21:30に東京タワーメインデッキ1Fに東雲めぐが登場
 - **07/13** : キッズボンボン「[おもちゃのチャチャチャ](https://youtu.be/FwvUkqQ1J28)」公開 [name=キッズボンボン]
 - **07/26** : [コンプティーク9月号増刊 Vティーク](https://www.kadokawa.co.jp/product/321805000064)
@@ -158,8 +159,9 @@ tags: 東雲めぐ
 - **11/24** : キッズボンボン「[赤鼻のトナカイ](https://youtu.be/zA6uk5v6OvI)」公開 [name=キッズボンボン]
 - **11/24-11/25** : OTAKU FES in OKINAWA 「東雲めぐ SPECIAL LIVE」（[プレスリリース](http://localpress.jp/niigata/detail.php?id=853)）
 - **12/01** : テレビ朝日「[サイキ道](https://www.tv-asahi.co.jp/saikido/)」 に出演
-- **12/06** : 『[Fever Pitch Fes 2nd Stage @ DOCOMO Open House 2018](http://project-algorhythm.com/news/20**18/11**/news1.php)』に出演([動画](https://youtu.be/Pb1qQ2bLcxs))
-	- **11/26** :メッセージ動画 [第8話　困惑【日本語】/直播动漫　麟犀AI韵律♪第二季](https://youtu.be/DaBoTb1KxOU?t=5821)
+- **12/06** : 『[Fever Pitch Fes 2nd Stage @ DOCOMO Open House 2018](http://project-algorhythm.com/news/20**18/11**/news1.php)』に出演([動画](https://youtu.be/Pb1qQ2bLcxs) [name=Live Animation Heart x Algorhythm])
+	- **11/26** :メッセージ動画 [第8話　困惑【日本語】/直播动漫　麟犀AI韵律♪第二季](https://youtu.be/DaBoTb1KxOU?t=5821) [name=Live Animation Heart x Algorhythm]
+	- **11/28** :[【電脳少女シロ・東雲めぐ　メッセージ】12月6日（木）Fever Pitch Fes 2nd Stage @ DOCOMO Open House 2018 お知らせ](https://youtu.be/t-qN4GfWcIA) [name=Live Animation Heart x Algorhythm]
 - **12/07** : オムニ7 x 東雲めぐ | お正月特別コラボ企画<!--https://shinonomemegu.com/pages/omni7--> ([Webアーカイブ](https://megalodon.jp/2020-0719-1916-44/https://shinonomemegu.com:443/pages/omni7))
 - **12/21** : 結果発表＆ありがとう配信！（オムニ7 x 東雲めぐ | お正月特別コラボ企画）
 - **12/24** : 「カラオケDAM」タイアップ　クリスマス配信(関連記事<!--https://shinonomemegu.com/contents/208147--> ([Webアーカイブ](https://megalodon.jp/2020-0719-1921-51/https://shinonomemegu.com:443/contents/208147)))
@@ -170,16 +172,16 @@ tags: 東雲めぐ
 ### 2019
 - **01/01** : お正月配信（オムニ7 x 東雲めぐ | お正月特別コラボ企画）
 - **01/02** : [『バーチャルのど自慢』裏実況特番](https://live.nicovideo.jp/watch/lv317078459) バーチャル裏自慢 動画提供
-- **01/10** : [TBS 「Ｄｏｏｏ」「今、話題の職業“VTuber”にあなたもなれる！？」（前編）](https://youtu.be/i_PSuNmopyE)
+- **01/10** : [TBS 「Ｄｏｏｏ」「今、話題の職業“VTuber”にあなたもなれる！？」（前編）](https://youtu.be/i_PSuNmopyE) [name=TBS NEWS]
 - **01/15** : [「Hydro Ag+」WebCMに出演](https://gugenka.jp/event/megu-HydroAg.php)（[YouTube](https://youtu.be/eX56m38Zo4c) [name=FUJIFILMjapan]）
-- **01/17** : [TBS 「Ｄｏｏｏ」「今、話題の職業“VTuber”にあなたもなれる！？」（後編）](https://youtu.be/zfepFu17R-Y)
+- **01/17** : [TBS 「Ｄｏｏｏ」「今、話題の職業“VTuber”にあなたもなれる！？」（後編）](https://youtu.be/zfepFu17R-Y) [name=TBS NEWS]
 - **01/20** : [ラジオドラマ番組「あ、安部礼司～beyond the average～」](https://www.tfm.co.jp/abe/index.php)にコメント出演
-- **01/27** : あべ☆EXPO 2019 ギャラリーステージ 出演
+- **01/27** : あべ☆EXPO 2019 ギャラリーステージ 出演 （[関連記事](https://brindoll.com/?p=122)）
 - **02/05-03/31** : 「カラオケBIG ECHO　30周年記念コラボ」キャンペーン<!--https://shinonomemegu.com/contents/222466--> ([Webアーカイブ](https://megalodon.jp/2020-0719-1926-38/https://shinonomemegu.com:443/contents/222466))実施
 - **02/06** : DeNA TechCon 2019 SHOWROOMブース（生配信）([関連ツイート](https://twitter.com/megu_shinonome/status/1093080384458248192))
 - **02/15** : [会える！ 話せる！ VTuberおしゃべりフェス on バレンタイン](https://t.livepocket.jp/e/shabefes)
 - **02/16** : [「直感ｘアルゴリズム♪ Tacitly 1st AR LIVE」](http://project-algorhythm.com/news/tacitly1st.php)
-	- **01/28** :メッセージ動画 [第16話　一心【日本語】/直播动漫　麟犀AI韵律♪第二季](https://youtu.be/TBjCW4546kk?t=5726)
+	- **01/28** :メッセージ動画 [第16話　一心【日本語】/直播动漫　麟犀AI韵律♪第二季](https://youtu.be/TBjCW4546kk?t=5726) [name=Live Animation Heart x Algorhythm]
 - **02/20** : オムニ7半日めぐ店長♪ホワイトデーお知らせ配信
 - **02/22** : BS日テレ のばん組　活動一周年特集　メッセージ動画（[ツイート](https://twitter.com/ToriiPro/status/1097712499925733377)）
 - **02/22-03/10** : [「オムニ7ホワイトデー特集ページをジャック！？」コラボ第二弾](https://www.omni7.jp/general/static/whitedayhalfday)
@@ -197,7 +199,7 @@ tags: 東雲めぐ
 - **03/22** : [コンプティーク4月号増刊 Vティーク Vol.3　](https://www.kadokawa.co.jp/product/321808000160/)
 - **03/26** : [SHOWSTAGE 東雲めぐ1st VRライブ](https://gugenka.jp/event/megu_showstage.php)
 - **04/05** : [TOPPA!!インタビュー](https://toppamedia.com/interview-2019-4-shinonome-megu/)
-	- [動画メッセージ](https://youtu.be/bQaJ5Tsm-Zw)
+	- [動画メッセージ](https://youtu.be/bQaJ5Tsm-Zw) [name=TOPPA!! Channel]
 - **04/06** : [東雲めぐ17歳お誕生日会 in cluster](https://cluster.mu/e/4244e3e6-32c0-11ea-ba92-0ef3638656a6)
     - イベントの後にSHOWROOMでアフターパーティ配信
     <!-- - [アーカイブ動画（YouTube）](https://youtu.be/FGIZU2mOFM0) -->
@@ -205,7 +207,7 @@ tags: 東雲めぐ
     - SHOWSTAGEVRライブアーカイブ機能のクローズドテスト
 - **04/11** : [いばキラTV ニコ生出張特番](https://live2.nicovideo.jp/watch/lv319322695)
 - **04/14** : [虚拟主播冰火歌回](https://www.bilibili.com/blackboard/live/activity-vtbsing.html)
-	- [アーカイブ1](https://www.bilibili.com/video/BV19b411L7RD?p=2)，[アーカイブ2](https://www.bilibili.com/video/BV1Mb411j7ap)
+	- [アーカイブ1（全日程）](https://www.bilibili.com/video/BV19b411L7RD?p=2)，[アーカイブ2（2日目）](https://www.bilibili.com/video/BV1Mb411j7ap)
 - **04/26** : [Mirrativ、人気VTuber東雲めぐ（しののめめぐ）の特別ギフトアイテム「とらんぴ」「たくあんマン」の提供を開始！](https://prtimes.jp/main/html/rd/p/000000038.000033025.html)
 - **04/27** : キッズボンボン「[とんとんとんとんひげじいさん](https://youtu.be/LUyn2QiPyyA)」公開 [name=キッズボンボン]
 - **04/27-04/28** : [ニコ超（茨ひよりの茨城日和）](https://chokaigi.jp/2019/booth/ibakira.html)の生雑談コーナーに二日間ゲスト出演
@@ -222,10 +224,10 @@ tags: 東雲めぐ
 - **05/15-07/15** : [東雲めぐ、秋葉原のツクモeX.看板に登場](http://localpress.jp/niigata/detail.php?id=905)
 - **05/16-05/31** : [マルイノアニメVtuberキャンペーン](https://www.0101.co.jp/403/info/index.html?contents_id=7423)
 - **05/17** : [2019年度5月公開例会第80回新潟ＪＣフォーラム　カルチャーの未来は新潟にある](https://www.niigata-jc.com/2019/jigyo-detail/?file=4135cb43316bbfb7)
-    - [告知動画](https://youtu.be/5TbwbXlf16w)，[当日のアーカイブ](https://youtu.be/eSc9Dkg-Xj8)
+    - [告知動画](https://youtu.be/5TbwbXlf16w)，[当日のアーカイブ](https://youtu.be/eSc9Dkg-Xj8) [name=niigatajc]
 - **05/17-05/31** : MakeAvatarリリースを記念して[青春Vフォトコンテスト](https://gugenka.jp/ma_photoconte/)を開催
 - **05/18** : 「MonsterZ MATE 1st Anniversary Live ～俺らがやらねば誰がやる～」にゲスト出演([ツイート](https://twitter.com/megu_shinonome/status/1129748322934247424))
-	- [ダイジェスト動画](https://youtu.be/iIebE3t55c4)
+	- [ダイジェスト動画](https://youtu.be/iIebE3t55c4) [name=SPWN]
 - **05/25** : キッズボンボン「[こどもの歌メドレー](https://youtu.be/UWO6qEza6JU)」公開 [name=キッズボンボン]
 - **05/25** : 「はっぴーパトロール♪たくあんマン」イオンシネマ上映会(イオンシネマワンダー)
 - **05/29** : ニッポン放送「YuNiのオールナイトニッポンi」(Colon:)ゲスト出演([関連記事](https://vtuber-post.com/news/news-movie/8134))
@@ -239,30 +241,30 @@ tags: 東雲めぐ
 - **06/27-06/30** : [SHOWROOM×PARCO オリジナルアパレルProject](https://www.showroom-live.com/campaign/apparel_sales) ポップアップストア
 - **06/28** : [『MIXTRUMP』シングルマークシリーズで東雲めぐトランプが発売](https://mixtrump.base.ec/items/21265205)
 - **07/02-07/23** : 「たくあんマン」おはスタ出演（毎週火曜「れいぞうこのつけの すけ!」内）
-	- [**07/02**](https://youtu.be/c2qBB9T8vR0)，[**07/08**](https://youtu.be/dzrw9d0ENws)，[**07/15**](https://youtu.be/BVbaKU4jJ4s)，[**07/23**](https://youtu.be/y8hRIn-jfKQ)
+	- [**07/02**](https://youtu.be/c2qBB9T8vR0)，[**07/08**](https://youtu.be/dzrw9d0ENws)，[**07/15**](https://youtu.be/BVbaKU4jJ4s)，[**07/23**](https://youtu.be/y8hRIn-jfKQ) [name=SHOPRO]
 - **07/12** : キッズボンボン「[パンダうさぎコアラ](https://youtu.be/izlpSSgMThg)」公開 [name=キッズボンボン]
 - **07/22** : となりの研究生マシマヒメコ。のツナましステージ誕生日スペシャル！
 - **07/30** : [東雲めぐの はぴふりCh #1](https://cluster.mu/e/422d1ea1-32c0-11ea-ba92-0ef3638656a6) (cluster)
 - **08/01** : 花譜ファーストワンマンライブ「不可解」 応援メッセージ
 - **08/02-08/23** : [ぐみのうたダンス2019キャンペーン](https://gummysday.jp/#campaign04)
 - **08/10-08/11** : [レインボータワーVR (新潟まつり「お祭り広場」会場　新潟ＪＣブース)](http://localpress.jp/niigata/detail.php?id=925&s=1&c=0&free=&i=0&a=)
-- **08/15** : [ぶいおん!! MUSIC LIVE](https://youtu.be/I8MrGFG8Bco)
+- **08/15** : [ぶいおん!! MUSIC LIVE](https://youtu.be/I8MrGFG8Bco) [name=REALITY Studio]
     - [REALITY FESTIVAL 3](https://reality-festival.wrightflyer.net/)
     	- [REALITY FESTIVAL3 -ダイジェスト-](https://youtu.be/WcffxYZD0z8)
     	- [「建築王 -チーム対抗マイクラコンテスト-」2019年8月15日放送 チームたまき組](https://youtu.be/2OW_8A4kOto)
-- **08/17** : [TUBEOUT!SESSIONS vol.2](https://youtu.be/SowoWYFraL4)
+- **08/17** : [TUBEOUT!SESSIONS vol.2](https://youtu.be/SowoWYFraL4) [name=TUBEOUT!]
 - **08/17** : まひすてーじ　〜奏天まひろ活動一周年記念パーティ〜 （メッセージ動画）([関連ツイート](https://twitter.com/water20/status/1162654881531887616))
 - **08/18** : [大阪デザイナー専門学校スペシャルドリームキャンパス](https://www.odc.ac.jp/?post_type=news&p=18931)([関連ツイート](https://twitter.com/osaka_design/status/1154223169391099904))
 - **08/25** : [ハチピ誕生日会 in cluster](https://cluster.mu/e/42508df0-32c0-11ea-ba92-0ef3638656a6)([関連ツイート](https://twitter.com/water20/status/1165635372556025856))
 - **08/25** : [Vサマ！ DAY2](https://vark.co.jp/event/virtual-summer-fest-2019/)
-- **08/27** : [「DIVE XR FESTIVAL」特番](https://youtu.be/u0XczadL_2Y)
+- **08/27** : [「DIVE XR FESTIVAL」特番](https://youtu.be/u0XczadL_2Y) [name=DIVE XR FESTIVAL]
 - **08/28** : [VTuberおしゃべりフェス2019夏](https://www.oshaberi-fes.com/)
 - **08/29-09/01** : [東雲めぐ直筆 たくあんマンデジタル版画 (Webアーカイブ)](https://web.archive.org/web/20191202061615/https://gugenka-marketplace.jp/takuanman-art.php)
 	- **08/29** : 特別配信 ([関連ツイート](https://twitter.com/Gugenka_info/status/1166639886050287616))
 	- [販売ページ](https://xr-marketplace.com/package/119)
 	- **09/02** : [プレスリリース](https://prtimes.jp/main/html/rd/p/000000298.000002323.html)
-- **09/03** : [「DIVE XR FESTIVAL」特番](https://youtu.be/LRNoKt_yhms)
-- **09/13** : [「DIVE XR FESTIVAL」特番](https://youtu.be/HHtzxYc4bBQ)
+- **09/03** : [「DIVE XR FESTIVAL」特番](https://youtu.be/LRNoKt_yhms) [name=DIVE XR FESTIVAL]
+- **09/13** : [「DIVE XR FESTIVAL」特番](https://youtu.be/HHtzxYc4bBQ) [name=DIVE XR FESTIVAL]
 - **09/21** : キッズボンボン「[大きな栗の木の下で](https://youtu.be/nfR7kBu31qU)」公開 [name=キッズボンボン]
 - **09/21** : [東雲めぐのはぴふりCh　#2](https://cluster.mu/events/74e1192c-bd5a-4914-9036-7c7d56ca2e8e) (cluster)
 	- [冒頭一部中継（YouTube）](https://youtu.be/SqrLBmdKHTo)
@@ -274,7 +276,7 @@ tags: 東雲めぐ
 - **09/29** : 『キラー・メイズ』同時視聴鑑賞会<!--https://shinonomemegu.com/pages/special?p=kanshokai_2--> ([Webアーカイブ](http://archive.md/20200719103152/https://shinonomemegu.com/pages/special?p=kanshokai_2))
 	- [アーカイブ（YouTube）](https://youtu.be/4bPjIlgV8u8)
 - **10/06** : [SURPRIZEBOX定期販売開始](https://surprisebox.jp/lineup/shinonome-megu)
-- **10/11** : [Gatebox Video - PV 「Gatebox for Creators」](https://youtu.be/aVtCIHuVpyw) 出演
+- **10/11** : [Gatebox Video - PV 「Gatebox for Creators」](https://youtu.be/aVtCIHuVpyw) 出演 [name=Gatebox]
 - **10/15** : [ビッグエコー×東雲めぐ「みんなで歌王!!ランキング」](https://big-echo.jp/shinonomemegu_utaou_ranking/)[第一回](https://youtu.be/xjReKrAWzAc)
     - 詳細情報<!--https://shinonomemegu.com/pages/special?p=utaou_ranking--> ([Webアーカイブ](https://megalodon.jp/2020-0719-1932-44/https://shinonomemegu.com:443/pages/special?p=utaou_ranking))
 - **10/17** : [『東雲名作朗読劇』Gatebox で配信開始](https://video.gatebox.ai/User/f2570e0f-51c7-40ca-87e4-187fc00597cd)
@@ -298,7 +300,7 @@ tags: 東雲めぐ
 - **11/30** : キッズボンボン「[あわてんぼうのサンタクロース](https://youtu.be/FFQaItS43j0)」公開 [name=キッズボンボン]
 - **12/06** : [Vtuber night 東雲めぐちゃんイベント](https://spwn.jp/events/191206-vtubernight)
 - **12/20** : [東雲めぐクリスマスライブ](https://www.showstage.live/lives/859f4452-ad1a-4f45-abf3-f25c206c0017) (SHOWSTAGE)
-- **12/22** : [ぶいおん!! Xmas MUSIC LIVE](https://youtu.be/yzY1X3gTh-Q)
+- **12/22** : [ぶいおん!! Xmas MUSIC LIVE](https://youtu.be/yzY1X3gTh-Q) [name=REALITY Studio]
 - **12/26** : 『男はつらいよ』（第1作）同時視聴鑑賞会<!--https://shinonomemegu.com//pages/special?p=kanshokai_4--> ([Webアーカイブ](https://megalodon.jp/2020-0719-1937-08/https://shinonomemegu.com:443//pages/special?p=kanshokai_4))　事前配信
 	- [松竹ホームエンターテインメントとのコラボ](https://twitter.com/shochiku_video/status/1210020408071602176)
 - **12/29** : 『男はつらいよ』（第1作）同時視聴鑑賞会<!--https://shinonomemegu.com//pages/special?p=kanshokai_4--> ([Webアーカイブ](https://megalodon.jp/2020-0719-1937-08/https://shinonomemegu.com:443//pages/special?p=kanshokai_4))
@@ -394,12 +396,12 @@ tags: 東雲めぐ
 
 ### 2021
 - **01/23** : ボンボンアカデミー「[はじまるよ](https://youtu.be/ItBtZaP6IgY)」公開 [name=ボンボンアカデミー]
-- **02/05** : [【#ミクランド】MIKU LAND β Snow World 2021前夜祭](https://youtu.be/EFisiG0Ulkc)
+- **02/05** : [【#ミクランド】MIKU LAND β Snow World 2021前夜祭](https://youtu.be/EFisiG0Ulkc) [name=VirtualCast公式チャンネル]
 - **02/06-02/07** : [MIKU LAND β Snow World 2021](https://mikuland.com/2021snow/index.html)
 	- [【ライブコマース】「MIKU LAND」公式キャストの東雲めぐが、会場からミクランド商品を紹介します！](https://mikuland.com/2021snow/news.html)
 		- [ライブコマースURL](https://gugenka.jp/xlive)
 	- [【#ミクランド】MIKU LAND β Snow World 2021　開会式＆定点放送Day1](https://youtu.be/_unlVPpr0vw)
-	- [【#ミクランド】MIKU LAND β Snow World 2021　Day2＆閉会式](https://youtu.be/AOOeejwKCGg)
+	- [【#ミクランド】MIKU LAND β Snow World 2021　Day2＆閉会式](https://youtu.be/AOOeejwKCGg) [name=VirtualCast公式チャンネル]
 	-  MIKU LAND アコースティックライブ 東雲めぐ×初音ミク
 	-  [デジタルフィギュア「初音ミク／東雲めぐ MIKU LAND β Snow World 2021 衣装」「雪ミク SNOW MIKU 2021 Ver.」](https://gugenka.jp/digital/holomodels_mikuland2021.php)
 		-  [紹介PV](https://youtu.be/INbMtjxi4Yg)
@@ -424,13 +426,13 @@ tags: 東雲めぐ
 - **03/30** : 東雲めぐの高校3年間を振り返る【公式VRショップ】VRショッピングモールXWorld
 	- [紹介動画](https://youtu.be/iO-_YCYaAC4)
 	- [VRChat](https://vrchat.com/home/world/wrld_f8a23ad1-ff94-4c2f-b0c9-a5074b19748b)
-- **04/01** : [IdentityV「心音MAX祭」三夜連続狂宴　Day1](https://youtu.be/rn5jQTdOatM) 協力サバイバー（2戦目）
+- **04/01** : [IdentityV「心音MAX祭」三夜連続狂宴　Day1](https://youtu.be/rn5jQTdOatM) 協力サバイバー（2戦目） [name=『IdentityV 第五人格』公式チャンネル]
 - **04/10** : [東雲めぐ お誕生日ハイタッチ会](https://gugenka.jp/event/megu_2021birthday.php)
 	- [ご招待チケット お誕生日ハイタッチ会](https://xr-marketplace.com/package/367)
 - **04/16-06/20** : 東京アニメセンター特別店員 （[原作30周年記念展 クレヨンしんちゃん オラのミリョク新発見だゾ](https://tokyoanimecenter.jp/event/shinchan/)）
 	- [【東京アニメセンター】クレヨンしんちゃん企画展解説](https://youtu.be/0VtYph7RVKw)
 	- [【東京アニメセンター】クレヨンしんちゃんグッズ販売_01](https://youtu.be/MQSey2NG4Uw)
-	- [【東京アニメセンター】クレヨンしんちゃんグッズ販売_02](https://youtu.be/hlzDrVHh5no)
+	- [【東京アニメセンター】クレヨンしんちゃんグッズ販売_02](https://youtu.be/hlzDrVHh5no) [name=FUN'S PROJECT公式]
 	- **06/05** : [バーチャルツアー(cluster)](https://cluster.mu/e/663044ee-238f-438e-8487-19ddc42407ed)（[ダイジェスト動画](https://youtu.be/SxlMYynTkYU)）
 - **04/24** : ボンボンアカデミー「[ももたろう](https://youtu.be/kNxrxtTGvuM)」公開 [name=ボンボンアカデミー]
 - **04/24-04/25** : [バーチャルクラフ特区](https://www.gugenka.net/craftok) アンバサダー
@@ -439,7 +441,7 @@ tags: 東雲めぐ
 - **04/29-05/01** : [MIKU LAND β mini　YOSAKURA](https://mikuland.com/yosakura/index.html)
 	- [【#ミクランド】MIKU LAND β mini YOSAKURA 開会式&1日目 in バーチャルキャスト](https://youtu.be/7M7m0ufZDYM)
 	- [【#ミクランド】MIKU LAND β mini YOSAKURA 2日目 in バーチャルキャスト](https://youtu.be/nWACAyKmxLY)
-	- [【#ミクランド】MIKU LAND β mini YOSAKURA 3日目&閉会式 in バーチャルキャスト](https://youtu.be/cSeiehOwl9o)
+	- [【#ミクランド】MIKU LAND β mini YOSAKURA 3日目&閉会式 in バーチャルキャスト](https://youtu.be/cSeiehOwl9o) [name=VirtualCast公式チャンネル]
 	-  [初音ミク×東雲めぐ-アコースティックLIVE-](https://mikuland.com/yosakura/shop.html#anchor07)
 		- ニコニコ動画・YouTubeにてMIKU LANDの定点放送にてライブの様子を配信いたします。※１回のみ・日時未定
 - **05/07-05/08** : [スレイヤーズ30周年記念イベント！リナ3Dライブ＆VTuber（風）動画配信](https://gugenka.jp/event/slayers_event.php) ポストプロセッシング ([ソース(ツイート)](https://twitter.com/ctake_shimez/status/1390649567780106250))
@@ -449,12 +451,12 @@ tags: 東雲めぐ
 	- とちぎ630（[ツイート](https://twitter.com/megu_shinonome/status/1402565149664288770)，[関連記事](https://www3.nhk.or.jp/lnews/utsunomiya/202106**09/10**90009831.html)）
 - **06/26** : ボンボンアカデミー「[かえるの合唱](https://youtu.be/gIuntTOH6UA)」公開 [name=ボンボンアカデミー]
 - **06/26** : [GEMS COMPANYのさらば、ラジオ。](http://anitama.com/gc/) ゲスト ([ツイート](https://twitter.com/megu_shinonome/status/1408742356258484224))
-	- [【ジェムカン】GEMS COMPANYのさらば、ラジオ。#65【さらば青春の光】](https://youtu.be/ui2vqzlY65w)(アーカイブ)
+	- [【ジェムカン】GEMS COMPANYのさらば、ラジオ。#65【さらば青春の光】](https://youtu.be/ui2vqzlY65w)(アーカイブ) [name=GEMS COMPANY公式チャンネル]
 - **06/26-07/03** : [クラフ特区ファンタジー](https://www.gugenka.net/craftok-fantasy)
 	- **05/17** : [選手向け説明会](https://youtu.be/8WqDWLqXtVY)
 	- **06/04** : [VTuber大会](https://youtu.be/R4WuoPgOaZE)
-		- [藤宮コトハ視点](https://youtu.be/dXVV0-vM_TA)
-		- [暁月クララ視点](https://youtu.be/iY-NN5WEHqI)
+		- [藤宮コトハ視点](https://youtu.be/dXVV0-vM_TA) [name=ことはちゃんねる]
+		- [暁月クララ視点](https://youtu.be/iY-NN5WEHqI) [name=暁月クララ / Akatsuki Clara 【パレプロ / Palette Project】]
 		- [ダイジェスト動画](https://youtu.be/de49StiPu80)
 	- **06/25** : [🔴【VRで〇×クイズ】自作スライムアバターのコンテスト結果を発表！｜Gugenka主催『クラフ特区ファンタジー』前夜祭](https://youtu.be/XDQpgOOPWTE)
 		- [ダイジェスト動画](https://youtu.be/oZ4J62WTIEE)
@@ -463,22 +465,22 @@ tags: 東雲めぐ
 	- **07/03** : [🔴【VRで〇×クイズ】7月3日(土)開催！最強のスライムがついに決まる…！！｜ Gugenka®主催「クラフ特区ファンタジー」本選](https://youtu.be/vQTTTikFUDU)
 - **07/09** : [怒涛の50組お祝いコメントが到着!! まりなす、メジャーデビューアルバム「SUPERNOVA」リリース](https://panora.tokyo/archives/29358)
 - **07/15** : AniCast Maker [東雲めぐ コラボアセット](https://anicast-maker.com/asset/detail/3) 発売
-- **07/15** : [開催決定！MIKU LAND 2021 SUMMER VACATION【#ミクランド】](https://youtu.be/pljjkcKJRz4) NA
+- **07/15** : [開催決定！MIKU LAND 2021 SUMMER VACATION【#ミクランド】](https://youtu.be/pljjkcKJRz4) NA [name=VirtualCast公式チャンネル]
 - **07/24** : ボンボンアカデミー「[うみ](https://youtu.be/atKUC8NYI7I)」公開 [name=ボンボンアカデミー]
 - **07/30-09/12** : [クラフ特区O-City](https://door.ntt/web/event/craftok-ocity.html)
 	- [特設サイト](https://craftok.jp/ocity)
 	- [【VRで暮らす】バーチャル空間で推しのVTuberの町に暮らそう！｜Gugenka®主催「クラフ特区O-City」入居者向け説明会](https://youtu.be/Aj5FX-8oxMI)
 	- **09/12** : 第1回交流会([関連ツイート](https://twitter.com/megu_shinonome/status/1436982243671502851))
 - **08/06** : [がんばるぅ子3周年Anniversaryライブ「Cheer」](https://www.showstage.live/lives/b728a1fc-9f0f-4893-b57a-de8671e298b3) お祝い動画　（[関連ツイート](https://twitter.com/ganbaruuko/status/1423655556753989634)）
-	- [【#がんばるぅ子誕生日】おたんじょうびお祝い！【がんばるぅ子】](https://youtu.be/4-vaPtKluug?t=2139) 内で紹介
+	- [【#がんばるぅ子誕生日】おたんじょうびお祝い！【がんばるぅ子】](https://youtu.be/4-vaPtKluug?t=2139) 内で紹介 [name=がんばるぅ子 RUUKO CHANNEL]
 - **08/13**: [SURPRIZEBOX ハロウィン限定特別企画](https://surprisebox.jp/lineup/shinonome-megu) 申込受付開始
 - **08/21-09/30** : バーチャルシネマ [MIKU LAND ミクめぐツアー2021夏](https://www.aevc.aeoncinema.com/movie/detail/507)　上映
 - **08/27-10/28** : バーチャルシネマ [東雲めぐ　「人魚姫」](https://www.aevc.aeoncinema.com/movie/detail/506)　上映
 - **08/27-08/31** : [MIKU LAND 2021 Summer Vacation](https://mikuland.com/2021summer)
 	- **08/23** : 【初音ミク公式VRワールド】MIKU LAND 2021 SUMMER VACATION 事前紹介特番　新エリアだいたい見せちゃうよスペシャル（[YouTube](https://youtu.be/7_912ezWi2g)，[niconico](https://live.nicovideo.jp/watch/lv333159160)）
-	- **08/27** : 開会式＆Day1 定点放送 （[YouTube](https://youtu.be/MPPm82jjOo4),[niconico](https://live.nicovideo.jp/watch/lv333159442)）
-	- **08/28** : Day2 定点放送 （[YouTube](https://youtu.be/ObeE4NSps40),[niconico](https://live.nicovideo.jp/watch/lv333159522)）
-	- **08/29** : Day3 定点放送 （[YouTube](https://youtu.be/t_PFzrLZW4w),[niconico](https://live.nicovideo.jp/watch/lv333159606)）
+	- **08/27** : 開会式＆Day1 定点放送 （[YouTube](https://youtu.be/MPPm82jjOo4) [name=VirtualCast公式チャンネル],[niconico](https://live.nicovideo.jp/watch/lv333159442)）
+	- **08/28** : Day2 定点放送 （[YouTube](https://youtu.be/ObeE4NSps40) [name=VirtualCast公式チャンネル],[niconico](https://live.nicovideo.jp/watch/lv333159522)）
+	- **08/29** : Day3 定点放送 （[YouTube](https://youtu.be/t_PFzrLZW4w) [name=VirtualCast公式チャンネル],[niconico](https://live.nicovideo.jp/watch/lv333159606)）
 	- **08/27-08/29** : [アコースティックLIVE](https://mikuland.com/event/minilive)
 	- **08/31** : [ボカコレVRナイト in MIKULAND](https://live.nicovideo.jp/watch/lv333042154)（[関連ツイート](https://twitter.com/Mikuland_info/status/1427193421685432331)）
 - **08/28** : ボンボンアカデミー「[南の島のハメハメハ大王](https://youtu.be/3KaFVfU1amM)」公開 [name=ボンボンアカデミー]
@@ -486,24 +488,24 @@ tags: 東雲めぐ
 - **09/24** : [はぴのひ×ウェブポン](https://webpon.net/shop/HPNH/plan/HPNH)
 - **09/25** : ボンボンアカデミー「[5つのメロンパン](https://youtu.be/17_Hh9Sfd1U)」公開 [name=ボンボンアカデミー]
 - **10/18** : [東雲めぐ　見るもの聴くものをハッピーにする多幸的Vtuber](https://media.muevo.jp/articles/8387) - muevo voice
-- **10/21** : [バーチャルキャストショッピング第89回【東雲めぐさんフリー記念＆アウリンBooth店オープン記念放送】](https://youtu.be/1QqTqSdkx2w)
+- **10/21** : [バーチャルキャストショッピング第89回【東雲めぐさんフリー記念＆アウリンBooth店オープン記念放送】](https://youtu.be/1QqTqSdkx2w)  [name=TOKKAちゃんねる]
 - **10/23** : ボンボンアカデミー「[きのこ](https://youtu.be/aqYJl2FuA0Q)」公開 [name=ボンボンアカデミー]
 - **10/31** : [ネットおしゃべりフェス #11](https://t.livepocket.jp/e/shabefes_011) ([関連ツイート](https://twitter.com/shabefes/status/1454717669274357765))
 	- **10/02** : チケット販売開始
-	- [ネットおしゃべりフェス #11 第2部 小純マアメ/東雲めぐ/今羽にこ](https://youtu.be/_4uINIaSzfg)
+	- [ネットおしゃべりフェス #11 第2部 小純マアメ/東雲めぐ/今羽にこ](https://youtu.be/_4uINIaSzfg) [name=PANORA]
 	- [東雲めぐさん　サイン入りチェキ【ネットおしゃべりフェス】](https://shabefes.booth.pm/items/3394820)
 	- [【サイン入り神棚写真（デジタルデータ）付】東雲めぐさんリアルギフティング](https://shabefes.booth.pm/items/3394805)
-- **11/12** : [バーチャルキャストショッピング第92回【ゲスト：東雲めぐさん】](https://youtu.be/HK9uTGM2o2Y)
+- **11/12** : [バーチャルキャストショッピング第92回【ゲスト：東雲めぐさん】](https://youtu.be/HK9uTGM2o2Y) [name=TOKKAちゃんねる]
 - **11/27** : ボンボンアカデミー「[おめでとうクリスマス](https://youtu.be/Acg5MgI7gF4)」公開 [name=ボンボンアカデミー]
-- **12/04** : [【第1回】 ジラが聞く　バズったことありますか！？ 【 ジラ 東雲めぐ 】 #ジラバズ](https://youtu.be/ka9n0I0U_6k)
+- **12/04** : [【第1回】 ジラが聞く　バズったことありますか！？ 【 ジラ 東雲めぐ 】 #ジラバズ](https://youtu.be/ka9n0I0U_6k) [name=Gila Channel / ジラ]
 	- ビータスクリエイション [ジラが聞く　バズったことありますか？　公式サイト](http://insidesystem.heteml.net/Beatus/buzztalk)
-- **12/06** : [【Vket2021】Vtuberが周るVket2021 秋葉原](https://youtu.be/8SY8iO_dIeU)
+- **12/06** : [【Vket2021】Vtuberが周るVket2021 秋葉原](https://youtu.be/8SY8iO_dIeU) [name=Vket Channel]
 - **12/09** : PASH! PLUS [鏡音リン・レンの誕生日を祝うイベントが“ミクランド”で開催！ ときのそらや東雲めぐからのコメントも到着](https://www.pashplus.jp/event/222330/)
 - **12/11-12/12** : [SANRIO Virtual Fes in Sanrio Puroland](https://v-fes.sanrio.co.jp/) Day1 出演
-	- [「SANRIO Virtual Fes in Sanrio Puroland」出演全アーティスト発表！](https://youtu.be/8-EKWcTn-FM)
-	- **11/19** : [【SANRIO Virtual Fes in Sanrio Puroland特別企画！】東雲めぐちゃんにインタビューしちゃいます！【コラボ配信】](https://youtu.be/xT11gG_QQqQ)
+	- [「SANRIO Virtual Fes in Sanrio Puroland」出演全アーティスト発表！](https://youtu.be/8-EKWcTn-FM) [name=SANRIO PUROLAND CHANNEL]
+	- **11/19** : [【SANRIO Virtual Fes in Sanrio Puroland特別企画！】東雲めぐちゃんにインタビューしちゃいます！【コラボ配信】](https://youtu.be/xT11gG_QQqQ) [name=なつめれんげ【Sanrio Official】]
 - **12/17** : [東雲めぐ×ウェブポン](https://webpon.net/shop/SNNM/plan/SNNM)
-- **12/18** : [【第2回】 ジラが聞く　バズったことありますか！？ 【 ジラ 東雲めぐ 】 #ジラバズ](https://youtu.be/ORF0fY6yKNg)
+- **12/18** : [【第2回】 ジラが聞く　バズったことありますか！？ 【 ジラ 東雲めぐ 】 #ジラバズ](https://youtu.be/ORF0fY6yKNg) [name=Gila Channel / ジラ]
 - **12/20** : [マルイノアニメ×クラフ特区O-Cityコラボ](https://www.0101.co.jp/maruinoanime99/)
 	- **12/24** : O-City市長&ゲストホロモデル発売
 	- **12/30-12/31** : マルイノアニメ×クラフ特区O-Cityコラボ企画 コミックマーケット99
@@ -514,20 +516,21 @@ tags: 東雲めぐ
 - **12/31** : [VTuber62名のコメントが集合 2021年の思い出と2022年の目標は？](https://www.moguravr.com/vtuber-comment-2021/) MoguLive
 
 ### 2022
-- **01/01** : [【第3回】 ジラが聞く　バズったことありますか！？ 【 ジラ 東雲めぐ 】 #ジラバズ](https://youtu.be/z878eIexwnI)
+- **01/01** : [【第3回】 ジラが聞く　バズったことありますか！？ 【 ジラ 東雲めぐ 】 #ジラバズ](https://youtu.be/z878eIexwnI) [name=Gila Channel / ジラ]
 	- [編集ミス修正版](https://youtu.be/dnqlUuFii8k)
 - **01/09** : りなかる！Vol.6　[りなブイ☆VTuber展 in かのや](https://www.renacul.com/renav)
 	- [タイムテーブル（ツイート）](https://twitter.com/renacul/status/1479377282041270277)
-	- [りなブイ☆VTuber展 in かのや　トークステージ③](https://youtu.be/E8cQu5alxH0)
-	- [りなブイ☆VTuber展 in かのや　トークステージ④](https://youtu.be/y2xPjBFMkqU)
-- **01/14** : [バーチャルキャストショッピング第01回【3D新衣装お披露目】](https://youtu.be/uGsvmsP5Ryo) ゲスト
+	- [りなブイ☆VTuber展 in かのや　トークステージ③](https://youtu.be/E8cQu5alxH0) [name=PANORA]
+	- [りなブイ☆VTuber展 in かのや　トークステージ④](https://youtu.be/y2xPjBFMkqU) [name=PANORA]
+- **01/14** : [バーチャルキャストショッピング第01回【3D新衣装お披露目】](https://youtu.be/uGsvmsP5Ryo) ゲスト [name=TOKKAちゃんねる]
 - **01/16** : [ネットおしゃべりフェス　#はぴのひSP](https://t.livepocket.jp/e/shabefes-hapinohi)
-	- [ネットおしゃべりフェス #はぴのひSP 東雲めぐ/天護ねも/エピト/鈴山八広](https://youtu.be/0UJh_35PXlM?t=3000)
+	- [ネットおしゃべりフェス #はぴのひSP 東雲めぐ/天護ねも/エピト/鈴山八広](https://youtu.be/0UJh_35PXlM?t=3000) [name=PANORA]
 	- [はぴのひ　サイン入りチェキ](https://booth.pm/ja/items/3584824)
 - **01/22** : ボンボンアカデミー「[豆まき](https://youtu.be/PTnHkn_MRU8)」公開 [name=ボンボンアカデミー]
-- **02/05** : [【第4回】 ジラが聞く　バズったことありますか！？ 【 ジラ 東雲めぐ 】 #ジラバズ](https://youtu.be/zFQAnkQTQRc)
+- **02/05** : [【第4回】 ジラが聞く　バズったことありますか！？ 【 ジラ 東雲めぐ 】 #ジラバズ](https://youtu.be/zFQAnkQTQRc) [name=Gila Channel / ジラ]
 
 ### 今後の予定
+- **03/27** : [Life Like a Live!3（えるすりー3）](https://lifelikealive.zan-live.com/) 3日目 出演 ([関連ツイート](https://twitter.com/LifeLikeaLive/status/1498213885916110848))
 
 ---
 
@@ -730,3 +733,4 @@ tags: 東雲めぐ
 	- [ポテチをパーティ開けをするタイミングなんて人生でそんなにない│あっくん大魔王・ばぶかす・馬犬・東雲めぐ・インサイドちゃんMark２・魔王マグロナ](https://youtu.be/gAU2nOZXqhE) [name=あっくん大魔王]
 
 ### 今後の予定
+- **03/01** [【VRマーダーミステリー】#3 バーチャル世界で挑む聖者の殉教](https://youtu.be/YSD7077Mew4) [name=九条 林檎【Kujo Ringo Official】]
