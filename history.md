@@ -103,9 +103,12 @@ tags: 東雲めぐ
 - **11/01** : YouTubeメンバーシップ開設
 - **11/01** : [【MV】ぼくらのワンダーランド / 東雲めぐ【オリジナル曲】](https://youtu.be/fxlR6CLkfUI) 公開<!--- **11/11** : アイドルユニットLowCalorie [YouTubeチャンネル](https://www.youtube.com/channel/UCyIRICrmHDsiRax2iwKoXjA)開設-->
 - **12/11** : [【MV】Shout At The Sky / 東雲めぐ【オリジナル曲】](https://youtu.be/gtEls8hnXcs) 公開
+### 2022
+- **04/06** : 誕生日(20歳)
+	-  [【もうすぐ誕生日】10代ラスト配信！【カウントダウン】](https://youtu.be/pYUy2d97OAA)
+	-  [【お誕生日】二十歳になりました！【飲酒配信】](https://youtu.be/LGZfJiBhPZQ)
 
 ### 今後の予定
-- **04/06** : 誕生日(20歳) 
 
 ---
 
@@ -528,9 +531,19 @@ tags: 東雲めぐ
 	- [はぴのひ　サイン入りチェキ](https://booth.pm/ja/items/3584824)
 - **01/22** : ボンボンアカデミー「[豆まき](https://youtu.be/PTnHkn_MRU8)」公開 [name=ボンボンアカデミー]
 - **02/05** : [【第4回】 ジラが聞く　バズったことありますか！？ 【 ジラ 東雲めぐ 】 #ジラバズ](https://youtu.be/zFQAnkQTQRc) [name=Gila Channel / ジラ]
+- **03/05** : [【第5回】 ジラが聞く　バズったことありますか！？ 【 ジラ 東雲めぐ 】 #ジラバズ](https://youtu.be/5jSiv5UuC70) [name=Gila Channel / ジラ]
+- **03/20** : [【緊急生放送＆最終回】 ジラが聞く　バズったことありますか！？ 【 ジラ 東雲めぐ 】 #ジラバズ](https://youtu.be/LG3Ke_Q6CFc) [name=Gila Channel / ジラ]
+- **03/27** : [Life Like a Live!3（えるすりー3）](https://lifelikealive.zan-live.com/) 3日目 出演 ([関連ツイート](https://twitter.com/LifeLikeaLive/status/1498213885916110848))
+	- [メッセージ動画(Twitter)](https://twitter.com/LifeLikeaLive/status/1506209077763854339)
+- **03/28-04/12** : 東雲めぐ×秋葉原和堂 東雲めぐの桜色ワンダーランドカフェ ([関連ツイート](https://twitter.com/akiba_nagomido/status/1499595863374516224))
+	- [コラボカフェ開催のお知らせ動画](https://youtu.be/K_Veyal3U1w) [name=秋葉原和堂　カフェ・ネットカフェ・漫画喫茶]
+	- **04/02,04/10** : [「東雲めぐの桜色ワンダーランドカフェ」トークショー＠秋葉原和堂](https://t.livepocket.jp/t/kb-25)
+		- [4/2 第一部 配信](https://youtu.be/rDuLq4Xhf94) [name= PANORA]
+		- [4/2 第二部 配信](https://youtu.be/fi_SScgiues) [name= PANORA]
+- **04/01** : [東雲めぐ成人直前緊急インタビュー　まだ満足していない！ ファンへの感謝と今後の野望を語る](https://panora.tokyo/archives/46585)
 
 ### 今後の予定
-- **03/27** : [Life Like a Live!3（えるすりー3）](https://lifelikealive.zan-live.com/) 3日目 出演 ([関連ツイート](https://twitter.com/LifeLikeaLive/status/1498213885916110848))
+- **04/28-05/01** : [MIKU LAND 2022 YOSAKURA 公式アンバサダー](https://mikuland.com/news/news2022_0317)（[プレスリリース](https://prtimes.jp/main/html/rd/p/000000009.000096446.html)）
 
 ---
 
@@ -731,6 +744,12 @@ tags: 東雲めぐ
 	- [陰キャなんでパーティゲームって一人でやるものだと思ってました。【馬犬/ばぶかす/東雲めぐ/つーちゃん/魔王マグロナ/あっくん大魔王】](https://youtu.be/ptc5eLnM15c) [name=インサイドちゃん -INSIDEChan Sisters-]
 	- [陽なる者どものパーティゲームはいしん【ばぶかす/馬犬/東雲めぐ/インサイドちゃんMark２/あっくん大魔王/魔王マグロナ】](https://youtu.be/o8O6_ZSCkK8) [name=Magrona channel / まぐろなちゃんねる]
 	- [ポテチをパーティ開けをするタイミングなんて人生でそんなにない│あっくん大魔王・ばぶかす・馬犬・東雲めぐ・インサイドちゃんMark２・魔王マグロナ](https://youtu.be/gAU2nOZXqhE) [name=あっくん大魔王]
+- **03/01** : [【VRマーダーミステリー】#3 バーチャル世界で挑む聖者の殉教](https://youtu.be/YSD7077Mew4) [name=九条 林檎【Kujo Ringo Official】]
+- **03/15** : [ぽんぽこちゃんとお花見行ったら喧嘩になった #Shorts](https://youtu.be/SYI3QMCd-to)
+- **03/25** : [【第2回陰陽大戦】みんなで仲良くゴルフしよ～！【東雲めぐ視点】](https://youtu.be/0ak8_OWMx9U)
+	- [泥沼Golf It杯！帰ってきた陰陽大戦│ばぶかす・馬犬・東雲めぐ・インサイドちゃんMark２・魔王マグロナ・あっくん大魔王](https://youtu.be/DiDNcdQN1Mg) [name=ばぶかす / VAV-KAS]
+- **04/02** : [九条林檎バーチャルライブ大実験Ⅱ](https://virtualcast.jp/blog/2022/03/ringolive2/)
+	-  [『バーチャルライブ大実験Ⅱ』同時配信【九条林檎】](https://youtu.be/TY5MqybkUQs)[name=九条 林檎【Kujo Ringo Official】]
 
 ### 今後の予定
-- **03/01** [【VRマーダーミステリー】#3 バーチャル世界で挑む聖者の殉教](https://youtu.be/YSD7077Mew4) [name=九条 林檎【Kujo Ringo Official】]
+- **xx/xx** : 第2回 シン・アモングアス
