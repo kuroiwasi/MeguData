@@ -63,6 +63,7 @@ tags: 東雲めぐ
 - **04/06** : 誕生日(17歳) 
 - **04/07** : [たくあんマンの公式YouTubeチャンネル（【公式】たくあんマン）](https://www.youtube.com/channel/UCAfKJSwWtVuRFlD2SusrRIQ)開設
 - **04/07** : ロゴマークが決定<!--https://shinonomemegu.com/contents/238248--> ([Webアーカイブ](https://megalodon.jp/2020-0719-1911-23/https://shinonomemegu.com:443/contents/238248))
+- **04/08** : [TikTok (@megu_shinonome)](https://www.tiktok.com/@megu_shinonome) 初投稿
 - **05/27** : SHOWROOMとVoicyを隔週交代制に変更
 - **05/29** : 東雲めぐ1st シングル『fun fun fan』リリース
 - **06/14** : たくあんマン[Twitter（@TAKUAN_MAN）](https://twitter.com/TAKUAN_MAN)開始
@@ -103,6 +104,7 @@ tags: 東雲めぐ
 - **11/01** : YouTubeメンバーシップ開設
 - **11/01** : [【MV】ぼくらのワンダーランド / 東雲めぐ【オリジナル曲】](https://youtu.be/fxlR6CLkfUI) 公開<!--- **11/11** : アイドルユニットLowCalorie [YouTubeチャンネル](https://www.youtube.com/channel/UCyIRICrmHDsiRax2iwKoXjA)開設-->
 - **12/11** : [【MV】Shout At The Sky / 東雲めぐ【オリジナル曲】](https://youtu.be/gtEls8hnXcs) 公開
+
 ### 2022
 - **03/29** : [【漫画MV】Dream Connection / 東雲めぐ【オリジナル曲】](https://youtu.be/v7r5CD9370Q) 公開
 - **04/06** : 誕生日(20歳)
@@ -111,6 +113,7 @@ tags: 東雲めぐ
 	-  [【祝】東雲めぐ爆誕祭！！！【20歳】](https://youtu.be/XHwte1R_PcM)
 
 ### 今後の予定
+- **06/30** : となりのめぐちゃんアラーム，めぐあーとキッズペイント 配信終了
 
 ---
 
@@ -236,7 +239,7 @@ tags: 東雲めぐ
 - **05/25** : キッズボンボン「[こどもの歌メドレー](https://youtu.be/UWO6qEza6JU)」公開 [name=キッズボンボン]
 - **05/25** : 「はっぴーパトロール♪たくあんマン」イオンシネマ上映会(イオンシネマワンダー)
 - **05/29** : ニッポン放送「YuNiのオールナイトニッポンi」(Colon:)ゲスト出演([関連記事](https://vtuber-post.com/news/news-movie/8134))
-    - Colon:サービス終了により20**20/08**現在[PODCAST STATION](https://podcast.1242.com/show/yuni/)にてアーカイブ
+    - Colon:サービス終了により2020/08現在[PODCAST STATION](https://podcast.1242.com/show/yuni/)にてアーカイブ
 - **05/30** : [「SHOWROOM V」アプリアップデート記念総額100万円プレゼントキャンペーン　審査員](https://campaign.showroom-live.com/showroom-v/news/20190530/)
 - **06/08** : 「はっぴーパトロール♪たくあんマン」イオンシネマ上映会(イオンシネマ大野城)
 - **06/09-07/04** : メルカリにて[『はぴふりボトルメール』プロジェクト](https://gugenka.jp/bottlemail/)を実施([関連動画](https://youtu.be/s77X4TnKupg))
@@ -550,12 +553,19 @@ tags: 東雲めぐ
 - **04/28-05/01** : [MIKU LAND 2022 YOSAKURA 公式アンバサダー](https://mikuland.com/news/news2022_0317)（[プレスリリース](https://prtimes.jp/main/html/rd/p/000000009.000096446.html)）
 	- **04/28** : [【MIKULAND2022】ミクランドに遊びに行ってきた！【 #ミクランド内覧会 】](https://youtu.be/mJLkiTgdync)
 	- **04/28** : [【#ミクランド】2022 YOSAKURA 開園直前！新エリア紹介SP & 開会式@ニコニコ超会議2022【4/28】](https://live.nicovideo.jp/watch/lv336434620)
-	- **04/30** : [ボカコレVRナイト in MIKULAND](https://mikuland.com/vrnight) （配信: [ニコニコ生放送](https://live.nicovideo.jp/watch/lv336445323)）
+	- **04/30** : [ボカコレVRナイト in MIKULAND](https://mikuland.com/vrnight) （配信: [ニコニコ生放送](https://live.nicovideo.jp/watch/lv336445323), アーカイブ: [YouTube](https://youtu.be/4OUyE9YPRyA)）
 	- **05/01** : [初音ミクのLIVEコマース in MIKULAND](https://livebuy.line.me/broadcasts/yjwexPjUCQZi2uCR)
 	- **05/01** : [【#ミクランド】Vキャスちゃんねる特別編　ミクランド閉会式SP【5/1】](https://live.nicovideo.jp/watch/lv336522768)
+- **04/30** : ボンボンアカデミー 「[世界中のこどもたちが](https://youtu.be/DL3ugh-nmNA)」公開 [name=ボンボンアカデミー]
+- **05/28** : [むいまる祭 1st Anniversary](https://passmarket.yahoo.co.jp/event/show/detail/02wsc9sni9c21.html) [1部ゲスト](https://www.fscratch.jp/230/)
+- **05/28** : ボンボンアカデミー 「[ふしぎなポケット](https://youtu.be/KCHBHHycVkM)」公開 [name=ボンボンアカデミー]
+- **06/08** : [PRIROLL コラボスイーツ](https://priroll.jp/shopbrand/ct7778/) 販売開始（[関連ツイート](https://twitter.com/happypriroll/status/1534369623860289536)）
+    - **05/24** : [【PRIROLL】スイーツコラボ！？【可愛すぎる】 #Shorts](https://youtu.be/4URr2bUguS0)
+- **07/01** : [VCTEC 2022](https://vctec.io/week/vctec2022/) メタバースガイドツアー [アバターガイド](https://prtimes.jp/main/html/rd/p/000000144.000039863.html)
 
 ### 今後の予定
-
+- **08/05-08/07** : [TOKYO IDOL FESTIVAL 2022](https://official.idolfes.com/s/tif2022/) 出演
+    - バーチャルTIF
 ---
 
 ## 外部配信者コラボ・企画等
@@ -731,7 +741,7 @@ tags: 東雲めぐ
     - [【Among Us】インポスターとクルーしか知らないわたしの宇宙に新役職が #シン・アモアス【大浦るかこ / あにまーれ】](https://youtu.be/stzq7DsfkCw) [name=Rukako Channel / 大浦るかこ 【あにまーれ】]
     - [【Among Us】新役職あっても大丈夫か！？宇宙人狼【#シンアモアス】](https://youtu.be/INJgdqNgaPQ) [name=神楽すず]
     - [【#シン・アモアス】はじめまして、新役職のたみーです【愛園愛美/東雲めぐ/ヤマトイオリ/たみー/天城てん/歌衣アズミ/ユキミお姉ちゃん/神楽すず/エルセ/大浦るかこ 】](https://youtu.be/V9apahIKsz4) [name=たみーCh / 民安ともえ]
-    - [【Among Us】役職がくわっわった宇宙人狼 #シンアモアス 【】](https://youtu.be/cNeqMwLV8L4) [name=ヤマト イオリ]
+    - [【Among Us】役職がくわっわった宇宙人狼【 #シンアモアス】](https://youtu.be/cNeqMwLV8L4) [name=ヤマト イオリ]
 - **12/24** : [【ころねぽち】ぼうけんのしょがきえました！（cover）【東雲めぐ】](https://youtu.be/n-Bqsk1MBos)
 - **12/25** : [【まったり】みんなでクリスマス会🎄【シークレットゲストも！】](https://youtu.be/V4qGLwBG7pc)
 	- ゲスト：aika，江戸レナ
@@ -763,6 +773,30 @@ tags: 東雲めぐ
 - **04/02** : [九条林檎バーチャルライブ大実験Ⅱ](https://virtualcast.jp/blog/2022/03/ringolive2/)
 	-  [『バーチャルライブ大実験Ⅱ』同時配信【九条林檎】](https://youtu.be/TY5MqybkUQs)[name=九条 林檎【Kujo Ringo Official】]
 - **04/28** : [【#超初心者えぺ】APEX初心者グループ【らいちゃんとエピト】](https://www.twitch.tv/videos/1468346927)
+	- [【APEX】初心者だらけのAPEX！！リターンズ！！](https://youtu.be/hrJy28flO5I) [name=九条 茘枝 【Kujo Lychee Official】 ]
+- **05/04** : [【VR凸待ち】1時間でYouTuber、何人来る？](https://youtu.be/ei7rZFSlOig) [name=おめがシスターズ Ω Sisters]
+- **05/05** : [【#超初心者えぺ】APEX初心者グループ【らいちゃんとエピト】](https://www.twitch.tv/videos/1474801811)
+- **05/05** : [【蕎麦屋プレゼンツ】VRメルヘン村で遊ぼう！](https://youtu.be/VvzJZ3P7Q5Q)
+- **05/08** : [【第３部】おはよー！！朝だ！！まだまだ続くぞ！！２４時間生放送！！眠気に爆笑！！ぽんぽこ24vol.6 ～フューチャー～](https://youtu.be/FA7zFxdiJ1g) [name=ぽんぽこちゃんねる]
+- **05/17** : [【#チーム金髪とマゼンタ】みんなでフォールガイズ！【まったり】](https://youtu.be/pzpcuAp3cxI)
+	- [【Fallguys】チーム金髪とマゼンタによるFallguysです【チーム金髪】](https://youtu.be/0cyGkuM1DyQ) [name=九条 茘枝 【Kujo Lychee Official】 ]
+- **05/20** : [【コラボ晩酌】20歳になっためぐちゃんと飲んじゃうよ💓／東雲めぐ＆奏みみ【#スナックみみ 】](https://youtu.be/NKS6JDm0ifw) [name=KANADE MiMi ch.]
+- **05/22** : [【都市伝説】おめシスに歌担当の人がいたドッキリ](https://youtu.be/ZBFAuNEwmv0) [name=おめがシスターズ Ω Sisters]
+- **05/26** : [【蕎麦屋プレゼンツ】ぶっちゃけ！？ホンネトーク！！](https://youtu.be/6tEajolRuac)
+- **05/27** : [逆凸】Vtuberさんたちとﾄﾞｷﾄﾞｷ逆凸おはなし会!!!!!!!!!!!!【ころねぽち】](https://youtu.be/A6X_noUmVQM) [name=ころね ぽち -Pochi korone-]
+- **06/03** : [【開運占い】2022年下半期の運勢占ってもらいます！【視聴者参加型】](https://youtu.be/yjKFAZ9EoCs)
+- **06/05** : [Prison Escape大脱獄コラボ【育良啓一郎/エピト/かえるの人/かみ/九条林檎/東雲めぐ/白二郎】](https://youtu.be/zQeYfWwWiMk) [name=九条 林檎【Kujo Ringo Official】]
+- **06/15** : [【#チーム金髪】一緒に練習がんばるぞおおおお！【初心者APEX】](https://www.twitch.tv/videos/1503535148)
+	- [【APEX】ゲリラ練習！！！【チーム金髪】](https://youtu.be/tKoFlVwtjzc) [name=九条 茘枝 【Kujo Lychee Official】 ]
+- **06/20** : [【#チーム金髪】一緒に練習がんばるぞおおおお！【初心者APEX】](https://www.twitch.tv/videos/1509000552)
+	- [【APEX】一歩ずつ成長してく物語【チーム金髪】](https://youtu.be/BbcrZ3MEF2w) [name=九条 茘枝 【Kujo Lychee Official】 ]
+- **06/23** : [【#チーム金髪】一緒に練習がんばるぞおおおお！【初心者APEX】](https://www.twitch.tv/videos/1511810764)
+	- [【APEX】クソエイム杯 練習カスタム【九条茘枝視点】](https://youtu.be/MSXrGK6RxoQ) [name=九条 茘枝 【Kujo Lychee Official】 ]
+- **06/26** : [【#チーム金髪】一緒に練習がんばるぞおおおお！【初心者APEX】](https://www.twitch.tv/videos/1514635211)
+	- [【APEX】クソエイム杯 本戦！！チーム金髪です【九条茘枝視点】](https://youtu.be/-rk2p71UNMc) [name=九条 茘枝 【Kujo Lychee Official】 ]
+- **07/04** : [あいえるたん10周年記念SPライブ ！【あいえるーむ】](https://youtu.be/VuaDcGny_ZE) [name=あいえるちゃんねる]
+- **07/12** : [【#ブロンズ伝説】せんのいのり杯に向けて頑張ります！【初心者APEX】](https://www.twitch.tv/videos/1529623706)
+- **07/15** : [【#ブロンズ伝説】せんのいのり杯に向けて頑張ります！【初心者APEX】](https://www.twitch.tv/videos/1532439568)
+- **07/16** : せんのいのり杯S4 本戦 [Twitch](https://www.twitch.tv/videos/1533394711)
 
 ### 今後の予定
-- **05/08** : ぽんぽこ24 vol.6 
