@@ -111,9 +111,9 @@ tags: 東雲めぐ
 	-  [【もうすぐ誕生日】10代ラスト配信！【カウントダウン】](https://youtu.be/pYUy2d97OAA)
 	-  [【お誕生日】二十歳になりました！【飲酒配信】](https://youtu.be/LGZfJiBhPZQ)
 	-  [【祝】東雲めぐ爆誕祭！！！【20歳】](https://youtu.be/XHwte1R_PcM)
-
-### 今後の予定
 - **06/30** : となりのめぐちゃんアラーム，めぐあーとキッズペイント 配信終了
+<!--- **08/05** : SHOWROOM 投げギフトシステム再開-->
+### 今後の予定
 
 ---
 
@@ -562,10 +562,13 @@ tags: 東雲めぐ
 - **06/08** : [PRIROLL コラボスイーツ](https://priroll.jp/shopbrand/ct7778/) 販売開始（[関連ツイート](https://twitter.com/happypriroll/status/1534369623860289536)）
     - **05/24** : [【PRIROLL】スイーツコラボ！？【可愛すぎる】 #Shorts](https://youtu.be/4URr2bUguS0)
 - **07/01** : [VCTEC 2022](https://vctec.io/week/vctec2022/) メタバースガイドツアー [アバターガイド](https://prtimes.jp/main/html/rd/p/000000144.000039863.html)
+- **07/17** : ボンボンアカデミー 「[♫東雲めぐ×ボンボンアカデミー 全曲メドレー③♪全46曲 85分](https://youtu.be/58EFIwe9QJc)」公開 [name=ボンボンアカデミー]
+- **07/31** : [ゲーム『デモリッション ロボッツ K.K.』ライブ配信](https://www.twitch.tv/drkk_hq)
+- **08/05-08/07** : [TOKYO IDOL FESTIVAL 2022](https://official.idolfes.com/s/tif2022/) 出演
+    - ** 08/06** : [バーチャルTIF 12\:55-13\:10](https://official.idolfes.com/s/tif2022/page/timetable)
 
 ### 今後の予定
-- **08/05-08/07** : [TOKYO IDOL FESTIVAL 2022](https://official.idolfes.com/s/tif2022/) 出演
-    - バーチャルTIF
+
 ---
 
 ## 外部配信者コラボ・企画等
@@ -787,16 +790,27 @@ tags: 東雲めぐ
 - **06/03** : [【開運占い】2022年下半期の運勢占ってもらいます！【視聴者参加型】](https://youtu.be/yjKFAZ9EoCs)
 - **06/05** : [Prison Escape大脱獄コラボ【育良啓一郎/エピト/かえるの人/かみ/九条林檎/東雲めぐ/白二郎】](https://youtu.be/zQeYfWwWiMk) [name=九条 林檎【Kujo Ringo Official】]
 - **06/15** : [【#チーム金髪】一緒に練習がんばるぞおおおお！【初心者APEX】](https://www.twitch.tv/videos/1503535148)
-	- [【APEX】ゲリラ練習！！！【チーム金髪】](https://youtu.be/tKoFlVwtjzc) [name=九条 茘枝 【Kujo Lychee Official】 ]
+	- [【APEX】ゲリラ練習！！！【チーム金髪】](https://youtu.be/tKoFlVwtjzc) [name=九条 茘枝 【Kujo Lychee Official】]
 - **06/20** : [【#チーム金髪】一緒に練習がんばるぞおおおお！【初心者APEX】](https://www.twitch.tv/videos/1509000552)
-	- [【APEX】一歩ずつ成長してく物語【チーム金髪】](https://youtu.be/BbcrZ3MEF2w) [name=九条 茘枝 【Kujo Lychee Official】 ]
+	- [【APEX】一歩ずつ成長してく物語【チーム金髪】](https://youtu.be/BbcrZ3MEF2w) [name=九条 茘枝 【Kujo Lychee Official】]
 - **06/23** : [【#チーム金髪】一緒に練習がんばるぞおおおお！【初心者APEX】](https://www.twitch.tv/videos/1511810764)
-	- [【APEX】クソエイム杯 練習カスタム【九条茘枝視点】](https://youtu.be/MSXrGK6RxoQ) [name=九条 茘枝 【Kujo Lychee Official】 ]
+	- [【APEX】クソエイム杯 練習カスタム【九条茘枝視点】](https://youtu.be/MSXrGK6RxoQ) [name=九条 茘枝 【Kujo Lychee Official】]
 - **06/26** : [【#チーム金髪】一緒に練習がんばるぞおおおお！【初心者APEX】](https://www.twitch.tv/videos/1514635211)
-	- [【APEX】クソエイム杯 本戦！！チーム金髪です【九条茘枝視点】](https://youtu.be/-rk2p71UNMc) [name=九条 茘枝 【Kujo Lychee Official】 ]
+	- [【APEX】クソエイム杯 本戦！！チーム金髪です【九条茘枝視点】](https://youtu.be/-rk2p71UNMc) [name=九条 茘枝 【Kujo Lychee Official】]
 - **07/04** : [あいえるたん10周年記念SPライブ ！【あいえるーむ】](https://youtu.be/VuaDcGny_ZE) [name=あいえるちゃんねる]
 - **07/12** : [【#ブロンズ伝説】せんのいのり杯に向けて頑張ります！【初心者APEX】](https://www.twitch.tv/videos/1529623706)
 - **07/15** : [【#ブロンズ伝説】せんのいのり杯に向けて頑張ります！【初心者APEX】](https://www.twitch.tv/videos/1532439568)
 - **07/16** : せんのいのり杯S4 本戦 [Twitch](https://www.twitch.tv/videos/1533394711)
+	- [【JP/EN】せんのいのり杯S4本番！ブロンズ伝説【3分遅延あり】](https://www.twitch.tv/videos/1533394676) (Twitch) [name=sennoinori_jp]
+	- [【APEX】ブロンズ伝説　本番！！！【せんのいのり杯】](https://youtu.be/5VZya9dFkqs)
+	- [【JP/EN】ブロンズ伝説打ち上げ！【VTuber】](https://www.twitch.tv/videos/1538339170) (Twitch) [name=sennoinori_jp]
+- **07/28** : [【ゲスト有】酒懺悔会Part６～酒の失敗は酒で流す～](https://youtu.be/UE9X-D-t-T4) [name=九条 茘枝 【Kujo Lychee Official】]
+- **07/29** : [【#チーム金髪】マキオ先生にAPEX教えてもらいます！【まったり】](https://www.twitch.tv/videos/1546245864)
+	- [【APEX】APEX始めてから約半年以上でどれだけ成長してる…！？【チーム金髪】](https://youtu.be/JRuE6WIYJSI) [name=九条 茘枝 【Kujo Lychee Official】]
+- **08/07** : [【APEX】わーいわいAPEX【ｗ東雲めぐ＆エピト】](https://youtu.be/u-OdXAp15IA) [name=ちゃんぬ]
+- **08/12** : [【ゲスト有】酒懺悔会Part7～酒の失敗は酒で流す～](https://youtu.be/b7WzmB_0rOk) [name=九条 茘枝 【Kujo Lychee Official】]
+- **08/16** : [【姉妹でラジオ】ちゃんずの家らじ！ #93 ゲスト:東雲めぐ【 #家らじ！ 】/The sisters' radio-style talk show!](https://youtu.be/wS8KFx101uo) [name=インサイドちゃんMark2 / -INSIDEChan Sisters-]
+- **08/16** : [【まったり】みんなでRaft！【コラボ】](https://www.twitch.tv/videos/1563585805)
+	- [【JP/EN】ブロンズ伝説＋2匹の生活【初見】](https://www.twitch.tv/videos/1563550491) (Twitch) [name=sennoinori_jp]
 
 ### 今後の予定
