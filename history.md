@@ -7,7 +7,7 @@ tags: 東雲めぐ
 ---
 {%hackmd Klo13yykTReIGA-r3ILvFg %}
 # 東雲めぐ 活動履歴
-[**Twitterで共有**](https://twitter.com/share?url=https://hackmd.io/@kuroiwasi/megu_history&text=東雲めぐ%20活動履歴&hashtags=東雲めぐ)
+[Twitterで共有](https://twitter.com/share?url=https://hackmd.io/@kuroiwasi/megu_history&text=東雲めぐ%20活動履歴&hashtags=東雲めぐ)
 
 基本的に公式サイトや本人周辺のツイートからわかる範囲で書いています．  
 書いてる人(Twitter):[@Schwarz_Sardine](https://twitter.com/Schwarz_Sardine)
@@ -111,8 +111,9 @@ tags: 東雲めぐ
 	-  [【もうすぐ誕生日】10代ラスト配信！【カウントダウン】](https://youtu.be/pYUy2d97OAA)
 	-  [【お誕生日】二十歳になりました！【飲酒配信】](https://youtu.be/LGZfJiBhPZQ)
 	-  [【祝】東雲めぐ爆誕祭！！！【20歳】](https://youtu.be/XHwte1R_PcM)
-- **06/30** : となりのめぐちゃんアラーム，めぐあーとキッズペイント 配信終了
-<!--- **08/05** : SHOWROOM 投げギフトシステム再開-->
+- **06/30** : となりのめぐちゃんアラーム，めぐあーとキッズペイント 配信終了<!--- **08/05** : SHOWROOM 投げギフトシステム再開-->
+- **09/21** : [【MV】Thirsty Thirsty / 東雲めぐ【オリジナル曲】](https://youtu.be/kAwtEG1sh5k) 公開
+
 ### 今後の予定
 
 ---
@@ -181,7 +182,9 @@ tags: 東雲めぐ
 - **01/01** : お正月配信（オムニ7 x 東雲めぐ | お正月特別コラボ企画）
 - **01/02** : [『バーチャルのど自慢』裏実況特番](https://live.nicovideo.jp/watch/lv317078459) バーチャル裏自慢 動画提供
 - **01/10** : [TBS 「Ｄｏｏｏ」「今、話題の職業“VTuber”にあなたもなれる！？」（前編）](https://youtu.be/i_PSuNmopyE) [name=TBS NEWS]
-- **01/15** : [「Hydro Ag+」WebCMに出演](https://gugenka.jp/event/megu-HydroAg.php)（[YouTube](https://youtu.be/eX56m38Zo4c) [name=FUJIFILMjapan]）
+- **01/15** : [「Hydro Ag+」WebCMに出演](https://gugenka.jp/event/megu-HydroAg.php)
+	- [アルコール環境清拭材：Hydro Ag+ 「東雲めぐ（しののめめぐ）」WEBCM／富士フイルム](https://youtu.be/eX56m38Zo4c) [name=FUJIFILMjapan]
+	- [Hydro Ag+コラボキャンペーン「合言葉」](https://youtu.be/veMgj4BzHlE)
 - **01/17** : [TBS 「Ｄｏｏｏ」「今、話題の職業“VTuber”にあなたもなれる！？」（後編）](https://youtu.be/zfepFu17R-Y) [name=TBS NEWS]
 - **01/20** : [ラジオドラマ番組「あ、安部礼司～beyond the average～」](https://www.tfm.co.jp/abe/index.php)にコメント出演
 - **01/27** : あべ☆EXPO 2019 ギャラリーステージ 出演 （[関連記事](https://brindoll.com/?p=122)）
@@ -566,8 +569,17 @@ tags: 東雲めぐ
 - **07/31** : [ゲーム『デモリッション ロボッツ K.K.』ライブ配信](https://www.twitch.tv/drkk_hq)
 - **08/05-08/07** : [TOKYO IDOL FESTIVAL 2022](https://official.idolfes.com/s/tif2022/) 出演
     - ** 08/06** : [バーチャルTIF 12\:55-13\:10](https://official.idolfes.com/s/tif2022/page/timetable)
+- **09/19** : [EEECUP](https://www.tech.ac.jp/e-threecup/)
+	- [【メイン配信】 E-THREE CUP - Apex Legends- Vol.2/ #EEECUP](https://youtu.be/Msf3Wd7sCdU) [name=E THREE LABO]
+	- [東雲めぐ視点(twitch) ](https://www.twitch.tv/videos/1595146779)
+- **10/08** : バーチャルシネマ [Vtuberめちゃ推しクイズ](https://www.aevc.aeoncinema.com/movie/detail/1610)
+- **10/08** : [めぐみーてぃんぐ！in秋葉原和堂 vol.1](https://t.livepocket.jp/e/megu-fan-meeting-vol1) （[告知ツイート](https://twitter.com/megu_shinonome/status/1573509872833818624)）
+- **10/22-10/23** : [全国エンタメまつり2022](https://zentame.com/) Vtuberおしゃべりブース 土曜日出演
+- **10/27** : [VTuber Halloween Fes 2022 in harevutai](https://zaiko.io/event/350464)
+- **11/01** : [ １００カメ　メタバース ](https://www.nhk.jp/p/100cam/ts/QP8MPNM1GL/episode/te/BG6KYMLQ27/) （[関連ツイート](https://twitter.com/megu_shinonome/status/1587447040153628672)）
 
 ### 今後の予定
+
 
 ---
 
@@ -804,6 +816,7 @@ tags: 東雲めぐ
 	- [【JP/EN】せんのいのり杯S4本番！ブロンズ伝説【3分遅延あり】](https://www.twitch.tv/videos/1533394676) (Twitch) [name=sennoinori_jp]
 	- [【APEX】ブロンズ伝説　本番！！！【せんのいのり杯】](https://youtu.be/5VZya9dFkqs)
 	- [【JP/EN】ブロンズ伝説打ち上げ！【VTuber】](https://www.twitch.tv/videos/1538339170) (Twitch) [name=sennoinori_jp]
+- **07/26** : [【 清らかな水500円 】お誕生日３D 配信 おつかれさま会【ジラ＆東雲めぐ】](https://youtu.be/wCvzHOjlqA0) [name=Gila Channel / ジラ]
 - **07/28** : [【ゲスト有】酒懺悔会Part６～酒の失敗は酒で流す～](https://youtu.be/UE9X-D-t-T4) [name=九条 茘枝 【Kujo Lychee Official】]
 - **07/29** : [【#チーム金髪】マキオ先生にAPEX教えてもらいます！【まったり】](https://www.twitch.tv/videos/1546245864)
 	- [【APEX】APEX始めてから約半年以上でどれだけ成長してる…！？【チーム金髪】](https://youtu.be/JRuE6WIYJSI) [name=九条 茘枝 【Kujo Lychee Official】]
@@ -812,5 +825,32 @@ tags: 東雲めぐ
 - **08/16** : [【姉妹でラジオ】ちゃんずの家らじ！ #93 ゲスト:東雲めぐ【 #家らじ！ 】/The sisters' radio-style talk show!](https://youtu.be/wS8KFx101uo) [name=インサイドちゃんMark2 / -INSIDEChan Sisters-]
 - **08/16** : [【まったり】みんなでRaft！【コラボ】](https://www.twitch.tv/videos/1563585805)
 	- [【JP/EN】ブロンズ伝説＋2匹の生活【初見】](https://www.twitch.tv/videos/1563550491) (Twitch) [name=sennoinori_jp]
+- **08/23** : [【Vket2022Summer】バトルディスクR4 Vketコミュニティ杯 #Vket #8月はバトルディスク](https://youtu.be/1tmM6uH69Zk) [name=Vket Channel]
+- **08/24** : [【Phasmophobia】こわいけどがんばる【シノノメイト＆双宮ゆすた＆エピト＆東雲めぐ】](https://www.twitch.tv/videos/1571205369)
+- **08/31** : [【08/31(水)20：30～】Vキャスちゃんねる#111【ミクランドクイズ大会！GUEST：東雲めぐ】](https://youtu.be/DnE4pEst1uI) [name=VirtualCast公式チャンネル]
+- **09/03** : [9月3日はグミの日コラボ！【東雲めぐちゃん／ぷかちゃん／ムシャさん】](https://youtu.be/Z6cQkMvL-y8) [name=琴吹ゆめ【Yume Kotobuki Official】]
+- **09/07** : [【09/7(水)20：30～】Vキャスちゃんねる#112【SAKURA FRONTであそぼ！】](https://youtu.be/tOuvYQoscf4) [name=VirtualCast公式チャンネル]
+- **09/12** : [【初心者APEX】ブロンズ伝説で練習だ！](https://www.twitch.tv/videos/1588889707) (Twitch)
+- **09/22** : [【Vtuber】東雲めぐちゃんとカジュアル！！！！【APEX Legends】](https://youtu.be/jvg2XmB1KjU) [name=兎茗望もちちゃんねる]
+	- [もちちゃんとまったり（？）APEX！](https://www.twitch.tv/videos/1597966445)
+- **09/23** : [【マキオカスタム】れすてぃあさんと もちちゃんと頑張ります！](https://www.twitch.tv/videos/1598870006)
+- **09/24** : [バーチャル即売会『メタフェス』に遊びに行くよ！【VRchat】](https://youtu.be/br01yUg1pkk)
+	- [メタフェス ｜ METAFES](https://metafes.jp/)
+- ** 09/24** : [【まったり】いののめんぬ！顔合わせ配信【APEX】](https://www.twitch.tv/videos/1599877377)
+- **09/24** : [【初心者APEX】champion獲るまで終われません⁉【チーム金髪】](https://www.twitch.tv/videos/1599964410)
+- **09/25** : [あの「はぴふり」が見える？！では相撲しましょうか【東雲めぐ】【ジラ】【清らかな水500円】 【VTuber】【バーチャルユーチューバー】【アニメ】【anime】バチャメ](https://youtu.be/eJNdhXvtxnw) [name=バーチャルのメディア ( バチャメ ) MEDIA OF VIRTUAL]
+- **09/25** : Coade CUP APEXLEGENDS Act.1
+	- [【大会本番】いののめんぬで頑張るよう！【coade cup】](https://www.twitch.tv/videos/1600827090)
+	- [【APEX】Coade CUP APEXLEGENDS Act.1　チーム「いののめんぬ」ちゃんぬ視点【ｗ猪ノ谷言葉＆東雲めぐ】](https://youtu.be/NMKX-LHXeQU) [name=ちゃんぬ]
+- **10/07** : [エピトと紅蓮さんとまったりAPEXのハロウィンイベントやってみる👻](https://www.twitch.tv/videos/1614950963)
+- **10/10** : [【お好み焼の日】ｼﾞｭｯｼﾞｭﾜｱｱｧｧｧｧｧｧ！！フェスティバル2022](https://youtu.be/ScFMijIemDM) [name=どんどん亭]
+- **10/18** : [【 スプラ3 】 アマネェェeeeee！そうだ!今からVtuberでゲームしない? 【 Vtuber / #うたしろらいぶ】](https://youtu.be/gd-U_wKjTyE) [name=Amane Ch. 雅楽代 アマネ【毎週歌枠配信チャンネル】]
+- **10/21** : [ 【わいわい】みんなでスプラ3コラボ！【東雲めぐ視点】 ](https://youtu.be/qFyrv8NeCrU)
+	- [ 【スプラトゥーン3】一緒に塗りまくろう!!! ](https://youtu.be/VMo_05XglB4) [name=インサイドちゃんMark1]
+	- [【スプラトゥーン3】4人で遊ぶことになりました！【あっくん大魔王/アメザリひらい/インサイドMark1/東雲めぐ】](https://youtu.be/DUx91mOGCZA) [name=あっくん大魔王]
+	- [ 【#Splatoon3】おっさんヌリタクルで！アメザリひらい視点【４人で頑張る】 ](https://youtu.be/7bllKuUFkgg) [name= アメザリひらい Virtual]
+- **11/03**: : [ 【APEX】アプデしたし突発コラボで遊ぶぞ～！ ](https://youtu.be/DCFgVTy7ocA) [name=九条 茘枝 【Kujo Lychee Official】]
+- **11/06** : [ JOHNNY HENRY - 愛にすべてを (Official Music Video) ](https://youtu.be/xuUhGP7j4NM) [name=JOHNNY HENRY]
 
 ### 今後の予定
+- **12/21** : VTuberを発掘せよ3
