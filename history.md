@@ -577,9 +577,16 @@ tags: 東雲めぐ
 - **10/22-10/23** : [全国エンタメまつり2022](https://zentame.com/) Vtuberおしゃべりブース 土曜日出演
 - **10/27** : [VTuber Halloween Fes 2022 in harevutai](https://zaiko.io/event/350464)
 - **11/01** : [ １００カメ　メタバース ](https://www.nhk.jp/p/100cam/ts/QP8MPNM1GL/episode/te/BG6KYMLQ27/) （[関連ツイート](https://twitter.com/megu_shinonome/status/1587447040153628672)）
+- **11/21** : [MIRAI VOYAGE（TV番組「アニメノウタ」テーマソング)【オリジナル曲】](https://youtu.be/4s-CMh5830s) MV出演 [name=Mirai Akari Project]
+- **12/10** : [◤ VR Kyougi 2022 ◢ #vrk5 #メタバース](https://xram.connpass.com/event/261514/) ゲストMC
+- **12/24** : [【東雲めぐ】Zeeny Lights 3 コラボレーションイヤフォン](https://zeeny.com/products/zeeny-lights-3-shinonomemegu?variant=43798432186602) 予約販売開始
+- **12/25** : [まりなす4周年記念ムービーライブ「SIGNAL」](https://www.humax-cinema.co.jp/news/480264/) [応援コメント](https://twitter.com/MarinasuChannel/status/1606605616784543750)
+
+### 2023
+- 01/29 :  [めぐみーてぃんぐ！in秋葉原和堂 vol.2](https://t.livepocket.jp/e/megu-fan-meeting-vol2)
+    - [めぐみーてぃんぐ！in秋葉原和堂 vol.2](https://youtu.be/mFHJuYKf43g)
 
 ### 今後の予定
-
 
 ---
 
@@ -851,6 +858,17 @@ tags: 東雲めぐ
 	- [ 【#Splatoon3】おっさんヌリタクルで！アメザリひらい視点【４人で頑張る】 ](https://youtu.be/7bllKuUFkgg) [name= アメザリひらい Virtual]
 - **11/03**: : [ 【APEX】アプデしたし突発コラボで遊ぶぞ～！ ](https://youtu.be/DCFgVTy7ocA) [name=九条 茘枝 【Kujo Lychee Official】]
 - **11/06** : [ JOHNNY HENRY - 愛にすべてを (Official Music Video) ](https://youtu.be/xuUhGP7j4NM) [name=JOHNNY HENRY]
+- **11/20** : APEXカスタム大会 #V感謝杯
+    - [#V感謝杯 -Apex Legends Custom match-](https://youtu.be/BVMoGsHf3JM) [name=Shikai Yue Ch. 始解ゆゑ]
+- **12/06** : [【#白雪みしろ3周年】Mishiro in Wonderland【白雪みしろ/のりプロ所属】](https://youtu.be/n7G0PzUa63c) [name=白雪みしろShirayuki Mishiro]
+- **12/21** : [🔴《#VTuberを発掘せよ3》総勢50人が出演する年末のお祭り✨大型発掘企画を見逃すな👀](https://youtu.be/TvkQu-AUgeI) [name=禰好亭めてお ch / DiscoTei Meteo ch.]
+- **12/28** : [フェリッシモXVR蕎麦屋タナベコラボ　メタバース雑誌METAMORE創刊＆休刊号](https://vr-sobaya.booth.pm/items/4432756)
+
+### 2023
+- **02/03** : [【VirtualCast】チーム金髪で節分を思う存分楽しみます【恵方巻食べるよ】](https://youtu.be/zWOVUBkUy0k) [name=九条 茘枝 【Kujo Lychee Official】]
+- **02/05** : [【VTuber48人合唱】Smiling【歌ってみた】](https://youtu.be/CadQ1RqVbsc) [name=夕月ティア Ch / Vsinger]
+- **02/05** : [中華の匂いにつられてやってきたお友達と一緒に食レポ配信🥢](https://youtu.be/KNT11ZRV04g)
+- **02:06** : [ブロンズ伝説(完)で一致するまで終われまテン！！【九条茘枝視点】](https://youtu.be/aRuQtsGNe_0) [name=九条 茘枝 【Kujo Lychee Official】]
+    - [【ZOOMラウンジ】一致するまで終われまテン！！/せんのいのり](https://youtu.be/xpQKCDQcq3g) [name=せんのいのり-InoriSenno-]
 
 ### 今後の予定
-- **12/21** : VTuberを発掘せよ3
