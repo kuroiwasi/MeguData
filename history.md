@@ -114,7 +114,10 @@ tags: 東雲めぐ
 - **06/30** : となりのめぐちゃんアラーム，めぐあーとキッズペイント 配信終了<!--- **08/05** : SHOWROOM 投げギフトシステム再開-->
 - **09/21** : [【MV】Thirsty Thirsty / 東雲めぐ【オリジナル曲】](https://youtu.be/kAwtEG1sh5k) 公開
 
+### 2023
+
 ### 今後の予定
+- **04/06** : 誕生日(21歳)
 
 ---
 
@@ -583,8 +586,12 @@ tags: 東雲めぐ
 - **12/25** : [まりなす4周年記念ムービーライブ「SIGNAL」](https://www.humax-cinema.co.jp/news/480264/) [応援コメント](https://twitter.com/MarinasuChannel/status/1606605616784543750)
 
 ### 2023
-- 01/29 :  [めぐみーてぃんぐ！in秋葉原和堂 vol.2](https://t.livepocket.jp/e/megu-fan-meeting-vol2)
+- **01/29** :  [めぐみーてぃんぐ！in秋葉原和堂 vol.2](https://t.livepocket.jp/e/megu-fan-meeting-vol2)
     - [めぐみーてぃんぐ！in秋葉原和堂 vol.2](https://youtu.be/mFHJuYKf43g)
+- **02/01-02/15** : [175°DENO担担麺 中華セットVTuber コラボ](https://wp175tantan.official.ec/)
+    - **02/05** : [中華の匂いにつられてやってきたお友達と一緒に食レポ配信🥢](https://youtu.be/KNT11ZRV04g)
+- **02/27-04/03** : [ロードモバイルVtuberウインターカップ](http://lordsmobile-vtuberwinter.com/) （[関連ツイート](https://twitter.com/megu_shinonome/status/1630131432093011968)）
+    - **02/27** : [【 #ローモバ 】みんなで優勝したい⚔ 【Vtuberウィンターカップ】](https://youtu.be/vzJqU4sn59o)
 
 ### 今後の予定
 
@@ -868,7 +875,10 @@ tags: 東雲めぐ
 - **02/03** : [【VirtualCast】チーム金髪で節分を思う存分楽しみます【恵方巻食べるよ】](https://youtu.be/zWOVUBkUy0k) [name=九条 茘枝 【Kujo Lychee Official】]
 - **02/05** : [【VTuber48人合唱】Smiling【歌ってみた】](https://youtu.be/CadQ1RqVbsc) [name=夕月ティア Ch / Vsinger]
 - **02/05** : [中華の匂いにつられてやってきたお友達と一緒に食レポ配信🥢](https://youtu.be/KNT11ZRV04g)
-- **02:06** : [ブロンズ伝説(完)で一致するまで終われまテン！！【九条茘枝視点】](https://youtu.be/aRuQtsGNe_0) [name=九条 茘枝 【Kujo Lychee Official】]
+- **02/06** : [ブロンズ伝説(完)で一致するまで終われまテン！！【九条茘枝視点】](https://youtu.be/aRuQtsGNe_0) [name=九条 茘枝 【Kujo Lychee Official】]
     - [【ZOOMラウンジ】一致するまで終われまテン！！/せんのいのり](https://youtu.be/xpQKCDQcq3g) [name=せんのいのり-InoriSenno-]
+    - [【ぶろんず伝説(完)】一致するまで終われまテン.ᐟ.ᐟ【wエピト　東雲めぐ　九条茘枝　せんのいのり】](https://youtu.be/gERjTtG4rvs) [name=ちゃんぬ]
+- **02/21** : [【VRC】チーム金髪でVRCで遊ぶ！！！](https://youtu.be/lhCozTfihOA)
+- **02/26** : [【APEX】3人で最後にチャンピオン取るまで終われないAPEX【チーム金髪は永久不滅】](https://youtu.be/uHWjv4Zh7lI) [name=九条 茘枝 【Kujo Lychee Official】]
 
 ### 今後の予定
