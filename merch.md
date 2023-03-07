@@ -75,6 +75,8 @@ tags: 東雲めぐ
 - [写真集「花束」](https://takuan-shop.booth.pm/items/2901800)
 - [オリジナル曲「虹」offvocal](https://takuan-shop.booth.pm/items/3298524)
 - [東雲めぐ＆かしこまりコラボ・ハロウィンボイスセット](https://takuan-shop.booth.pm/items/3481925)
+- [【クリスマス】オリジナルボイスドラマ台本](https://takuan-shop.booth.pm/items/3533933)
+- [【公式】東雲めぐちゃんパーカー](https://takuan-shop.booth.pm/items/4585991)
 
 ---
 ## [BOOTH (SPWN-STORE)](https://balus-store.booth.pm/)
@@ -131,7 +133,7 @@ tags: 東雲めぐ
 - キャンバスアート（大正浪漫SD）　＊サイン・SN入り　限定10枚
 - キャンバスアート（ドレスアップ等身）　＊サイン・SN入り　限定10枚
 - キャンバスアート（ドレスアップSD）　＊サインSN入り　限定10枚
-- ランダムチェキ
+- ランダムチェキ（全１６種）
 - クリアファイルセット
 - アクリルジオラマ（大正浪漫）
 - アクリルフィギュア（ドレスアップ）
@@ -140,6 +142,15 @@ tags: 東雲めぐ
 - 漫画 ＊七星ほく様　描きおろし。
 - デジタルフィギュア「HoloModels」東雲めぐ×秋葉原和堂 大正浪漫衣装CK東雲めぐ　＊限定200個
 - アバター衣装「MakeAvatar」・東雲めぐ×秋葉原和堂コラボ 大正浪漫衣装(ちび化体)　＊限定200個 
+- 東雲めぐ　タペストリー（展示品）
+- 【限定】東雲めぐ×秋葉原和堂　桜色ワンダーランドカフェドレスアップ　等身大パネル　サイン入り　
+- 【限定】東雲めぐ×秋葉原和堂　桜色ワンダーランドカフェ　大正浪漫　等身大パネル　サイン入り　(大正浪漫)
+
+## [ぽっぷこーんミュージアム](https://popcornmuseum.net/)
+- [VTuberの東雲めぐちゃんパーカー](https://popcornmuseum.net/shopdetail/000000000279/)
+
+## [Zeeny](https://zeeny.com/)
+- [【東雲めぐ】Zeeny Lights 3 コラボレーションイヤフォン](https://zeeny.com/products/zeeny-lights-3-shinonomemegu?variant=43798432186602)
 
 ---
 ## その他
@@ -149,6 +160,12 @@ tags: 東雲めぐ
 - [東雲めぐ公式アプリ となりのめぐちゃんアラーム](https://gugenka.jp/original/megu-alarm.php)
 - [めぐあーとキッズペイント](https://gugenka.jp/original/kids-paint.php)
 - [【PARCO×SHOWROOM】オリジナルアパレルproject](https://www.showroom-live.com/campaign/apparel_sales)
+- [ローソンプリント オリジナルブロマイド](https://lawson-print.com/products/categories/megu_shinonome)
+	- 東雲めぐ__ランダムブロマイド L （商品番号:1038030001） 全4種
+	- 東雲めぐ__ランダムブロマイド 2L （商品番号:1038030002） 全4種
+	- 東雲めぐ__ステッカー01 （商品番号:1038030003）
+	- 東雲めぐ__ステッカー02 （商品番号:1038030004）
+	
 
 ---
 ## 非売品
@@ -180,3 +197,6 @@ tags: 東雲めぐ
 	- 3000円以上のお買い上げでチェキ風ポストカードを一枚プレゼント / 全2種
 - 「東雲めぐの桜色ワンダーランドカフェ」 ドリンク・フード・デザートメニュー特典
 	- フード、デザート、ドリンクをご注文でポストカードを1枚プレゼント / 全6種
+- 「東雲めぐの桜色ワンダーランドカフェ」 トークショー特典
+- PRIROLL 特典缶バッジ 丸型/ハート形
+- 175°DENO担担麺 【特典つき】中華セット・お仕事応援プラン 「お仕事記念名刺」
