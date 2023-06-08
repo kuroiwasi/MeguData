@@ -60,7 +60,9 @@ tags: 東雲めぐ
     - 平日の朝7:30〜
 - **03/08** : [Mirrativ](https://www.mirrativ.com/user/6396214)配信開始
     - 毎週金曜日20:00〜
-- **04/06** : 誕生日(17歳) 
+- **04/06** : 誕生日(17歳)
+    - [東雲めぐ17歳お誕生日会 in cluster！（アーカイブ）](https://youtu.be/FGIZU2mOFM0)
+    - [はぴふり！東雲めぐちゃんのお部屋♪【4月6日お誕生日アフターパーティ】](https://youtu.be/vNNaC6bQ8JU)
 - **04/07** : [たくあんマンの公式YouTubeチャンネル（【公式】たくあんマン）](https://www.youtube.com/channel/UCAfKJSwWtVuRFlD2SusrRIQ)開設
 - **04/07** : ロゴマークが決定<!--https://shinonomemegu.com/contents/238248--> ([Webアーカイブ](https://megalodon.jp/2020-0719-1911-23/https://shinonomemegu.com:443/contents/238248))
 - **04/08** : [TikTok (@megu_shinonome)](https://www.tiktok.com/@megu_shinonome) 初投稿
@@ -76,7 +78,7 @@ tags: 東雲めぐ
 - **01/29** : [「SRV GUILD」](https://campaign.showroom-live.com/srvguild/)初期参加メンバー([関連記事](https://prtimes.jp/main/html/rd/amp/p/000000344.000026205.html))
 - **03/02** : 朝配信をYouTube主体に変更
 - **04/06** : 誕生日(18歳)
-- **04/06** : お誕生日配信
+    - [はぴふり！東雲めぐちゃんのお部屋♪【お誕生日配信】](https://youtu.be/8602ZD9pEi4)
     - 22時以降の配信が解禁([ツイート](https://twitter.com/megu_shinonome/status/1247171987622912001))
 - **04/27** : bilibiliにて隔週で平日夜配信開始([ツイート](https://twitter.com/megu_shinonome/status/1252740586328649728))
 - **05/27** : [日テレVTuberネットワーク「V-Clan」](https://v-clan.jp/)参加([ツイート](https://twitter.com/megu_shinonome/status/1265575580692549634))
@@ -115,9 +117,12 @@ tags: 東雲めぐ
 - **09/21** : [【MV】Thirsty Thirsty / 東雲めぐ【オリジナル曲】](https://youtu.be/kAwtEG1sh5k) 公開
 
 ### 2023
+- **04/06** : 誕生日(21歳)
+    - [21歳になりました！！！！！！！！！🎂✨✨](https://youtu.be/9qxXi6UirFg)
+- **05/01-06/03** : 活動休止期間 ([ツイート1](https://twitter.com/megu_shinonome/status/1652593987226845185)，[ツイート2](https://twitter.com/megu_shinonome/status/1665290803441459200))
 
 ### 今後の予定
-- **04/06** : 誕生日(21歳)
+
 
 ---
 
@@ -149,7 +154,6 @@ tags: 東雲めぐ
 - **07/27** : キッズボンボン「[手のひらを太陽に](https://youtu.be/WdEYnCuraUo)」公開　[name=キッズボンボン]
 - **07/27-08/22** : [『レディ・プレイヤー1』公式アンバサダー就任](https://gugenka.jp/event/megu_readyplayer1.php)
 - **07/28** : 公式ファンクラブイベント「めぐみーてぃんぐ vol.1」([ツイート](https://twitter.com/megu_shinonome/status/1014851178268524544))
-- **08/01** : グミの日2019 キックオフグミーティング([プレスリリース](https://prtimes.jp/main/html/rd/p/000000018.000008207.html))([プレスリリース2](https://www.atpress.ne.jp/news/162784))
 - **08/06-08/10** : 「レディ・プレイヤー1」特別夜配信
 - **08/09** : 第19回NED 登壇 <!--	-  [記事一覧（登壇は連載第二回）](https://logmi.jp/events/1680)-->
 - **08/13-08/21** : 「レディ・プレイヤー1」朝配信カウントダウン
@@ -159,13 +163,13 @@ tags: 東雲めぐ
 - **08/25-08/26** : [@JAM EXPO 2018](https://www.at-jam.jp/series/expo2018) バックヤード出演
 - **09/02** : [「レディ・プレイヤー１」一斉視聴企画](https://warnerbros.co.jp/c/news/20**18/08**/1721.html)
 	- [アーカイブ１(YouTube)](https://youtu.be/9Zj0tobY3Uo)，[アーカイブ２(YouTube)](https://youtu.be/aOmiYaevIIg)
-- **09/02** : GUMMIT原宿グミパ出演<!--https://shinonomemegu.com/contents/190795-->([プレスリリース](https://www.kanro.co.jp/files/topics/670_ext_05_0.pdf))
-- **09/20-09/23** : 東京ゲームショウ2018「[東雲めぐトークライブ](https://gugenka.jp/event/megu_tgs2018.php)」
+- **09/02** : GUMMIT 原宿グミパ 出演 （[公式サイト（Webアーカイブ）](https://web.archive.org/web/20180817130416/https://gummysday.jp/)）<!--https://shinonomemegu.com/contents/190795-->([プレスリリース](https://www.kanro.co.jp/files/topics/670_ext_05_0.pdf))
+- **09/20-09/23** : [東京ゲームショウ2018](https://expo.nikkeibp.co.jp/tgs/2018/public/)「[東雲めぐトークライブ](https://web.archive.org/web/20201101115652/https://gugenka.jp/event/megu_tgs2018.php) <!--https://gugenka.jp/event/megu_tgs2018.php-->」
 - **09/28** : キッズボンボン「[ゴーゴーゴー](https://www.youtube.com/watch?v=1h_b-85LuZM)」公開 [name=キッズボンボン]
 - **10/11** : GameBusiness.jp [東雲めぐ、SHOWROOMデビューからこれまでの心境を語る！中村彰憲「ゲームビジネス新潮流」第51回](https://www.gamebusiness.jp/article/20**18/10**/**11/14**988.html)
 - **10/12** : SHOWROOM magazine [【大塚愛×東雲めぐ/特別対談インタビュー】](https://magazine.showroom-live.com/interview/3968)
 - **10/27** : キッズボンボン「[グーチョキパーでなにつくろう](https://youtu.be/ogS4aqczzPA)」公開 [name=キッズボンボン]
-- **10/27** : 「[バーチャルハロウィン VR脱出ゲーム ~伝説のお菓子を求めて](https://vrz.jp/virtual-halloween/)」に参加
+- **10/27** : 「[バーチャルハロウィン VR脱出ゲーム ~伝説のお菓子を求めて](https://vrz.jp/virtual-halloween/)」に参加 （[プレスリリース](https://prtimes.jp/main/html/rd/p/000000002.000037805.html)）
 - **11/04** : [バーチャルエンタス](http://cp-site.com/v_entas/)
 	- 第一回メインパーソナリティ
 - **11/24** : キッズボンボン「[赤鼻のトナカイ](https://youtu.be/zA6uk5v6OvI)」公開 [name=キッズボンボン]
@@ -179,7 +183,8 @@ tags: 東雲めぐ
 - **12/24** : 「カラオケDAM」タイアップ　クリスマス配信(関連記事<!--https://shinonomemegu.com/contents/208147--> ([Webアーカイブ](https://megalodon.jp/2020-0719-1921-51/https://shinonomemegu.com:443/contents/208147)))
 - **12/26** : [#Twitterトレンド大賞2018](https://twitter.com/i/events/1066951572570042368) 「話題となったVTuber」<!--	- [Periscope](https://www.pscp.tv/TrendAward/1yNGaOerZEbxj?t=1h16m44s)-->
 - **12/29** : キッズボンボン「[おにのパンツ](https://youtu.be/zc7hE8IHU5Y)」公開 [name=キッズボンボン]
-- **12/31** : VR歌合戦「Count0」に出演
+- **12/31** : VR歌合戦「Count0」に出演 （[公式サイトWebアーカイブ](https://web.archive.org/web/20190101095855/https://sparc.tokyo/count0/)）
+    - [YouTube配信](https://youtu.be/qCTTP1ojuz4)
 
 ### 2019
 - **01/01** : お正月配信（オムニ7 x 東雲めぐ | お正月特別コラボ企画）
@@ -215,8 +220,8 @@ tags: 東雲めぐ
 - **04/05** : [TOPPA!!インタビュー](https://toppamedia.com/interview-2019-4-shinonome-megu/)
 	- [動画メッセージ](https://youtu.be/bQaJ5Tsm-Zw) [name=TOPPA!! Channel]
 - **04/06** : [東雲めぐ17歳お誕生日会 in cluster](https://cluster.mu/e/4244e3e6-32c0-11ea-ba92-0ef3638656a6)
-    - イベントの後にSHOWROOMでアフターパーティ配信
     <!-- - [アーカイブ動画（YouTube）](https://youtu.be/FGIZU2mOFM0) -->
+    - [はぴふり！東雲めぐちゃんのお部屋♪【4月6日お誕生日アフターパーティ】](https://youtu.be/vNNaC6bQ8JU)
 - **04/10** : 東雲めぐ1st VRライブアーカイブ版
     - SHOWSTAGEVRライブアーカイブ機能のクローズドテスト
 - **04/11** : [いばキラTV ニコ生出張特番](https://live2.nicovideo.jp/watch/lv319322695)
@@ -260,6 +265,7 @@ tags: 東雲めぐ
 - **07/22** : となりの研究生マシマヒメコ。のツナましステージ誕生日スペシャル！
 - **07/30** : [東雲めぐの はぴふりCh #1](https://cluster.mu/e/422d1ea1-32c0-11ea-ba92-0ef3638656a6) (cluster)
 - **08/01** : 花譜ファーストワンマンライブ「不可解」 応援メッセージ
+- **08/01** : グミの日2019 キックオフグミーティング([プレスリリース](https://prtimes.jp/main/html/rd/p/000000018.000008207.html))
 - **08/02-08/23** : [ぐみのうたダンス2019キャンペーン](https://gummysday.jp/#campaign04)
 - **08/10-08/11** : [レインボータワーVR (新潟まつり「お祭り広場」会場　新潟ＪＣブース)](http://localpress.jp/niigata/detail.php?id=925&s=1&c=0&free=&i=0&a=)
 - **08/15** : [ぶいおん!! MUSIC LIVE](https://youtu.be/I8MrGFG8Bco) [name=REALITY Studio]
@@ -554,7 +560,7 @@ tags: 東雲めぐ
 		- [04/02 第二部 配信](https://youtu.be/fi_SScgiues) [name=PANORA]
 		- [04/10 第一部 配信](https://youtu.be/eycp20gHlus) [name=PANORA]
 		- [04/10 第二部 配信](https://youtu.be/SYv_gk00qTk) [name=PANORA]
-	- [あきかる第49号](https://standrack.backshelf.jp/bookview/?filseq=1661) アクリルジオラマ掲載
+	- [あきかる第49号](https://standrack.backshelf.jp/bookview/?filseq=1661) アクリルジオラマ掲載(p.5)
 - **04/01** : [東雲めぐ成人直前緊急インタビュー　まだ満足していない！ ファンへの感謝と今後の野望を語る](https://panora.tokyo/archives/46585)
 - **04/28-05/01** : [MIKU LAND 2022 YOSAKURA 公式アンバサダー](https://mikuland.com/news/news2022_0317)（[プレスリリース](https://prtimes.jp/main/html/rd/p/000000009.000096446.html)）
 	- **04/28** : [【MIKULAND2022】ミクランドに遊びに行ってきた！【 #ミクランド内覧会 】](https://youtu.be/mJLkiTgdync)
@@ -592,6 +598,8 @@ tags: 東雲めぐ
     - **02/05** : [中華の匂いにつられてやってきたお友達と一緒に食レポ配信🥢](https://youtu.be/KNT11ZRV04g)
 - **02/27-04/03** : [ロードモバイルVtuberウインターカップ](http://lordsmobile-vtuberwinter.com/) （[関連ツイート](https://twitter.com/megu_shinonome/status/1630131432093011968)）
     - **02/27** : [【 #ローモバ 】みんなで優勝したい⚔ 【Vtuberウィンターカップ】](https://youtu.be/vzJqU4sn59o)
+    - 優勝 （[ツイート](https://twitter.com/lmVtuber/status/1642770911932878851））
+- **04/14** :iOS/Androidアプリ『[Zeeny アシスタント](https://zeeny.com/pages/zeeny-assistant)』に東雲めぐが登場 （[公式ツイート](https://twitter.com/nain_jp/status/1646785371764854785)） 
 
 ### 今後の予定
 
@@ -880,5 +888,15 @@ tags: 東雲めぐ
     - [【ぶろんず伝説(完)】一致するまで終われまテン.ᐟ.ᐟ【wエピト　東雲めぐ　九条茘枝　せんのいのり】](https://youtu.be/gERjTtG4rvs) [name=ちゃんぬ]
 - **02/21** : [【VRC】チーム金髪でVRCで遊ぶ！！！](https://youtu.be/lhCozTfihOA)
 - **02/26** : [【APEX】3人で最後にチャンピオン取るまで終われないAPEX【チーム金髪は永久不滅】](https://youtu.be/uHWjv4Zh7lI) [name=九条 茘枝 【Kujo Lychee Official】]
+- **06/08** : [【AmongUs】みんなで暴露アモアス！！【わいわい】](https://www.youtube.com/watch?v=dH3jnm13LQo)<!-- https://youtu.be/J_Y5jlhCKV0 -->
+	- [AmongUs｜吊られたら秘密を暴露するあもあす🚀👊✨【 #暴露アモアス / #あまぎてん 】](https://www.youtube.com/watch?v=J12leE_V9fQ)[name=天城てん - Ten Amagi -]
+	- [【Among Us】吊られたら秘密暴露ポポ！？そんな秘密なんかあるわけ【家入ポポ / ななしいんく】](https://www.youtube.com/watch?v=DssZnzZWKFU)[name=Popo Channel / 家入ポポ【ななしいんく】]
+	- [【#暴露アモアス】釣られたら秘密を告白！暴露アモアス【歌衣イツミ視点 】](https://www.youtube.com/watch?v=ERz5qNovlU4)[name=イツミちゃんねる]
+	- [【 Among us 】大人数コラボ！！吊られたら一環の終わり！！？暴露アモアス！！【栢森エマ/Emma Chouette】](https://www.youtube.com/watch?v=utsHyvKt3zI)[name=栢森エマ / Emma Chouette]
+	- [【#暴露アモアス】吊られたらガチで秘密暴露します‥!!釣られません!!【たみー視点/天城てん/家入ポポ/歌衣イツミ/栢森エマ/東雲めぐ/ユキミお姉ちゃん/羽奏こはく】](https://www.youtube.com/watch?v=_vVXsklaJv8)[name= たみーCh / 民安ともえ]
+	- [【#暴露アモアス】吊られたら秘密を告白！暴かれちゃう！？【Vtuber/ユキミお姉ちゃん/#amongus 】](https://www.youtube.com/watch?v=GNICiioqelk)[name=ユキミお姉ちゃんねる-Yukimi]
+	- [【Among Us】隠し事なんてなにもありません…！【羽奏 こはく / #暴露アモアス 】](https://www.youtube.com/watch?v=u-BHMz0XzK8)[name=Kohaku Ch.羽奏 こはく]
 
 ### 今後の予定
+- **06/12** : [VR音楽劇「HarmonicA」](https://twitter.com/imgn_official/status/1665684076848726016) ([キャラクター紹介](https://twitter.com/imgn_official/status/1666007171149225988), [出演者メッセージ](https://twitter.com/imgn_official/status/1666010791089143809))
+	- 開場: 21:00 / 開演 21:3, 会場: VRChat
