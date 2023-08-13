@@ -1,6 +1,6 @@
 ---
 title: 東雲めぐ 公式グッズ
-description: これまでに販売された公式グッズをまとめています
+description: これまでに販売や配布のされた公式グッズをまとめています
 image: https://i.imgur.com/8KhF7hb.jpg
 lang: ja-jp
 tags: 東雲めぐ
@@ -77,6 +77,15 @@ tags: 東雲めぐ
 - [東雲めぐ＆かしこまりコラボ・ハロウィンボイスセット](https://takuan-shop.booth.pm/items/3481925)
 - [【クリスマス】オリジナルボイスドラマ台本](https://takuan-shop.booth.pm/items/3533933)
 - [【公式】東雲めぐちゃんパーカー](https://takuan-shop.booth.pm/items/4585991)
+- [🌻夏めぐ - スクエア缶バッチ - 通常ver](https://takuan-shop.booth.pm/items/5002605)
+- [🌻夏めぐ - スクエア缶バッチ - 夕日ver](https://takuan-shop.booth.pm/items/5002612)
+- [🌻夏めぐ - キャンバスアート](https://takuan-shop.booth.pm/items/5002617)
+- [🌻夏めぐ - ステッカー - BANG!BANG! ver](https://takuan-shop.booth.pm/items/5002625)
+- [🌻夏めぐ - ステッカー - スイカver](https://takuan-shop.booth.pm/items/5002635)
+- [🌻夏めぐ - ステッカー - うきわver](https://takuan-shop.booth.pm/items/5002640)
+- [🌻夏めぐ - ステッカー - ドリンクver](https://takuan-shop.booth.pm/items/5002644)
+- [🌻夏めぐ - アクリルフィギュア 🌻](https://takuan-shop.booth.pm/items/5002913)
+	- 4サイズ(160×160mm/100×100mm/70×70mm/50×50mm)
 
 ---
 ## [BOOTH (SPWN-STORE)](https://balus-store.booth.pm/)
@@ -200,3 +209,4 @@ tags: 東雲めぐ
 - 「東雲めぐの桜色ワンダーランドカフェ」 トークショー特典
 - PRIROLL 特典缶バッジ 丸型/ハート形
 - 175°DENO担担麺 【特典つき】中華セット・お仕事応援プラン 「お仕事記念名刺」
+- 「企業ブースピックアップ！ vtuberが周るvket2023summer」 サイン入り3Dキーホルダー
