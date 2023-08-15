@@ -128,12 +128,8 @@ tags: 東雲めぐ
 
 ## イベント・メディア出演/掲載・企業タイアップ配信等
 ### 2018
-<!--
-- **04/10** : CG WORLD vol.237 CG WORLD vol.237「わいわいバーチャルYoutuber」特集内インタビュー
-- **04/19** : [【公式配信】 第34回 『CGWORLD CHANNEL』 新時代のバーチャルアイドルができるまで](https://live.nicovideo.jp/watch/lv312431945)
-	- **04/13** : [告知記事](https://cgworld.jp/news/other/1804-niconico.html)
-- **04/27** : [バーチャルキャラクターのプロデュース手法とリアルタイムエンジンとの可能性](https://madewithunity.jp/interviews/shinonome-megu/) 
--->
+
+- **04/10** : CG WORLD vol.237 <!--「わいわいバーチャルYoutuber」-->特集内インタビュー<!--- **04/19** : [【公式配信】 第34回 『CGWORLD CHANNEL』 新時代のバーチャルアイドルができるまで](https://live.nicovideo.jp/watch/lv312431945)--><!--	- **04/13** : [告知記事](https://cgworld.jp/news/other/1804-niconico.html)--><!--- **04/27** : [バーチャルキャラクターのプロデュース手法とリアルタイムエンジンとの可能性](https://madewithunity.jp/interviews/shinonome-megu/) -->
 - **05/05** : キッズボンボンTV 参加，「[こいのぼり](https://youtu.be/TYjFjhmdZnU)」公開 [name=キッズボンボン]
 - **05/09** : Unite Tokyo 2018 講演に生放送で出演<!--	- [【Unite Tokyo 2018】AniCast！東雲めぐちゃんの魔法ができるまで](https://youtu.be/1rfoFg6LJgU) [name=Unity Japan]-->
 - **05/12** : [C4LAN 2018 SPRING](https://2018s.c4-lan.com/) [ドスパラブース 出展](https://www.dospara.co.jp/5press/share_info.php?id=1316)(関連記事<!--https://shinonomemegu.com/contents/207491-->([Webアーカイブ](https://megalodon.jp/2020-0719-1915-33/https://shinonomemegu.com:443/contents/207491)))
@@ -600,8 +596,11 @@ tags: 東雲めぐ
     - **02/27** : [【 #ローモバ 】みんなで優勝したい⚔ 【Vtuberウィンターカップ】](https://youtu.be/vzJqU4sn59o)
     - 優勝 （[ツイート](https://twitter.com/lmVtuber/status/1642770911932878851））
 - **04/14** :iOS/Androidアプリ『[Zeeny アシスタント](https://zeeny.com/pages/zeeny-assistant)』に東雲めぐが登場 （[公式ツイート](https://twitter.com/nain_jp/status/1646785371764854785)） 
+- **07/19** : [【Vket2023Summer】企業ブースピックアップ！Vtuberが周るVket2023Summer #Vket](https://youtu.be/e6BsLHxKtDE)[name=VirtualMarket]
+	- [ゲストのサイン入り3Dキーホルダープレゼント](https://twitter.com/Virtual_Market_/status/1684858735355682816?t=VwPqeY7XybAaQYczq9WuMA)
 
 ### 今後の予定
+- **12/09** : [12.09 ◤ VR Kyougi 2023◢ #vrk5 #メタバース](https://xram.connpass.com/event/288475/) Actor
 
 ---
 
@@ -896,7 +895,26 @@ tags: 東雲めぐ
 	- [【#暴露アモアス】吊られたらガチで秘密暴露します‥!!釣られません!!【たみー視点/天城てん/家入ポポ/歌衣イツミ/栢森エマ/東雲めぐ/ユキミお姉ちゃん/羽奏こはく】](https://www.youtube.com/watch?v=_vVXsklaJv8)[name= たみーCh / 民安ともえ]
 	- [【#暴露アモアス】吊られたら秘密を告白！暴かれちゃう！？【Vtuber/ユキミお姉ちゃん/#amongus 】](https://www.youtube.com/watch?v=GNICiioqelk)[name=ユキミお姉ちゃんねる-Yukimi]
 	- [【Among Us】隠し事なんてなにもありません…！【羽奏 こはく / #暴露アモアス 】](https://www.youtube.com/watch?v=u-BHMz0XzK8)[name=Kohaku Ch.羽奏 こはく]
+- **06/12-06/16** : [VR音楽劇「HarmonicA」](https://twitter.com/imgn_official/status/1665684076848726016) ([キャラクター紹介](https://twitter.com/imgn_official/status/1666007171149225988), [出演者メッセージ](https://twitter.com/imgn_official/status/1666010791089143809))
+	- **06/12**
+		- 開場: 21:00 / 開演: 21:30, 会場: VRChat
+	- **06/13,6/16**
+		- 開場: 20:00 / 開演: 20:30, 会場: VRChat
+		- 開場: 21:30 / 開演: 22:00, 会場: VRChat
+- **07/04** : [みんなで楽しくガーティックフォン！【東雲めぐ視点】](https://youtu.be/PjC3O1lHTNM)
+    - [【Garticphone】マウス縛り！？お絵描きコラボ～！【家入ポポ / ななしいんく】](https://youtu.be/SnCjNcdk4Nk)[name=Popo Channel / 家入ポポ【ななしいんく】]
+    - [マウス縛り!?伝わるのか…お絵描き伝言ゲーム【たみー視点/家入ポポ/歌衣イツミ/栢森エマ/東雲めぐ/ユキミお姉ちゃん/羽奏こはく】](https://youtu.be/ScCyHlRXGQI)[name=たみーCh / 民安ともえ ]
+    - [【 Gartic Phone 】マウス縛り⁉ 描ける気がしないお絵かき伝言ゲーム☎【歌衣イツミ視点 】](https://youtu.be/jMb6dxhmqJI)[name=イツミちゃんねる]
+    - [【 Gartic Phone 】大人数コラボ！✨今回はマウス縛りで大人数画伯！！？？【栢森エマ/Emma Chouette】](https://youtu.be/UXAw5YFE_1M)[name=栢森エマ / Emma Chouette]
+    - [マウス縛り！？画伯誕生！GarticPhone【Vtuber/ユキミお姉ちゃん/#garticphone 】](https://youtu.be/kTct9RqP2v0)[name=ユキミお姉ちゃんねる-Yukimi]
+    - [【Garticphone】最　強　の　画　伯　視　点　【羽奏こはく/Vtuber】](https://youtu.be/5sVgJKt7Eqo)[name=Kohaku Ch.羽奏 こはく]
+- **06/26-07/14** : [VR音楽劇「HarmonicA」追加公演](https://twitter.com/imgn_official/status/1669630907790110721)
+    - **06/26,07/10,07/11,07/14**
+		- 開場: 20:00 / 開演: 20:30, 会場: VRChat
+		- 開場: 21:30 / 開演: 22:00, 会場: VRChat
+    - **07/09** : [VR音楽劇「HarmonicA」【完全動画版】](https://youtu.be/DxLWp63xzhQ)[name=九条 林檎【Kujo Ringo Official】]
+    - **07/14** : [【生配信】VR音楽劇「HarmonicA」-千秋楽-](https://youtu.be/8RmbMSQbxPA)[name=九条 林檎【Kujo Ringo Official】]
+- **08/15** : 3週連続歌ってみたコラボ祭り（[ツイート](https://twitter.com/Yuudutsu_Tear/status/1687418105033895936)）
+	- [ハッピー・ジャムジャム / 東雲めぐ × 夕月ティア【歌ってみた】](https://youtu.be/QFnDszsKndw)
 
 ### 今後の予定
-- **06/12** : [VR音楽劇「HarmonicA」](https://twitter.com/imgn_official/status/1665684076848726016) ([キャラクター紹介](https://twitter.com/imgn_official/status/1666007171149225988), [出演者メッセージ](https://twitter.com/imgn_official/status/1666010791089143809))
-	- 開場: 21:00 / 開演 21:3, 会場: VRChat
