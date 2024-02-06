@@ -119,7 +119,36 @@ tags: 東雲めぐ
 ### 2023
 - **04/06** : 誕生日(21歳)
     - [21歳になりました！！！！！！！！！🎂✨✨](https://youtu.be/9qxXi6UirFg)
-- **05/01-06/03** : 活動休止期間 ([ツイート1](https://twitter.com/megu_shinonome/status/1652593987226845185)，[ツイート2](https://twitter.com/megu_shinonome/status/1665290803441459200))
+- **05/01-06/03** : 活動休止期間 ([ツイート1](https://twitter.com/megu_shinonome/status/1652593987226845185)，[ツイート2](https://twitter.com/megu_shinonome/status/1665290803441459200)
+- **09/01** : [東雲防災局](https://twitter.com/megu_shinonome/status/1697604065725915513) 設立
+    - [告知配信](https://twitter.com/megu_shinonome/status/1697580472174612582)
+- **09/04-09/10** : [Aブロック【2023年サンリオキャラクター大賞連動】シナモロールアンバサダー決定戦](https://www.showroom-live.com/event/sanrio_cinnamon2023a)
+    - 全体ランキング：3位
+    - [シナモロールとボールランキング](https://www.showroom-live.com/event/sanrio_cinnamon2023a/gift_ranking/1100)：4位
+    - [プリンス・シナモロール2023ランキング](https://www.showroom-live.com/event/sanrio_cinnamon2023a/gift_ranking/1101)：3位
+- **10/29** : 東雲めぐのすーぱーはっぴーふりーだむ！
+	- 20:00～
+    - [告知1](https://twitter.com/megu_shinonome/status/1704855773355102533)
+    , [告知2](https://twitter.com/megu_shinonome/status/1708439250470080608)
+	- [CM募集](https://twitter.com/megu_shinonome/status/1709852493885436140)
+	- [【重大発表アリ！】3D LIVE『東雲めぐのすーぱーはっぴーふりーだむ！』【#東雲めぐソロライブ】](https://youtu.be/PsNPq-pA9UQ)
+	- [画館ライブビューイング企画（有志）](https://twipla.jp/events/581640)
+	    - [詳細](https://twitter.com/megu_shinonome/status/1709131255416275082)
+	    - [物販](https://twitter.com/megu_shinonome/status/1718098250190970942)
+    - カウントダウン投稿
+        - [8日](https://twitter.com/megu_shinonome/status/1715626186582413688)
+         , [7日](https://twitter.com/megu_shinonome/status/1716082114985361489)
+         , [6日](https://twitter.com/megu_shinonome/status/1716231622411026519)
+         , [5日](https://twitter.com/megu_shinonome/status/1716592537128067292)
+         , [4日](https://twitter.com/megu_shinonome/status/1716959271714234425)
+         , [3日](https://twitter.com/megu_shinonome/status/1717320986482344061)
+         , , [2日](https://twitter.com/megu_shinonome/status/1717681225568268782)
+         , [1日](https://twitter.com/megu_shinonome/status/1718056905002844219)
+         , [0日](https://twitter.com/megu_shinonome/status/1718405411148284123)
+- **10/30** : 「すーぱーはっぴーふりーだむ！」リリース（[関連ポスト(X)](https://twitter.com/megu_shinonome/status/1718645585576939911)）
+
+### 2024
+- **01/01** : 朝の生配信を休止（[告知(X)](https://x.com/megu_shinonome/status/1741672911004749826)）
 
 ### 今後の予定
 
@@ -598,9 +627,24 @@ tags: 東雲めぐ
 - **04/14** :iOS/Androidアプリ『[Zeeny アシスタント](https://zeeny.com/pages/zeeny-assistant)』に東雲めぐが登場 （[公式ツイート](https://twitter.com/nain_jp/status/1646785371764854785)） 
 - **07/19** : [【Vket2023Summer】企業ブースピックアップ！Vtuberが周るVket2023Summer #Vket](https://youtu.be/e6BsLHxKtDE)[name=VirtualMarket]
 	- [ゲストのサイン入り3Dキーホルダープレゼント](https://twitter.com/Virtual_Market_/status/1684858735355682816?t=VwPqeY7XybAaQYczq9WuMA)
+- **09/02** [バンコク日本博2023](https://nipponhaku.com/)にて[株式会社ファーストローンチ社ブースのライブイベント（faVe主催）](https://firstlaunch.co.jp/thailand)に出演（[プレスリリース](https://prtimes.jp/main/html/rd/p/000000001.000104750.html)，[関連ポスト(X)](https://twitter.com/megu_shinonome/status/1697846269295927579)）
+    - Day2，11:00～12:30
+- **10/29** : [きゃらとれ 東雲防災局 グッズ](https://shop.snawdy-e.jp/categories/5398409) 受注販売開始
+- **10/29** : [Kuroe 東雲めぐ「はにしゅわセット」](https://kuroellc.shop-pro.jp/?pid=177774009) 販売開始
+- **11/25** : 東雲めぐはぴふりチェキ会 ([告知](https://twitter.com/megu_shinonome/status/1725438684080877953))
+- **12/01** : [ウィンターズけえぬ＆東雲めぐ 新作VRゲーム「クッキーラン：暗黒の夜」に初挑戦！](https://www.moguravr.com/cookie-run-review/)
+	- **12/04** : [【新作VRゲーム】クッキーラン：暗黒の夜 で遊んでみるよ！【クッキーになって戦います】](https://youtu.be/thDHmlm3eXE)
+- **12/08** : [金曜日はぶいちゃ！第８回放送](https://youtu.be/UCGHFDUhfZI) 22:00～23:00 [name=VRC放送局]
+- **12/09** : [12.09 ◤ VR Kyougi 2023◢ #vrk5 #メタバース](https://xram.connpass.com/event/288475/) Actor
+- **12/24** : [ODAIBA ART MUSEUM](https://www.aquacity.jp/2023_artmuseum/)
+    - VTUBER CHRISTMAS FESTIVAL 1on1 TALK 18:00〜
+    - [関連ツイート](https://twitter.com/megu_shinonome/status/1738729014943207890)，[関連ツイート](https://twitter.com/megu_shinonome/status/1738833245893198050)，[関連ツイート](https://twitter.com/megu_shinonome/status/1738855902063841497)
+
+### 2024
+- **01/26** : [TOKYO XR・メタバース＆コンテンツ ビジネスワールド](https://xr-meta-biz.tokyo/)
+	- 11:30〜12:30 : [メタバース初心者から玄人までが楽しめるVRワールド「バーチャルマーケット」解説ツアー！](https://xr-meta-biz.tokyo/seminar_event/)
 
 ### 今後の予定
-- **12/09** : [12.09 ◤ VR Kyougi 2023◢ #vrk5 #メタバース](https://xram.connpass.com/event/288475/) Actor
 
 ---
 
@@ -915,6 +959,14 @@ tags: 東雲めぐ
     - **07/09** : [VR音楽劇「HarmonicA」【完全動画版】](https://youtu.be/DxLWp63xzhQ)[name=九条 林檎【Kujo Ringo Official】]
     - **07/14** : [【生配信】VR音楽劇「HarmonicA」-千秋楽-](https://youtu.be/8RmbMSQbxPA)[name=九条 林檎【Kujo Ringo Official】]
 - **08/15** : 3週連続歌ってみたコラボ祭り（[ツイート](https://twitter.com/Yuudutsu_Tear/status/1687418105033895936)）
-	- [ハッピー・ジャムジャム / 東雲めぐ × 夕月ティア【歌ってみた】](https://youtu.be/QFnDszsKndw)
+	- [ハッピー・ジャムジャム / 東雲めぐ × 夕月ティア【歌ってみた】](https://youtu.be/QFnDszsKndw) [name=夕月ティア Ch / Vsinger]
+- **08/22** : [【Super Bunny Man】うさぎになって協力して絆がうまれて友達に！【九十九トッカ/東雲めぐ】](https://www.youtube.com/watch?v=RZZXxgjXVkQ)[name=TSUKUMO TOKKA Ch.]
+- **09/09** : SHOWROOMゲスト : 柑橘るい/真綾ちゃん [関連ポスト(X)](https://twitter.com/megu_shinonome/status/1700489498990354494)
+- **09/10** : [【逆凸】100万人祝ってほしい悪魔の深夜逆凸！【ホロライブ/癒月ちょこ】](https://youtu.be/D2ZUEPmlaJg&t=8741) [Choco Ch. 癒月ちょこ]
+- **11/25** : [Vだらけ文化祭](https://twitter.com/Claire_sensei/status/1721467763758424109) [name=クレア英会話]
+    - 16:30~ : [ぽんこつ!?英語テスト](https://youtu.be/Mfmbew68noo?t=17200)
+
+### 2024
+- **02/02** : [【遅ればせ】夢瞳カナウ爆誕☆凸待ちアリ？！【お誕生日】](https://youtu.be/kMSXaop7xVA?t=4914) [name=Kanau Ch. 夢瞳カナウ]
 
 ### 今後の予定
