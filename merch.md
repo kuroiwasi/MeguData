@@ -86,6 +86,22 @@ tags: 東雲めぐ
 - [🌻夏めぐ - ステッカー - ドリンクver](https://takuan-shop.booth.pm/items/5002644)
 - [🌻夏めぐ - アクリルフィギュア 🌻](https://takuan-shop.booth.pm/items/5002913)
 	- 4サイズ(160×160mm/100×100mm/70×70mm/50×50mm)
+- [「東雲めぐのすーぱーはっぴーふりーだむ！」デジタルチケット](https://takuan-shop.booth.pm/items/5197178)
+- [SUPER HAPPY ペンライト！](https://takuan-shop.booth.pm/items/5167070)
+- [東雲防災局 - 再帰反射ステッカー 25平方センチ](https://takuan-shop.booth.pm/items/5140612)
+- [SHF！トートバッグ](https://takuan-shop.booth.pm/items/5143412)
+- [SHF クリアファイル](https://takuan-shop.booth.pm/items/5143421)
+- [SUPER HAPPY アクリルキーホルダー（天使めぐver）](https://takuan-shop.booth.pm/items/5237822)
+- [アクリルキーホルダー（おだんごめぐver）](https://takuan-shop.booth.pm/items/5237848)
+- [SUPER HAPPY FREEDOM ! ライブTシャツ](https://takuan-shop.booth.pm/items/5237855)
+- [キラキラサイン入りフォトカード（ランダムヒーローイラスト付き）](https://takuan-shop.booth.pm/items/5237905)
+- [すーぱーはっぴーふりーだむ！シール](https://takuan-shop.booth.pm/items/5237929)
+- [東雲防災局マスキングテープ（Yellow）](https://takuan-shop.booth.pm/items/5239539)
+- [すーぱーはっぴーふりーだむ！キラキラロゴステッカー](https://takuan-shop.booth.pm/items/5254919)
+- [すーぱーはっぴーアクリルブロック！](https://takuan-shop.booth.pm/items/5304104)
+- [東雲防災局マスキングテープ（Yellow×black）](https://takuan-shop.booth.pm/items/5304146)
+- [東雲防災局マスキングテープ（black）](https://takuan-shop.booth.pm/items/5304150)
+- [すーぱーはっぴーアクリルスタンド！](https://takuan-shop.booth.pm/items/5304169)
 
 ---
 ## [BOOTH (SPWN-STORE)](https://balus-store.booth.pm/)
@@ -161,6 +177,17 @@ tags: 東雲めぐ
 ## [Zeeny](https://zeeny.com/)
 - [【東雲めぐ】Zeeny Lights 3 コラボレーションイヤフォン](https://zeeny.com/products/zeeny-lights-3-shinonomemegu?variant=43798432186602)
 
+## [SUZURI (V WORLD)](https://suzuri.jp/vworld/digital_products)
+- [【VRC向けオリジナル3Dモデル】ちびめぐさん](https://suzuri.jp/vworld/digital_products/23639)
+- [【VRC向けオリジナル3Dモデル】たくあんマン](https://suzuri.jp/vworld/digital_products/23684)
+- [【VRC向けオリジナル3Dモデル】とらんぴ](https://suzuri.jp/vworld/digital_products/23685)
+
+## [きゃらとれ](https://shop.snawdy-e.jp/categories/5398409)
+- [東雲めぐ　ヘルメット＋ホイッスルセット（防災冊子付）](https://shop.snawdy-e.jp/items/78022949)
+- [東雲めぐ　防災キットクッション（防災冊子付）](https://shop.snawdy-e.jp/items/78022981)
+- [東雲めぐ　缶入りパン（チョコチップ味）](https://shop.snawdy-e.jp/items/78023005)
+- [東雲めぐ　防災グッズコンプリートセット](https://shop.snawdy-e.jp/items/78023036)
+
 ---
 ## その他
 - [東雲めぐ アニメーションスタンプ](https://store.line.me/stickershop/product/4577084/ja)
@@ -210,3 +237,4 @@ tags: 東雲めぐ
 - PRIROLL 特典缶バッジ 丸型/ハート形
 - 175°DENO担担麺 【特典つき】中華セット・お仕事応援プラン 「お仕事記念名刺」
 - 「企業ブースピックアップ！ vtuberが周るvket2023summer」 サイン入り3Dキーホルダー
+- 「コラボゲーミングPC 東雲めぐモデル by FaVe」ちびキャラ スタンド付き アクリルキーホルダー
