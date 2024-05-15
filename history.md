@@ -9,6 +9,7 @@ tags: 東雲めぐ
 # 東雲めぐ 活動履歴
 [Twitterで共有](https://twitter.com/share?url=https://hackmd.io/@kuroiwasi/megu_history&text=東雲めぐ%20活動履歴&hashtags=東雲めぐ)
 
+
 基本的に公式サイトや本人周辺のツイートからわかる範囲で書いています．  
 書いてる人(Twitter):[@Schwarz_Sardine](https://twitter.com/Schwarz_Sardine)
 
@@ -91,6 +92,7 @@ tags: 東雲めぐ
 - **11/06** : Gugenka所属メンバー公式サイト<!--https://www.gugenka-universe.com/-->公開
 
 ### 2021
+- **03/01** : [活動3周年記念配信](https://youtube/RyRs0LUfYmk)
 - **03/06** : 日和丘高校卒業([ツイート](https://twitter.com/megu_shinonome/status/1368042856489701378?s=20),[記念配信](https://t.co/BzjdFn0rLp?amp=1))
 	- **04/02** : HoloModels 東雲めぐ -卒業Ver.- 発売 ([東雲めぐ -卒業Ver.- PV【HoloModels™️(ホロモデル)】](https://youtu.be/fnN4Tgsy7ko))
 - **04/06** : 誕生日(19歳) ([ツイート](https://twitter.com/megu_shinonome/status/1379087034841624577))
@@ -108,6 +110,7 @@ tags: 東雲めぐ
 - **12/11** : [【MV】Shout At The Sky / 東雲めぐ【オリジナル曲】](https://youtu.be/gtEls8hnXcs) 公開
 
 ### 2022
+- **03/01** : [活動4周年記念配信](https://youtu.be/sHIZAg2Qheo)
 - **03/29** : [【漫画MV】Dream Connection / 東雲めぐ【オリジナル曲】](https://youtu.be/v7r5CD9370Q) 公開
 - **04/06** : 誕生日(20歳)
 	-  [【もうすぐ誕生日】10代ラスト配信！【カウントダウン】](https://youtu.be/pYUy2d97OAA)
@@ -117,6 +120,7 @@ tags: 東雲めぐ
 - **09/21** : [【MV】Thirsty Thirsty / 東雲めぐ【オリジナル曲】](https://youtu.be/kAwtEG1sh5k) 公開
 
 ### 2023
+- **03/01** : [活動5周年記念配信](https://youtu.be/1ztHIbBLDgg)
 - **04/06** : 誕生日(21歳)
     - [21歳になりました！！！！！！！！！🎂✨✨](https://youtu.be/9qxXi6UirFg)
 - **05/01-06/03** : 活動休止期間 ([ツイート1](https://twitter.com/megu_shinonome/status/1652593987226845185)，[ツイート2](https://twitter.com/megu_shinonome/status/1665290803441459200)
@@ -149,6 +153,9 @@ tags: 東雲めぐ
 
 ### 2024
 - **01/01** : 朝の生配信を休止（[告知(X)](https://x.com/megu_shinonome/status/1741672911004749826)）
+- **03/01** : [活動6周年記念配信](https://youtu.be/DyAAlMxfi3c)
+- **04/06** : 誕生日(22歳)
+	- **04/07** : [２２歳のお姉さんになったよ～～～！！！！！！！！！！！！！](https://youtu.be/RKvG6Hds49U)
 
 ### 今後の予定
 
@@ -643,8 +650,17 @@ tags: 東雲めぐ
 ### 2024
 - **01/26** : [TOKYO XR・メタバース＆コンテンツ ビジネスワールド](https://xr-meta-biz.tokyo/)
 	- 11:30〜12:30 : [メタバース初心者から玄人までが楽しめるVRワールド「バーチャルマーケット」解説ツアー！](https://xr-meta-biz.tokyo/seminar_event/)
+- **03/01** : コラボゲーミングPC 東雲めぐモデル by FaVe
+    - [【ライトモデル】](https://firstpc.square.site/product/fave_sinonomemegu_pc01/259)
+    - [【スタンダードモデル】](https://firstpc.square.site/product/fave_sinonomemegu_pc02/260)
+    - [【ハイエンドモデル】](https://firstpc.square.site/product/fave_sinonomemegu_pc03/261)
+    - [【プレミアムモデル】](https://firstpc.square.site/product/fave_sinonomemegu_pc04/262)
+    - 4/22より [ヤフーショッピング](https://store.shopping.yahoo.co.jp/firstgamingpc/fave.html) へ移行
+- **03/24** : [人気VTuber参加のコンピアルバム『eVirGREEN』第2弾を作りたい！](https://camp-fire.jp/projects/view/739819) 開始
+- **05/13-05/26** : [パペター『東雲めぐ』](https://karel.mynavi.jp/products/papetter_megu) 受注販売
 
 ### 今後の予定
+- **08/31** : 超弩級仮想音楽夏祭 2024（[ド夏祭](https://twitter.com/donatsusai)）（[発表ポスト](https://twitter.com/donatsusai/status/1782343814927237455)）
 
 ---
 
