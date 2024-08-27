@@ -11,9 +11,9 @@ tags: 東雲めぐ
 		background-size: 40px 40px;
 		background-position: 0 0, 20px 20px;
 	}
-	a       { color: #737eae; }
-	a:hover { color: #8ebfe7; }
-    p       { padding: 0 1em;}
+	.markdown-body a       { color: #737eae; }
+	.markdown-body a:hover { color: #8ebfe7; }
+	p       { padding: 0 1em;}
 	hr      { background-color: #ef8589 !important; }
 	strong:not(a>strong)  { color: #f18a5d; }
 	small:not(a>small) {
@@ -21,16 +21,24 @@ tags: 東雲めぐ
 		padding : 0 1em;
 	}
 	#doc 	{ background-color: #fffcef !important; }
-	#doc>ul	{ padding-left: 0; }
-	#doc>ul>li {
+	#doc>.embed-note>ul	{ padding-left: 0; }
+	#doc>.embed-note>ul>li {
 		background-color: #fcfbf9;
 		margin: 0.25em;
 		padding: 0.25em 1em;
 		list-style: none;
 		border-radius: 0.25em;
-		border-left: solid 0.25em #f18a5d;
 	}
-	.markdown-body>h1 {
+    div:nth-child(1 of .embed-note)>ul>li {
+		border-left: solid 0.25em #ffcdc7;
+    }
+    div:nth-child(2 of .embed-note)>ul>li {
+		border-left: solid 0.25em #b1f0d1;
+    }
+    div:nth-child(3 of .embed-note)>ul>li {
+		border-left: solid 0.25em #cfe8ff;
+    }
+	.markdown-body h1 {
 		text-align: center;
 		background-color: #ef8589;
 		color: #fff;
@@ -39,14 +47,14 @@ tags: 東雲めぐ
 		padding: 0.5em 0;
 		border-radius: 1em 1em 0.25em 0.25em;
 	}
-	.markdown-body>h2 {
+	.markdown-body h2 {
 		padding: 0.25em 1em;
 		border-color :#f18a5d !important;
 		border-left: solid 1em;
 		border-radius: 0.25em 0 0 0.25em;
 	} 
-	.markdown-body>h2,
-	.markdown-body>h3 { color: #f18a5d; }
+	.markdown-body h2,
+	.markdown-body h3 { color: #f18a5d; }
 	.ui-toc-label {
 		background-color: #ef8589;
 		color: #fff;
@@ -64,6 +72,6 @@ tags: 東雲めぐ
 		content: "目次";
 	}
 	.fa-user:before {
-    	content: "\f16a";
+		content: "\f16a";
 	}
 </style>
