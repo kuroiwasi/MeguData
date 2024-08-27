@@ -1,0 +1,325 @@
+## 外部配信者コラボ・企画等
+### 2018
+- **03/09** : [【第3回】週間VTuberランキング【司会ときのそら】](https://youtu.be/WBvKRacLipE) [name=PANORA]
+- **07/19** : [【7/19(木)20:00~】ときのそら&ウェザーロイドType_A Airiコラボ生放送【投げ銭OK】](https://youtu.be/uMN9xSKVf9o?t=792) [name=SoraCh. ときのそらチャンネル]
+- **09/15** : [VER.チャンネル(#バージョンドット)](http://vt-ver.jp/)[公式番組開始](https://youtu.be/xhtSAF0rmEQ) [name=HIKKY Officials]  [名誉応援団長に就任](http://localpress.jp/niigata/detail.php?id=828)
+- **10/07** : [ぽんぽこ24 リターンズ](https://youtu.be/TJRSSH88e3M)
+- **10/13** : [【賞金1000万円!!!】バーチャルオーディション番組 『バージョンドットチャンネル』第２回放送！！](https://youtu.be/rqGRRdXnBgU) [name=HIKKY Officials]
+- **10/13** : 「[バーチャル忍道＜ニンジャロード＞地獄巡り編・弐](https://youtu.be/f6Q3MXksh8E)」出演 [name=動く城のフィオのVRチャンネル]
+- **10/29** : [【締切直前！】VER. ラストスパート追い込みスペシャル！](https://youtu.be/rrhg2_hD0J8) [name=HIKKY Officials]
+- **10/31** : 「[【MV】MonsterZ PARADE / MonsterZ MATE](https://youtu.be/3gdOMGB6744)」にゲスト出演 [name=MonsterZ MATE]
+- **11/03** : [【まじかるどーる超祭り】1部 \~PUBG人生相談マリカー大宴会！\~](https://youtu.be/muRRnOz35yc?t=924) メッセージ動画 [name=まじかるどーる / Magical Doll]
+- **11/04** : [【V-TV2nd#01】V-TV再始動！ゲスト：東雲めぐさん + アフタートーク](https://youtu.be/ORGvUvDF9Vk) [name=VRoadCaster]
+- **11/10** : [【シオめぐコラボ】仲よく話して遊ぶぞ～！！](https://youtu.be/v6pvjjtPuTw) [name=Shion Ch. 紫咲シオン]
+- **11/10** : [VER. 締め切りカウントダウン（ツイート）](https://twitter.com/vt_version/status/1061107065567858689)
+- **11/12** : [VER. 締め切り告知メッセージ（ツイート）](https://twitter.com/vt_version/status/1061819056045547520)
+- **11/25** : [バーチャルスター爆誕！ VER.受賞式～伝説の始まり～](https://youtu.be/spofepSqhyw) [name=HIKKY Officials]
+- **12/02** : [VRChat ボードゲーム『FairyLife』 Public化記念イベント](https://youtu.be/ZEgu5Vyw30U) [name=此花サクラ]
+- **12/25** : 【LIVE】 目指せ20万登録！ ゆにめぐはーとのクリスマス緊急生放送！(時間の都合により急遽不参加)
+- **12/29** : 「[第1回 VTuber紅白歌合戦](https://youtu.be/S4tMrb-4-q0)」に参加 [name=メイカちゃんねる]
+
+### 2019
+- **01/03** : 「[新春！バーチャル歌合戦](https://youtu.be/xiNqASpFEKA)」に参加 [name=朝ノ姉妹ぷろじぇくと]
+- **01/07** : 「[VRadio〜がんばるぅ子のるぅ子のお部屋〜](https://live2.nicovideo.jp/watch/lv317683290)」にゲスト出演
+- **01/13** : [【ボケ防止】チャンネル登録者数１まんにん記念配信](https://youtu.be/gyPt40XTtkU?t=3468) [name=動く城のフィオのVRチャンネル]
+- **01/15** : 「[VRadio～JAM GEM JUMP!!!～](https://cas.nicovideo.jp/user/83115560/lv317902333)」にゲスト出演
+	- [アーカイブ](https://youtu.be/LgxIBkwIhVM) [name=GEMS COMPANY公式チャンネル]
+- **01/17** : 「[VRadio〜ひらい・瑠璃のVtuberさんようこそ！〜](https://live2.nicovideo.jp/watch/lv317903450)」にゲスト出演
+- **01/18** : [雅まつり(@magical_matsuri )ちゃんとVRゲーム「おんぷっコ♪」を一緒にプレイ](https://youtu.be/lLoted3ZISs)
+- **01/18** : [【東雲めぐコラボ】ドレミファロンド歌ってみた♪【cover】](https://youtu.be/48oMvZn6wxc) [name=まじかるどーる / Magical Doll]
+- **01/23** : [VRC Oz苑の招待状が届いたよ！](https://youtu.be/DoBFwG7aMuo) （Ozさんのお金で焼肉食べたい2nd） [name=Roboco Ch. - ロボ子]
+	- 別視点　[おきゅたん Ocutan VR-Ch.](https://youtu.be/jtTqgyp_GxI) [name=おきゅたん Ocutan VR-Ch.]
+	- 別視点　[のらきゃっとチャンネル](https://youtu.be/SCItDpGXDho)[name=のらきゃっとチャンネル]
+- **02/11** : [【バレンタイン】あなたのハートを射止めるのはどっち！？【告白シチュエーション】](https://youtu.be/TyOPNxvdbwc) [name=Mel Channel 夜空メルチャンネル]
+- **02/14** : [コラボうたってみた動画「バレンタイン・キス」](https://youtu.be/R4PEMkDb418)配信 [name=Mel Channel 夜空メルチャンネル]
+- **02/21** : [マシマヒメコ](https://www.showroom-live.com/mashimahimeko)とコラボ配信
+	- [【コラボ】東雲めぐちゃんとイチャイチャするマシマヒメコ](https://youtu.be/pgQkj1oBu-k) [name=となりの研究生マシマヒメコ。]
+- **02/22** : [【猫の日】ニーナとめぐとにゃんにゃんしちゃお！にゃんにゃん生放送！【どうぶつタワーバトル】](https://youtu.be/xfPMBCwyHbQ) [name=Ni-na Channel]
+- **03/05** : [まつりの酔いどレディオ#23](https://youtu.be/L1f71IwH8-A) [name=風宮まつり / Matsuri Channel]
+- **03/15** : マシマヒメコとゲーム実況コラボ＠ミラティブ
+	- [はぴふり！東雲めぐちゃんのゲーム配信！1【ヒメコちゃんコラボ】](https://youtu.be/Vve6bX00aq4)
+	- [はぴふり！東雲めぐちゃんのゲーム配信！2【ヒメコちゃんコラボ】](https://youtu.be/VWDemt1xbpU)
+	- [はぴふり！東雲めぐちゃんのゲーム配信！3【ヒメコちゃんコラボ】](https://youtu.be/nlB8Yliel1Y)
+- **03/17** : [BAN酌　BANs1周年記念スペシャル](https://youtu.be/xU0LVYP4uo0?t=9423) [name=バーチャル債務者youtuber天開司]
+- **04/07** : [赤兎馬さんと一緒にブロスタ実況配信](https://youtu.be/EEq5tQOUA0Q)
+- **04/07** : キツネDJ楽曲コラボ企画
+    - [FUNKY MONKEY LOVE feat. キツネDJ】](https://youtu.be/EQKQr8srAJU)，[【B&G 3.0 feat. 東雲めぐ】](https://youtu.be/I6bba7_atus)をプレミア公開
+- **04/11** : [いるはーと一周年記念生放送！！](https://youtu.be/ejsTX04vWQk?t=3197) [name=いるはーと]
+- **04/28** : [ティフォン株式会社 深澤氏が音声インタビューでゲスト出演](https://youtu.be/J9xoFTwBcf8))
+- **05/22** : [【Vtuber身体測定】噂の清楚系美少女Vtuber身体測定します！【東雲めぐ/癒月ちょこ】](https://youtu.be/99WAyE3Gqic) [name=Choco Ch. 癒月ちょこ]
+- **05/27** : [マシマヒメコ](https://www.showroom-live.com/mashimahimeko)とコラボ配信
+- **06/05** : [サバイバルトレジャーゲーム！魔宮の秘宝 in VRCHAT](https://youtu.be/1Y0mjUYsJP0) [name=かおりちゃんねる]
+- **06/14** : [第二回アルテマ音楽祭](https://altemamusicfestival.com/guidance-of-participation-viewing-method/) アルテマステージ実況中継(SHOWROOM) 
+- **07/05** : OGYA-ROOMのお二人と第五人格をプレイ(ゲーム実況アプリ「Mirrativ（ミラティブ）」でコラボ配信)
+	- （がんばるぅ子視点）[【コラボ】第五人格with東雲めぐちゃん、ばぶちゃ【アーカイブ】](https://youtu.be/H2h1pQ76BB0) [name=がんばるぅ子 RUUKO CHANNEL]
+    -  (めっちゃばぶ美視点) [【コラボ】7月5日第五人格コラボ/めっちゃばぶ美【アーカイブ】](https://youtu.be/TjyZ86Z8b64)  [name=めっちゃばぶ美の政見放送]
+- **07/15** : 【[えのぐはバーチャルタレントさんとお話ししたい](https://youtu.be/ynVfClH35Ns)】にゲスト出演 [name=【VRアイドル】えのぐチャンネル]
+- **07/19** : [【06】マシマヒメコちゃんとお絵かきオンチ！？](https://youtu.be/pDMG6Isls8Y)
+- **07/24** : [東雲めぐ×ハピバト×九条林檎 コラボ生放送](https://youtu.be/MZPsBA45_Zk)  [name=九条 林檎【Kujo Ringo Official】]
+- **08/15** : [ぽんぽこ24 vol.3](https://youtu.be/O8_JeWD6-6Y) [name=ぽんぽこちゃんねる]
+- **08/18** : [オトラボ〜仮想音楽研究所〜](https://youtu.be/Ti9YmK4scQo) [name=VRoadCaster]
+- **09/06** : 東雲めぐ×ハピバト×九条林檎 コラボ生放送(SHOWROOM)([告知ツイート](https://twitter.com/ringo_0_0_5/status/1169176825559318529))
+- **10/07** : [東雲めぐ×ハピバト×九条林檎 コラボ生放送](https://youtu.be/uuAOA7l9mN4) [name=九条 林檎【Kujo Ringo Official】]
+- **10/11** : [アルテマナイト](https://youtu.be/NvlUzVigTl8) [name=アルテマ・エンターテインメント]
+- **10/18** : [アルテマナイト](https://youtu.be/JKlmZ3pxfmo) [name=アルテマ・エンターテインメント]
+- **10/23** : [新・麒麟家 初回ゲスト](https://www.nicovideo.jp/watch/so35952805)
+- **11/18** : [東雲めぐ×ハピバト×九条林檎 コラボ生放送](https://youtu.be/rID1-QwVGT0) [name=九条 林檎【Kujo Ringo Official】]
+- **11/28** : [アルテマナイト](https://youtu.be/UTbmkgMVeaM) [name=アルテマ・エンターテインメント]
+- **12/19** : [【MV】Beep☆CARAMEL / MonsterZ MATE](https://youtu.be/se0Cfzwfj8A) [name=MonsterZ MATE]
+- **12/23** : 東雲めぐ×ハピバト×九条林檎 コラボ生放送(SHOWROOM)([告知ツイート](https://twitter.com/ringo_0_0_5/status/1209036657669730305))
+- **12/30** : [【#Vsevendeadlysins】KILLER B 【歌ってみた】](https://youtu.be/rz_MrXeJ4bc) [name=鷹宮リオン / Rion Takamiya]
+
+### 2020
+- **02/05** : [東雲めぐ×ハピバト×九条林檎 コラボ生放送](https://youtu.be/_nSvAUpLyOQ) [name=九条 林檎【Kujo Ringo Official】]
+- **02/07** : [【#リリトーーク！ ②】バレンタイン【ゲスト：東雲めぐさん】](https://youtu.be/BsKdgfViPQo) [name=天使リリエル-Amatsuka Lilyel-]
+- **02/24** : [東雲めぐちゃん大好きVtuber](https://youtu.be/ElN8NRhz78I)
+- **03/13** : [音楽を止めるな](https://youtu.be/eb4f04jrVso) 参加([関連ツイート](https://twitter.com/AZKi_VDiVA/status/1238370580983762944))
+- **03/18** : [仁義なきドッキリ(天開司編)](https://youtu.be/sxuJWK8z4sU) [name=MonsterZ MATE]
+- **03/20** : [JKと債務者の貴重な〇〇シーン](https://youtu.be/cL4wIlq5R4w) [name=MonsterZ MATE]
+- **03/22** : [根間ういデビュー1周年記念生配信！](https://youtu.be/zU7HvDc7kgA?t=2259) [name=根間ういちゃんねる【おきなわ部】]
+- **04/06** : [MZM・司くんとおはなしをつくってみよう！](https://youtu.be/szTk9_CaLsU)
+- **04/25** : [POLYFULL!- まりなす（仮）[Vtuber]【オリジナル曲/MV】【＃まりなすMV参加プロジェクト】](https://youtu.be/N8qJ08SXXq8) [name=まりなすチャンネル【仮】]
+- **05/06** : [【24時間生放送】第2部 #ぽんぽこ24 vol.4 あつまれパーリナイッ！！](https://youtu.be/VlxFhmqnhjg) [name=ぽんぽこちゃんねる]
+- **05/09** : [東雲めぐちゃんとのファンミにイケてる奴乱入してきた…！【劇団ノーミーツ】](https://youtu.be/ro5l-AOfETY) [name=ノーミーツ / NOMEETS]
+- **05/19** : [UdonSobaJapanに遊びに行くよ配信！](https://youtu.be/kOm7gQNilvA)
+- **05/23** : [VJK交流会](https://youtu.be/PUW8MtTwZAs) [name=まりなすチャンネル【仮】]
+- **05/27** : [バチャリーグ～Gugenka　VS　BANs](https://youtu.be/UVrQwRkuQe0) [name=バーチャルYouTuber万楽えね]
+- **06/14** : [Live#275【VR野球盤】VTuber大集合の交流戦!! 東雲めぐ/パテピュア/のらきゃっと/九条林檎ほか](https://youtu.be/bI9M3wIDAx0) [name=おきゅたん Ocutan VR-Ch.]
+    - [【VR野球盤】燃えろ！！VR野球盤～交流戦～　しょうさ目線](https://youtu.be/rgY-z_hkkg4) [name=胡椒少々塩少佐]
+- **06/18** : [エレガ・ホウジョウの　激闘！最後にそれ正解！](https://youtu.be/4NO4F8GZZkw) [name=北条院エレガ【エレガの宮殿】]
+- **07/09** : アマネ・シャーロット一周年記念配信([ツイート](https://twitter.com/amane_charlotte/status/1280516970840875008))
+- **07/26** : [アルテマ音楽祭LOVESONG Arutema×Gugenka](https://twitcasting.tv/arutema_inc/shopcart/14066)
+- **07/30** : [🔴【コラボ】女だらけの人狼【生配信】](https://youtu.be/qP-FHm8kYi8) [name=ココツキ CocoTsuki Project]
+- **08/05** : [YuiTubeでしゃべりまShow😘‼︎第3回【東雲めぐちゃん】💖](https://youtu.be/zZioJosA5y0) [name=ニジキユイ/Yui-Virtual Singer-]
+- **08/08** : [YuiTubeでしゃべりまShow😘‼︎特別編【バースデーライブ】💖](https://youtu.be/VZ-k8c7xo4g?t=373) お祝いメッセージ [name=ニジキユイ/Yui-Virtual Singer-]
+- **09/18** : [『ﾀﾏｷｻｺﾝのスポーツ王は俺だ！2』【#VR野球BAN】](https://youtu.be/cOfsOdo93N0) [name=GIN CHANNEL「環左金」Vtuber]
+- **09/28** : [クラフトピア　チームGugenkaさんとコラボ！](https://youtu.be/E9RFiYsdO1I) - 環右金視点 [name=Channelタマキ]
+	- [東雲めぐ視点](https://youtu.be/Tl92XKO4T_w)
+	- [エピト視点](https://youtu.be/y4QolPNef64)
+- **10/04** : [夜に駆ける（cover）響木アオ＆東雲めぐ](https://youtu.be/yAhnZr6h_C8)
+- **10/14** : [尻友のみんなの質問に答えるよ！【麟麟家コラボ名場面集 その２】](https://youtu.be/G06JqIiEpI8) [name=Tacitly Channel]
+- **10/21** : [【ヨルタマリ】東雲めぐちゃんと勝負だぁ!!【オンチ卿持ち込み企画】](https://youtu.be/vBv5-EGJxpE) [name=Mari Channelかしこまり]
+- **11/07** : 第二回バーチャルキャスト大運動会([YouTube 1枠目](https://youtu.be/Wwa0KixHGcI)/[2枠目](https://youtu.be/DmtTHFlviD0),[niconico](https://live2.nicovideo.jp/watch/lv328912322)) [name=【VVTV】バーチャルばらえてぃーびぃ]
+- **11/11** : [【Holomodels】アプリで茨ひよりとお出かけしよう！With 東雲めぐちゃん！](https://youtu.be/yG6PlrJL_jE) [name=いばキラTV - IBAKIRA TV -]
+- **11/16** : [【生放送】東雲めぐちゃんと一緒！爆走Fall Guys！【茨ひより】](https://youtu.be/E1j0pXW9Q1M) [name=いばキラTV - IBAKIRA TV -]
+	- [茨ひよりちゃんとFallGuysコラボ！『Fall Guys: Ultimate Knockout』【東雲めぐ視点】](https://youtu.be/FcYuvsX4thQ)
+- **11/17** : [【東雲めぐ】ついに憧れのあの人と…！癒し系対談コラボ♥【白雪みしろ】#めぐしろ](https://youtu.be/M9GPWsaf0E8) [name=白雪みしろShirayuki Mishiro]
+- **12/03** : [【生配信/３D】12/3（木）は ＃音葉なほ誕生祭 ！【＃まりなす】](https://youtu.be/EswiizOQuos?t=3227) お祝いメッセージ [name=まりなすチャンネル【仮】]
+- **12/23** : [【桃鉄コラボ】2018年2月デビュー勢で超超超超電車バトル!!【かしこまり/春日部つくし/東雲めぐ/青道アカト/VTuber】](https://youtu.be/VwTmZe2DDEQ) [name=青道アカト / あおあか学園放送]
+
+### 2021
+- **01/01** : [【コント番組】「MZMのみなさんのおかげです。年越しスペシャル2020 〜今年は大変だったね〜」](https://youtu.be/qrcUj9XT13E) [name=MonsterZ MATE]
+- **01/01** : [【みんなで楽しく】チューリングラブ（cover）東雲めぐ × esora uma【歌ってみた】](https://youtu.be/RTI-T9lDJd4)
+- **01/01** : 桃鉄コラボ
+	- [【#新春桃鉄コラボ/東雲めぐ視点】お正月だし仲良くやろうね【かしこまり/天開司/コーサカ】](https://youtu.be/WulmBwbzBJc)
+	- [【#新春桃鉄コラボ/天開司視点】勝負事に手は抜かない性質でね【Vtuber/かしこまり/コーサカ/東雲めぐ】](https://youtu.be/_wJylWC_OAU) [name=バーチャル債務者youtuber天開司]
+	- [【#新春桃鉄コラボ/コーサカ視点】人生で二回目の桃鉄【Vtuber/かしこまり/天開司/東雲めぐ】](https://youtu.be/srTBtq4baxY) [name=MonsterZ MATE]
+	- [【#新春桃鉄コラボ/かしこまり視点】桃太郎電鉄 ～昭和 平成 令和も定番！～【東雲めぐ/天開司/コーサカ】](https://youtu.be/KV-GwjPqqb8) [name=Mari Channelかしこまり]
+- **01/25** : [【HoloModels】写真王は誰だ...!!!【東雲めぐ VS Altimate!!】✨Altimate!!のパレプロEX #20【LIVE 1/25】【パレプロEX】](https://youtu.be/GFeUqUY5YIw) [name=Palette Project Channel]
+- **01/30** : [【３０万人記念】みんなから初の凸待ち✨来てくれるかな！？【ホロライブ/夜空メル】](https://youtu.be/o12B4hZoKR8?t=3651) [name=Mel Channel 夜空メルチャンネル]
+- **02/10** : [【コラボラジオ】#26 ミミミMidnight 〜東雲めぐちゃんと一緒♡〜 【奏みみ】](https://youtu.be/HN7zKwJ0FQ4) [name=KANADE MiMi ch.]
+- **02/14** : [【バレンタインに】BABYMETAL- ギミチョコ！！- Gimme chocolate!! （cover）東雲めぐ＆メルティキッス（夜空メル＆癒月ちょこ）【歌ってみた】](https://youtu.be/x-g0SeUJxsI)
+- **02/17** : [【02/17(水)20：30～】Vキャスちゃんねる#52【ゲスト：東雲めぐ】](https://youtu.be/TAS-VYj3O4Y) [name=VirtualCast公式チャンネル]
+- **02/25** : [【トッカ自宅配信✨】ミクランドのお便り読みます！【ゲスト：東雲めぐ＆みゅみゅ＆あねえるたん】](https://youtu.be/MWZxj6T4kHk) [name=TOKKAちゃんねる]
+- **03/01** : [【VRマーダーミステリー】#1 バーチャル世界で挑む聖者の殉教](https://youtu.be/ZRHBpMajNmQ) [name=九条 林檎【Kujo Ringo Official】]
+- **03/10** : BiliBili [お絵描きの森コラボ](https://live.bilibili.com/22671782)([ツイート](https://twitter.com/az_yukimi/status/1369618502454104065)) [name=姉崎雪美Official的投稿视频]
+- **03/16** : [ギルラジ 春よ来い！ホワイトデーSP](https://youtu.be/YwSKUYdIxMo)([ツイート](https://twitter.com/srvguild/status/1367803752313356292)) [name=official SRV GUILD]
+- **03/29** : [【桃鉄コラボ】手加減なしの本気対決！！#みみとも桃鉄【杏戸ゆげ / 東雲めぐ / HACHI / 奏みみ】](https://youtu.be/IDELK2pkgOU) [name=KANADE MiMi ch.]
+- **04/05** : Among Us コラボ #Vおにごっこ (東雲めぐ視点配信なし)（[ツイート](https://twitter.com/megu_shinonome/status/1379011725249245184)）
+	- [【Among Us】鼓膜を守れ！おにごっこならぽれでもできる！！【獅子神レオナ/Vtuber】](https://youtu.be/qJz09JDtqCI) [name=獅子神レオナ/レオナちゃんねる]
+	- [【#Vおにごっこ】Among us Hide and Seek!【#天野ピカミィ / #pikamee 】](https://youtu.be/DKlz-YbV9gU) [name=天野ピカミィ. Pikamee]
+	- [【#Vおにごっこ】どきどきはじめてのAmong Us 鬼ごっこ！！【奏みみ視点】](https://youtu.be/T2LozKLoPjs) [name=KANADE MiMi ch.]
+	- [Among Us おにごっこ👹👾【音葉なほ(まりなす)視点】＃Vおにごっこ](https://youtu.be/vyLSEkvraQ8) [name=音葉なほのお唐揚げさん王国【まりなす】]
+	- [【Among Us】うっせえわ!わーわー鬼ごっこ!かしこまり視点!!【#Vおにごっこ】](https://youtu.be/5_Jji5d8NMI) [name=Mari Channelかしこまり]
+	- [【#Vおにごっこ】鬼やらせてくれ頼む【Ci視点 / BOOGEY VOXX】](https://youtu.be/ZmcDbGPJ760) [name=BOOGEY VOXX -official-]
+	- [【among us】宇宙で鬼ごっこ【日ノ隈らん / あにまーれ】](https://youtu.be/XJd0kotNl3U) [name=Ran Channel / 日ノ隈らん 【あにまーれ】]
+	- [【Among Us】ドキドキ！ワクワク！大人数で鬼ごっこ！　シャルロット視点。#Vおにごっこ​【島村シャルロット / ハニスト](https://youtu.be/TMxDU3-djmQ) [name=Charlotte Channel / 島村シャルロット【ハニスト】]
+	- [【#Vおにごっこ】エイレーンの打ち切り上等！【萌実】](https://www.mildom.com/playback/10879056/10879056-c1lf98vtc1nps1fr0vsg) [name=エイレーン]
+- **04/07** : [南の島で何かやる【#春休み超3Dコラボ祭】](https://youtu.be/HWlOhVH2fVY) [name=九条 林檎【Kujo Ringo Official】]
+- **04/15** : [ウマ娘から競馬を学ぶ！ 飲酒雑談 ♯ヨルタマリ 【かしこまり/東雲めぐ/唐沢狐皂】](https://youtu.be/2ptKPZohgUE) [name=Mari Channelかしこまり]
+- **04/28** : [【#白雪みしろ3D】ついにお披露目！ご主人様、動くみしろをご覧ください♥【のりプロ所属】](https://youtu.be/hw0HZSy3rSA?t=2141) お祝いコメント [name=白雪みしろShirayuki Mishiro]
+- **05/05** : [ぽんぽこ24 vol.5 「ピカいい話」](https://youtu.be/UTiu6-_G9fE?t=7245) [name=ぽんぽこちゃんねる]
+- **06/10** : [🟢【Fall Guys】生き残りたい！！！【＃ナギナミ生放送】](https://youtu.be/bGZQNYrg-VI) [name=ナギナミちゃんねる]
+- **06/26** : [【VRマーダーミステリー】#2 バーチャル世界で挑む聖者の殉教](https://youtu.be/lwFV7WmVx4Y) [name=九条 林檎【Kujo Ringo Official】]
+- **07/03** : [【1周年記念】アンドロイドだって誕生日をお祝いしちゃいます！【九十九トッカ】](https://youtu.be/JOTocV4jdHI&t=2079s) メッセージ動画
+- **07/10** : [🟢【祝2周年】過去最大？総勢〇〇名への逆凸祭！私たちを祝ってください！！【＃ナギナミ生放送】](https://youtu.be/hwPL9rwhbus?t=8868) [name=ナギナミちゃんねる]
+- **07/16** : [【 第4回 #はじ女子 】はじめまして！女子会しませんか？【 かしこまり/東雲めぐ/禰好亭めてお 】](https://youtu.be/t_0bhLZJegA) [name=禰好亭めてお ch / DiscoTei Meteo ch.]
+- **08/03** : [【生放送】祝！茨城県公認Vtuber茨ひより　活動３周年【茨ひより】](https://youtu.be/MPRhMfmr1zw) [name=いばキラTV - IBAKIRA TV -]
+- **08/05** : [🟢【ポケモンユナイト】夏だ！コラボだ！！ユナイトだ！！！【＃真夏のV乱打戦】【ナギナミ】](https://youtu.be/f9nHIeyIbjk) [name=ナギナミちゃんねる]
+- **08/17** : [【 第5回 #はじ女子 】はじめまして！女子会しませんか？【 奏天まひろ/東雲めぐ/禰好亭めてお 】](https://youtu.be/CXnRIq3GwTI) [name=禰好亭めてお ch / DiscoTei Meteo ch.]
+- **09/10** : [木星のビート（cover）かしこまり＆東雲めぐ](https://youtu.be/4rRCTRZBk2k)
+- **10/01** : [【誕生祭】YuNiのHappy Birth Day 記念配信！！#YuNi誕生祭](https://youtu.be/6Uih-PdNd0g?t=2530) [name=YuNi - official channel -]
+- **10/15** : [ゲストトーク&凸待ち配信 Vol.3【ジェムカン主催】](https://youtu.be/YA8p9oPvCfQ?t=576) [name=GEMS COMPANY公式チャンネル]
+- **10/20** : [【新３D】音葉なほ新モデルお披露目スペシャル！【＃音葉なほ新３D/＃まりなす/VTuber/３D】](https://youtu.be/KwrSCGFCFSY) [name=まりなすチャンネル Virtual Dance＆Vocal Unit]
+- **10/24** : [【#リアルタイムノベル】あなたの選択で物語が変わる!? リアルタイムノベル会議🖊【バッキー/かしこまり/東雲めぐ】](https://youtu.be/iO-GkAtqhKA) [name=バッキー【V-Novelゲームクリエイター】]
+- **10/26** : [【#Vハロパ】何が起こるか分からない！？VTuberハロウィンパーティ＠VRChat](https://t.co/ssTxydnX5p) [name=江戸レナ Edo Lena]
+- **10/31** : [【リアルタイムノベル】 ハロウィンライブ編【かしこまり/東雲めぐ】](https://youtu.be/E1VOLPtjS28) [name=Mari Channelかしこまり]
+- **11/03** : [万物のバーチャル博覧会 #ファンタズムセブン vs 東雲めぐ/エピト/鈴山八広/ねも/わたあめ子/少佐/おきゅたん Live#403](https://youtu.be/7sR8tJTfzzs) [name=おきゅたん Ocutan VR-Ch.]
+- **11/22** : [🟢【愛】ナギナミ王に俺はなるっ！！！ドンッ！！【#ナギナミ王】【ナギナミ 】](https://youtu.be/UwMC0dfBu4A) [name=ナギナミちゃんねる]
+- **11/25** : [🟢【可愛い】女の子V同士でお喋りしながらリアルタコパっ！！！【#Vタコ女子会】【ナギナミ】](https://youtu.be/ExtvIKDbrLE) [name=ナギナミちゃんねる]
+- **11/27** : [【まったり】ぼっちOvercooked！！！！【お料理】](https://youtu.be/oxjcIqc9XIw)
+	- インサイドちゃんMark1 & ディープブリザード
+- **12/04** : [【コラボで歌ってみた】ヴァンパイア / DECO\*27 (Covered by かしこまり＆東雲めぐ)](https://youtu.be/Flwz2NwZ6No) [name=Mari Channelかしこまり]
+- **12/16** : [【#Vket2021】江戸レナ＆東雲めぐでVketデート♥【#めぐれなVket】](https://youtu.be/q9KzaRTjzcY)
+- **12/20** : [【めぐジラ】番組を飛び出してコラボ配信！東雲めぐちゃんとウェブポンまわしておしゃべり【東雲めぐ＆ジラ】](https://youtu.be/j-YnGiwWu7w) [name=Gila Channel / ジラ]
+- **12/23** : [【みんなで】シン・アモングアス【東雲めぐ視点】#シン・アモアス](https://youtu.be/YCHpmSCs6Ng)
+    - [【#シンアモアス】新役職が実装されたらしいよ！！【ユキミお姉ちゃん視点】](https://youtu.be/XbI2kGNuJfg) [name=ユキミお姉ちゃんねる-Yukimi]
+    - [【AmongUs】天城てん視点 - #シンアモアス 新役職であそぼうね～🐺🍖✨【星天Game】](https://youtu.be/WktTzFztlLU) [name=星天ちゃんねる]
+    - [【ゲーム】新役職ができたらしいよ！！#シン・アモアス 「エルセ視点」](https://youtu.be/5nskw1rN7dM) [name=エルセとさめのぽき]
+    - [【AmongUs】#シン・アモアス アプデで追加された役職持ち初挑戦！【にじさんじ/愛園愛美】](https://youtu.be/jOA8cmKonkE) [name=愛園 愛美/Aizono Manami]
+    - [【Among us】新役職でもヌーブかます　 #シンアモアス](https://youtu.be/FbMfBpO2g70) [name=アズミちゃんねる]
+    - [【Among Us】インポスターとクルーしか知らないわたしの宇宙に新役職が #シン・アモアス【大浦るかこ / あにまーれ】](https://youtu.be/stzq7DsfkCw) [name=Rukako Channel / 大浦るかこ 【あにまーれ】]
+    - [【Among Us】新役職あっても大丈夫か！？宇宙人狼【#シンアモアス】](https://youtu.be/INJgdqNgaPQ) [name=神楽すず]
+    - [【#シン・アモアス】はじめまして、新役職のたみーです【愛園愛美/東雲めぐ/ヤマトイオリ/たみー/天城てん/歌衣アズミ/ユキミお姉ちゃん/神楽すず/エルセ/大浦るかこ 】](https://youtu.be/V9apahIKsz4) [name=たみーCh / 民安ともえ]
+    - [【Among Us】役職がくわっわった宇宙人狼【 #シンアモアス】](https://youtu.be/cNeqMwLV8L4) [name=ヤマト イオリ]
+- **12/24** : [【ころねぽち】ぼうけんのしょがきえました！（cover）【東雲めぐ】](https://youtu.be/n-Bqsk1MBos)
+- **12/25** : [【まったり】みんなでクリスマス会🎄【シークレットゲストも！】](https://youtu.be/V4qGLwBG7pc)
+	- ゲスト：aika，江戸レナ
+- **12/25** : [みんなでクリスマス＆冬曲メドレー歌ってみた！](https://youtu.be/z2hu3ATdSag)
+- **12/28** : [【凸配信】毎年恒例今年最後に呼びたい方を呼ぶ！！](https://youtu.be/a6pTIcha6Vw) [name=せんのいのり-InoriSenno-]
+- **12/29** : [【初めての】HUMAN Fall Flat【#清らかな水500円】](https://youtu.be/ow4suDCBeyU)
+- **12/31** : [年末凸待ちカウントダウン2021🎊【がんばるぅ子】](https://youtu.be/9aS_-hAEx2w) [name=がんばるぅ子 RUUKO CHANNEL]
+
+### 2022
+- **01/01** : めぐちゃんと過ごすお正月
+	-  凸待ち企画
+	-  [開運占い（魔心サリー）](https://youtu.be/0SZWBijAGKg?t=14203)
+- **01/10** : [【1月10日19時～】APEX格闘カスタム「ゆっちょCUP」本配信【JP/EN】](https://youtu.be/CkQ_we81r90) [name=ゆっちょ Ch. / Yuccho]
+	- [【#ゆっちょCUP】APEX初心者が初めて大会に出ます【ブロンズ伝説】](https://www.twitch.tv/videos/1259030742)
+- **01/14** : [【雑談】めぐちゃと念願女子会！#エルセの部屋](https://youtu.be/gEvlPUyUBjU) [name=エルセとさめのぽき]
+- **01/14** : [【初めての】GODFIELDってなーに？【オンラインバトルゲーム】](https://youtu.be/0-CiIqYO5eI)
+	- [【God Field】ゆっちょCUPブロンズ伝説打ち上げ会！！](https://youtu.be/6Eg4o_ELGsM) [name=せんのいのり-InoriSenno-]
+- **01/17** : [みんなで楽しくパーティーゲーム🌟【東雲めぐ視点】](https://youtu.be/OW6Kxn4kfko)
+	- [人見知りでもパーティーゲームがしたい！│ばぶかす・馬犬・東雲めぐ・インサイドちゃんMark２・魔王マグロナ・あっくん大魔王](https://youtu.be/Ylyfl9fI8bI) [name=ばぶかす / VAV-KAS]
+	- [陰陽トーナメント](https://youtu.be/0NvOW57QHS4) [name=馬犬Channel]
+	- [陰キャなんでパーティゲームって一人でやるものだと思ってました。【馬犬/ばぶかす/東雲めぐ/つーちゃん/魔王マグロナ/あっくん大魔王】](https://youtu.be/ptc5eLnM15c) [name=インサイドちゃん -INSIDEChan Sisters-]
+	- [陽なる者どものパーティゲームはいしん【ばぶかす/馬犬/東雲めぐ/インサイドちゃんMark２/あっくん大魔王/魔王マグロナ】](https://youtu.be/o8O6_ZSCkK8) [name=Magrona channel / まぐろなちゃんねる]
+	- [ポテチをパーティ開けをするタイミングなんて人生でそんなにない│あっくん大魔王・ばぶかす・馬犬・東雲めぐ・インサイドちゃんMark２・魔王マグロナ](https://youtu.be/gAU2nOZXqhE) [name=あっくん大魔王]
+- **03/01** : [【VRマーダーミステリー】#3 バーチャル世界で挑む聖者の殉教](https://youtu.be/YSD7077Mew4) [name=九条 林檎【Kujo Ringo Official】]
+- **03/15** : [ぽんぽこちゃんとお花見行ったら喧嘩になった #Shorts](https://youtu.be/SYI3QMCd-to)
+- **03/22** : 第2回 シン・アモングアス （延期）
+- **03/25** : [【第2回陰陽大戦】みんなで仲良くゴルフしよ～！【東雲めぐ視点】](https://youtu.be/0ak8_OWMx9U)
+	- [泥沼Golf It杯！帰ってきた陰陽大戦│ばぶかす・馬犬・東雲めぐ・インサイドちゃんMark２・魔王マグロナ・あっくん大魔王](https://youtu.be/DiDNcdQN1Mg) [name=ばぶかす / VAV-KAS]
+- **04/02** : [九条林檎バーチャルライブ大実験Ⅱ](https://virtualcast.jp/blog/2022/03/ringolive2/)
+	-  [『バーチャルライブ大実験Ⅱ』同時配信【九条林檎】](https://youtu.be/TY5MqybkUQs)[name=九条 林檎【Kujo Ringo Official】]
+- **04/28** : [【#超初心者えぺ】APEX初心者グループ【らいちゃんとエピト】](https://www.twitch.tv/videos/1468346927)
+	- [【APEX】初心者だらけのAPEX！！リターンズ！！](https://youtu.be/hrJy28flO5I) [name=九条 茘枝 【Kujo Lychee Official】 ]
+- **05/04** : [【VR凸待ち】1時間でYouTuber、何人来る？](https://youtu.be/ei7rZFSlOig) [name=おめがシスターズ Ω Sisters]
+- **05/05** : [【#超初心者えぺ】APEX初心者グループ【らいちゃんとエピト】](https://www.twitch.tv/videos/1474801811)
+- **05/05** : [【蕎麦屋プレゼンツ】VRメルヘン村で遊ぼう！](https://youtu.be/VvzJZ3P7Q5Q)
+- **05/08** : [【第３部】おはよー！！朝だ！！まだまだ続くぞ！！２４時間生放送！！眠気に爆笑！！ぽんぽこ24vol.6 ～フューチャー～](https://youtu.be/FA7zFxdiJ1g) [name=ぽんぽこちゃんねる]
+- **05/17** : [【#チーム金髪とマゼンタ】みんなでフォールガイズ！【まったり】](https://youtu.be/pzpcuAp3cxI)
+	- [【Fallguys】チーム金髪とマゼンタによるFallguysです【チーム金髪】](https://youtu.be/0cyGkuM1DyQ) [name=九条 茘枝 【Kujo Lychee Official】 ]
+- **05/20** : [【コラボ晩酌】20歳になっためぐちゃんと飲んじゃうよ💓／東雲めぐ＆奏みみ【#スナックみみ 】](https://youtu.be/NKS6JDm0ifw) [name=KANADE MiMi ch.]
+- **05/22** : [【都市伝説】おめシスに歌担当の人がいたドッキリ](https://youtu.be/ZBFAuNEwmv0) [name=おめがシスターズ Ω Sisters]
+- **05/26** : [【蕎麦屋プレゼンツ】ぶっちゃけ！？ホンネトーク！！](https://youtu.be/6tEajolRuac)
+- **05/27** : [逆凸】Vtuberさんたちとﾄﾞｷﾄﾞｷ逆凸おはなし会!!!!!!!!!!!!【ころねぽち】](https://youtu.be/A6X_noUmVQM) [name=ころね ぽち -Pochi korone-]
+- **06/03** : [【開運占い】2022年下半期の運勢占ってもらいます！【視聴者参加型】](https://youtu.be/yjKFAZ9EoCs)
+- **06/05** : [Prison Escape大脱獄コラボ【育良啓一郎/エピト/かえるの人/かみ/九条林檎/東雲めぐ/白二郎】](https://youtu.be/zQeYfWwWiMk) [name=九条 林檎【Kujo Ringo Official】]
+- **06/15** : [【#チーム金髪】一緒に練習がんばるぞおおおお！【初心者APEX】](https://www.twitch.tv/videos/1503535148)
+	- [【APEX】ゲリラ練習！！！【チーム金髪】](https://youtu.be/tKoFlVwtjzc) [name=九条 茘枝 【Kujo Lychee Official】]
+- **06/20** : [【#チーム金髪】一緒に練習がんばるぞおおおお！【初心者APEX】](https://www.twitch.tv/videos/1509000552)
+	- [【APEX】一歩ずつ成長してく物語【チーム金髪】](https://youtu.be/BbcrZ3MEF2w) [name=九条 茘枝 【Kujo Lychee Official】]
+- **06/23** : [【#チーム金髪】一緒に練習がんばるぞおおおお！【初心者APEX】](https://www.twitch.tv/videos/1511810764)
+	- [【APEX】クソエイム杯 練習カスタム【九条茘枝視点】](https://youtu.be/MSXrGK6RxoQ) [name=九条 茘枝 【Kujo Lychee Official】]
+- **06/26** : [【#チーム金髪】一緒に練習がんばるぞおおおお！【初心者APEX】](https://www.twitch.tv/videos/1514635211)
+	- [【APEX】クソエイム杯 本戦！！チーム金髪です【九条茘枝視点】](https://youtu.be/-rk2p71UNMc) [name=九条 茘枝 【Kujo Lychee Official】]
+- **07/04** : [あいえるたん10周年記念SPライブ ！【あいえるーむ】](https://youtu.be/VuaDcGny_ZE) [name=あいえるちゃんねる]
+- **07/12** : [【#ブロンズ伝説】せんのいのり杯に向けて頑張ります！【初心者APEX】](https://www.twitch.tv/videos/1529623706)
+- **07/15** : [【#ブロンズ伝説】せんのいのり杯に向けて頑張ります！【初心者APEX】](https://www.twitch.tv/videos/1532439568)
+- **07/16** : せんのいのり杯S4 本戦 [Twitch](https://www.twitch.tv/videos/1533394711)
+	- [【JP/EN】せんのいのり杯S4本番！ブロンズ伝説【3分遅延あり】](https://www.twitch.tv/videos/1533394676) (Twitch) [name=sennoinori_jp]
+	- [【APEX】ブロンズ伝説　本番！！！【せんのいのり杯】](https://youtu.be/5VZya9dFkqs)
+	- [【JP/EN】ブロンズ伝説打ち上げ！【VTuber】](https://www.twitch.tv/videos/1538339170) (Twitch) [name=sennoinori_jp]
+- **07/26** : [【 清らかな水500円 】お誕生日３D 配信 おつかれさま会【ジラ＆東雲めぐ】](https://youtu.be/wCvzHOjlqA0) [name=Gila Channel / ジラ]
+- **07/28** : [【ゲスト有】酒懺悔会Part６～酒の失敗は酒で流す～](https://youtu.be/UE9X-D-t-T4) [name=九条 茘枝 【Kujo Lychee Official】]
+- **07/29** : [【#チーム金髪】マキオ先生にAPEX教えてもらいます！【まったり】](https://www.twitch.tv/videos/1546245864)
+	- [【APEX】APEX始めてから約半年以上でどれだけ成長してる…！？【チーム金髪】](https://youtu.be/JRuE6WIYJSI) [name=九条 茘枝 【Kujo Lychee Official】]
+- **08/07** : [【APEX】わーいわいAPEX【ｗ東雲めぐ＆エピト】](https://youtu.be/u-OdXAp15IA) [name=ちゃんぬ]
+- **08/12** : [【ゲスト有】酒懺悔会Part7～酒の失敗は酒で流す～](https://youtu.be/b7WzmB_0rOk) [name=九条 茘枝 【Kujo Lychee Official】]
+- **08/16** : [【姉妹でラジオ】ちゃんずの家らじ！ #93 ゲスト:東雲めぐ【 #家らじ！ 】/The sisters' radio-style talk show!](https://youtu.be/wS8KFx101uo) [name=インサイドちゃんMark2 / -INSIDEChan Sisters-]
+- **08/16** : [【まったり】みんなでRaft！【コラボ】](https://www.twitch.tv/videos/1563585805)
+	- [【JP/EN】ブロンズ伝説＋2匹の生活【初見】](https://www.twitch.tv/videos/1563550491) (Twitch) [name=sennoinori_jp]
+- **08/23** : [【Vket2022Summer】バトルディスクR4 Vketコミュニティ杯 #Vket #8月はバトルディスク](https://youtu.be/1tmM6uH69Zk) [name=Vket Channel]
+- **08/24** : [【Phasmophobia】こわいけどがんばる【シノノメイト＆双宮ゆすた＆エピト＆東雲めぐ】](https://www.twitch.tv/videos/1571205369)
+- **08/31** : [【08/31(水)20：30～】Vキャスちゃんねる#111【ミクランドクイズ大会！GUEST：東雲めぐ】](https://youtu.be/DnE4pEst1uI) [name=VirtualCast公式チャンネル]
+- **09/03** : [9月3日はグミの日コラボ！【東雲めぐちゃん／ぷかちゃん／ムシャさん】](https://youtu.be/Z6cQkMvL-y8) [name=琴吹ゆめ【Yume Kotobuki Official】]
+- **09/07** : [【09/7(水)20：30～】Vキャスちゃんねる#112【SAKURA FRONTであそぼ！】](https://youtu.be/tOuvYQoscf4) [name=VirtualCast公式チャンネル]
+- **09/12** : [【初心者APEX】ブロンズ伝説で練習だ！](https://www.twitch.tv/videos/1588889707) (Twitch)
+- **09/22** : [【Vtuber】東雲めぐちゃんとカジュアル！！！！【APEX Legends】](https://youtu.be/jvg2XmB1KjU) [name=兎茗望もちちゃんねる]
+	- [もちちゃんとまったり（？）APEX！](https://www.twitch.tv/videos/1597966445)
+- **09/23** : [【マキオカスタム】れすてぃあさんと もちちゃんと頑張ります！](https://www.twitch.tv/videos/1598870006)
+- **09/24** : [バーチャル即売会『メタフェス』に遊びに行くよ！【VRchat】](https://youtu.be/br01yUg1pkk)
+	- [メタフェス ｜ METAFES](https://metafes.jp/)
+- ** 09/24** : [【まったり】いののめんぬ！顔合わせ配信【APEX】](https://www.twitch.tv/videos/1599877377)
+- **09/24** : [【初心者APEX】champion獲るまで終われません⁉【チーム金髪】](https://www.twitch.tv/videos/1599964410)
+- **09/25** : [あの「はぴふり」が見える？！では相撲しましょうか【東雲めぐ】【ジラ】【清らかな水500円】 【VTuber】【バーチャルユーチューバー】【アニメ】【anime】バチャメ](https://youtu.be/eJNdhXvtxnw) [name=バーチャルのメディア ( バチャメ ) MEDIA OF VIRTUAL]
+- **09/25** : Coade CUP APEXLEGENDS Act.1
+	- [【大会本番】いののめんぬで頑張るよう！【coade cup】](https://www.twitch.tv/videos/1600827090)
+	- [【APEX】Coade CUP APEXLEGENDS Act.1　チーム「いののめんぬ」ちゃんぬ視点【ｗ猪ノ谷言葉＆東雲めぐ】](https://youtu.be/NMKX-LHXeQU) [name=ちゃんぬ]
+- **10/07** : [エピトと紅蓮さんとまったりAPEXのハロウィンイベントやってみる👻](https://www.twitch.tv/videos/1614950963)
+- **10/10** : [【お好み焼の日】ｼﾞｭｯｼﾞｭﾜｱｱｧｧｧｧｧｧ！！フェスティバル2022](https://youtu.be/ScFMijIemDM) [name=どんどん亭]
+- **10/18** : [【 スプラ3 】 アマネェェeeeee！そうだ!今からVtuberでゲームしない? 【 Vtuber / #うたしろらいぶ】](https://youtu.be/gd-U_wKjTyE) [name=Amane Ch. 雅楽代 アマネ【毎週歌枠配信チャンネル】]
+- **10/21** : [ 【わいわい】みんなでスプラ3コラボ！【東雲めぐ視点】 ](https://youtu.be/qFyrv8NeCrU)
+	- [ 【スプラトゥーン3】一緒に塗りまくろう!!! ](https://youtu.be/VMo_05XglB4) [name=インサイドちゃんMark1]
+	- [【スプラトゥーン3】4人で遊ぶことになりました！【あっくん大魔王/アメザリひらい/インサイドMark1/東雲めぐ】](https://youtu.be/DUx91mOGCZA) [name=あっくん大魔王]
+	- [ 【#Splatoon3】おっさんヌリタクルで！アメザリひらい視点【４人で頑張る】 ](https://youtu.be/7bllKuUFkgg) [name= アメザリひらい Virtual]
+- **11/03**: : [ 【APEX】アプデしたし突発コラボで遊ぶぞ～！ ](https://youtu.be/DCFgVTy7ocA) [name=九条 茘枝 【Kujo Lychee Official】]
+- **11/06** : [ JOHNNY HENRY - 愛にすべてを (Official Music Video) ](https://youtu.be/xuUhGP7j4NM) [name=JOHNNY HENRY]
+- **11/20** : APEXカスタム大会 #V感謝杯
+    - [#V感謝杯 -Apex Legends Custom match-](https://youtu.be/BVMoGsHf3JM) [name=Shikai Yue Ch. 始解ゆゑ]
+- **12/06** : [【#白雪みしろ3周年】Mishiro in Wonderland【白雪みしろ/のりプロ所属】](https://youtu.be/n7G0PzUa63c) [name=白雪みしろShirayuki Mishiro]
+- **12/21** : [🔴《#VTuberを発掘せよ3》総勢50人が出演する年末のお祭り✨大型発掘企画を見逃すな👀](https://youtu.be/TvkQu-AUgeI) [name=禰好亭めてお ch / DiscoTei Meteo ch.]
+- **12/28** : [フェリッシモXVR蕎麦屋タナベコラボ　メタバース雑誌METAMORE創刊＆休刊号](https://vr-sobaya.booth.pm/items/4432756)
+
+### 2023
+- **02/03** : [【VirtualCast】チーム金髪で節分を思う存分楽しみます【恵方巻食べるよ】](https://youtu.be/zWOVUBkUy0k) [name=九条 茘枝 【Kujo Lychee Official】]
+- **02/05** : [【VTuber48人合唱】Smiling【歌ってみた】](https://youtu.be/CadQ1RqVbsc) [name=夕月ティア Ch / Vsinger]
+- **02/05** : [中華の匂いにつられてやってきたお友達と一緒に食レポ配信🥢](https://youtu.be/KNT11ZRV04g)
+- **02/06** : [ブロンズ伝説(完)で一致するまで終われまテン！！【九条茘枝視点】](https://youtu.be/aRuQtsGNe_0) [name=九条 茘枝 【Kujo Lychee Official】]
+    - [【ZOOMラウンジ】一致するまで終われまテン！！/せんのいのり](https://youtu.be/xpQKCDQcq3g) [name=せんのいのり-InoriSenno-]
+    - [【ぶろんず伝説(完)】一致するまで終われまテン.ᐟ.ᐟ【wエピト　東雲めぐ　九条茘枝　せんのいのり】](https://youtu.be/gERjTtG4rvs) [name=ちゃんぬ]
+- **02/21** : [【VRC】チーム金髪でVRCで遊ぶ！！！](https://youtu.be/lhCozTfihOA)
+- **02/26** : [【APEX】3人で最後にチャンピオン取るまで終われないAPEX【チーム金髪は永久不滅】](https://youtu.be/uHWjv4Zh7lI) [name=九条 茘枝 【Kujo Lychee Official】]
+- **06/08** : [【AmongUs】みんなで暴露アモアス！！【わいわい】](https://youtu.be/dH3jnm13LQo)<!-- https://youtu.be/J_Y5jlhCKV0 -->
+	- [AmongUs｜吊られたら秘密を暴露するあもあす🚀👊✨【 #暴露アモアス / #あまぎてん 】](https://youtu.be/J12leE_V9fQ)[name=天城てん - Ten Amagi -]
+	- [【Among Us】吊られたら秘密暴露ポポ！？そんな秘密なんかあるわけ【家入ポポ / ななしいんく】](https://youtu.be/DssZnzZWKFU)[name=Popo Channel / 家入ポポ【ななしいんく】]
+	- [【#暴露アモアス】釣られたら秘密を告白！暴露アモアス【歌衣イツミ視点 】](https://youtu.be/ERz5qNovlU4)[name=イツミちゃんねる]
+	- [【 Among us 】大人数コラボ！！吊られたら一環の終わり！！？暴露アモアス！！【栢森エマ/Emma Chouette】](https://youtu.be/utsHyvKt3zI)[name=栢森エマ / Emma Chouette]
+	- [【#暴露アモアス】吊られたらガチで秘密暴露します‥!!釣られません!!【たみー視点/天城てん/家入ポポ/歌衣イツミ/栢森エマ/東雲めぐ/ユキミお姉ちゃん/羽奏こはく】](https://youtu.be/_vVXsklaJv8)[name= たみーCh / 民安ともえ]
+	- [【#暴露アモアス】吊られたら秘密を告白！暴かれちゃう！？【Vtuber/ユキミお姉ちゃん/#amongus 】](https://youtu.be/GNICiioqelk)[name=ユキミお姉ちゃんねる-Yukimi]
+	- [【Among Us】隠し事なんてなにもありません…！【羽奏 こはく / #暴露アモアス 】](https://youtu.be/u-BHMz0XzK8)[name=Kohaku Ch.羽奏 こはく]
+- **06/12-06/16** : [VR音楽劇「HarmonicA」](https://twitter.com/imgn_official/status/1665684076848726016) ([キャラクター紹介](https://twitter.com/imgn_official/status/1666007171149225988), [出演者メッセージ](https://twitter.com/imgn_official/status/1666010791089143809))
+	- **06/12**
+		- 開場: 21:00 / 開演: 21:30, 会場: VRChat
+	- **06/13,6/16**
+		- 開場: 20:00 / 開演: 20:30, 会場: VRChat
+		- 開場: 21:30 / 開演: 22:00, 会場: VRChat
+- **07/04** : [みんなで楽しくガーティックフォン！【東雲めぐ視点】](https://youtu.be/PjC3O1lHTNM)
+    - [【Garticphone】マウス縛り！？お絵描きコラボ～！【家入ポポ / ななしいんく】](https://youtu.be/SnCjNcdk4Nk)[name=Popo Channel / 家入ポポ【ななしいんく】]
+    - [マウス縛り!?伝わるのか…お絵描き伝言ゲーム【たみー視点/家入ポポ/歌衣イツミ/栢森エマ/東雲めぐ/ユキミお姉ちゃん/羽奏こはく】](https://youtu.be/ScCyHlRXGQI)[name=たみーCh / 民安ともえ ]
+    - [【 Gartic Phone 】マウス縛り⁉ 描ける気がしないお絵かき伝言ゲーム☎【歌衣イツミ視点 】](https://youtu.be/jMb6dxhmqJI)[name=イツミちゃんねる]
+    - [【 Gartic Phone 】大人数コラボ！✨今回はマウス縛りで大人数画伯！！？？【栢森エマ/Emma Chouette】](https://youtu.be/UXAw5YFE_1M)[name=栢森エマ / Emma Chouette]
+    - [マウス縛り！？画伯誕生！GarticPhone【Vtuber/ユキミお姉ちゃん/#garticphone 】](https://youtu.be/kTct9RqP2v0)[name=ユキミお姉ちゃんねる-Yukimi]
+    - [【Garticphone】最　強　の　画　伯　視　点　【羽奏こはく/Vtuber】](https://youtu.be/5sVgJKt7Eqo)[name=Kohaku Ch.羽奏 こはく]
+- **06/26-07/14** : [VR音楽劇「HarmonicA」追加公演](https://twitter.com/imgn_official/status/1669630907790110721)
+    - **06/26,07/10,07/11,07/14**
+		- 開場: 20:00 / 開演: 20:30, 会場: VRChat
+		- 開場: 21:30 / 開演: 22:00, 会場: VRChat
+    - **07/09** : [VR音楽劇「HarmonicA」【完全動画版】](https://youtu.be/DxLWp63xzhQ)[name=九条 林檎【Kujo Ringo Official】]
+    - **07/14** : [【生配信】VR音楽劇「HarmonicA」-千秋楽-](https://youtu.be/8RmbMSQbxPA)[name=九条 林檎【Kujo Ringo Official】]
+- **08/15** : 3週連続歌ってみたコラボ祭り（[ツイート](https://twitter.com/Yuudutsu_Tear/status/1687418105033895936)）
+	- [ハッピー・ジャムジャム / 東雲めぐ × 夕月ティア【歌ってみた】](https://youtu.be/QFnDszsKndw) [name=夕月ティア Ch / Vsinger]
+- **08/22** : [【Super Bunny Man】うさぎになって協力して絆がうまれて友達に！【九十九トッカ/東雲めぐ】](https://youtu.be/RZZXxgjXVkQ)[name=TSUKUMO TOKKA Ch.]
+- **09/09** : SHOWROOMゲスト : 柑橘るい/真綾ちゃん [関連ポスト(X)](https://twitter.com/megu_shinonome/status/1700489498990354494)
+- **09/10** : [【逆凸】100万人祝ってほしい悪魔の深夜逆凸！【ホロライブ/癒月ちょこ】](https://youtu.be/D2ZUEPmlaJg&t=8741) [name=Choco Ch. 癒月ちょこ]
+- **11/25** : [Vだらけ文化祭](https://twitter.com/Claire_sensei/status/1721467763758424109) [name=クレア英会話]
+    - 16:30~ : [ぽんこつ!?英語テスト](https://youtu.be/Mfmbew68noo?t=17200)
+
+### 2024
+- **02/02** : [【遅ればせ】夢瞳カナウ爆誕☆凸待ちアリ？！【お誕生日】](https://youtu.be/kMSXaop7xVA?t=4914) [name=Kanau Ch. 夢瞳カナウ]
+
+### 今後の予定
+
+
+---
