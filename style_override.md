@@ -22,13 +22,16 @@ tags: 東雲めぐ
 			padding : 0 1em;
 		}
 		#doc 	{ background-color: #fffcef !important; }
-		#doc>.embed-note>ul	{ padding-left: 0; }
-		#doc>.embed-note>ul>li {
+		.markdown-body ul	{ padding-left: 0 !important; }
+		.markdown-body li {
 			background-color: #fcfbf9 !important;
 			margin: 0.25em;
 			padding: 0.25em 1em;
 			list-style: none;
 			border-radius: 0.25em;
+		}
+		li::marker {
+			content: none !important;
 		}
 		div:nth-child(1 of .embed-note)>ul>li {
 			border-left: solid 0.25em #ffcdc7;
@@ -78,13 +81,18 @@ tags: 東雲めぐ
 	}
 	@media print {
 		#meta-title-tags {
-			display: none;
+			page-break-inside: none !important;
+			display: none !important;
 		}
+		#doc 	{ padding-top: unset; }
 		div:nth-child(1 of .embed-note) {
 			page-break-inside: auto !important;
 		}
 		small:not(a>small) *, .fa-user:before {
 			color: #cdcdcd !important;
+		}
+		h1 span{
+			color: #fff !important;
 		}
 	}
 </style>
