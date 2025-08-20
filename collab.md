@@ -231,6 +231,7 @@
 	- [【JP/EN】せんのいのり杯S4本番！ブロンズ伝説【3分遅延あり】](https://www.twitch.tv/videos/1533394676) (Twitch) [name=sennoinori_jp]
 	- [【APEX】ブロンズ伝説　本番！！！【せんのいのり杯】](https://youtu.be/5VZya9dFkqs)
 	- [【JP/EN】ブロンズ伝説打ち上げ！【VTuber】](https://www.twitch.tv/videos/1538339170) (Twitch) [name=sennoinori_jp]
+- **07/21** : [【ジラ爆誕3】お誕生日３D配信！！！！【ジラ/ビータス】]](https://youtu.be/-nmV5SEmiXk)
 - **07/26** : [【 清らかな水500円 】お誕生日３D 配信 おつかれさま会【ジラ＆東雲めぐ】](https://youtu.be/wCvzHOjlqA0) [name=Gila Channel / ジラ]
 - **07/28** : [【ゲスト有】酒懺悔会Part６～酒の失敗は酒で流す～](https://youtu.be/UE9X-D-t-T4) [name=九条 茘枝 【Kujo Lychee Official】]
 - **07/29** : [【#チーム金髪】マキオ先生にAPEX教えてもらいます！【まったり】](https://www.twitch.tv/videos/1546245864)
@@ -319,7 +320,20 @@
 ### 2024
 - **02/02** : [【遅ればせ】夢瞳カナウ爆誕☆凸待ちアリ？！【お誕生日】](https://youtu.be/kMSXaop7xVA?t=4914) [name=Kanau Ch. 夢瞳カナウ]
 
-### 今後の予定
+### 2025
+- **01/22** : [【コラボ】東雲めぐと初コラボってマジィ？！はぴふりっておいしいの？！【雑談】](https://youtu.be/2oFPcQasz4I) [name=Kanau Ch. 夢瞳カナウ]
+- **07/05** : [#130 東雲めぐ：みんなを幸せにしたい！Vtuberデビューから現在の心境の変化は？意外な音楽ジャンルに挑戦！？](https://youtu.be/Lx3ruNanUzg) [name=シルホドスキ【バーチャルインタビュー】]
+- **07/29** : [【 R.E.P.O. ／ 東雲めぐ視点 】友達と一緒に遊ぶためならばホラーゲームも頑張ります…ﾊｧﾊｧ......](https://youtu.be/rLRd3DNEfMY) 
+    - [【R.E.P.O.】今度は4人で✨楽しすぎるお宝探しゲーム！ トッカ視点【 #REPOれるVコラボ 】](https://youtu.be/HPuSOkiqYF8) [name=TSUKUMO TOKKA Ch.]
+    - [【 R.E.P.O. / バイン視点 】可愛い女性VTuberたちの仲を取り持ちながら血眼で宝を探す独身VTuberになります【 #REPOれるVコラボ 】](https://youtu.be/5OvwROFkYN4) [name=ライゼンバイン燐夏]
+    - [【 R.E.P.O. 】4人でたのしくれぽ♪ #REPOれるVコラボ w/燐夏・ライゼンバイン、九十九トッカ、東雲めぐ【 二藍しぃあ / もりもりにゃんこめし 】](https://youtu.be/lj20xDhbj4I) [name=二藍しぃあ / Futaai Shia ch.]
+- **08/01** [#134 東雲めぐ：AniCastは実家！？VR向けの配信ツールやプラットフォーム、それぞれの良さとは？](https://youtu.be/SVDvPGUum2c) [name=シルホドスキ【バーチャルインタビュー】]
+- **08/20** : [【 R.E.P.O. ／ 東雲めぐ視点 】4人でレベル5目指すぞ～！お～！✨【#REPOれるVコラボ 】](https://youtu.be/l8Wq7owZXMo)
+    - [【R.E.P.O.】プロ＆初心者パーティ🤖2時間でレベル５まで行く配信！！ トッカ視点【 #REPOれるVコラボ 】](https://youtu.be/opUMCIe9ATM) [name=TSUKUMO TOKKA Ch.]
+    - [【 R.E.P.O. / バイン視点 】制限時間2時間でレベル5いける絶対いけるいや無謀では？配信【 #REPOれるVコラボ 】](https://youtu.be/SFewPuP2qIk) [name=ライゼンバイン燐夏]
+    - [【 R.E.P.O. 】5階行くぞ行くぞ！！ #REPOれるVコラボ w/燐夏・ライゼンバイン、九十九トッカ、東雲めぐ【 二藍しぃあ / もりもりにゃんこめし 】](https://youtu.be/Qo7KVBlWPnk) [name=二藍しぃあ / Futaai Shia ch.]
 
+### 今後の予定
+- **08/21** : [【VRChatでおさんぽ】めぐレナ電脳珍道中♥【第一回】#めぐレナ #めぐレナ電脳珍道中](https://youtu.be/1HX4GX248dc)
 
 ---
