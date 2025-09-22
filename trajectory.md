@@ -101,6 +101,8 @@
 	-  [【祝】東雲めぐ爆誕祭！！！【20歳】](https://youtu.be/XHwte1R_PcM)
 - **06/30** : となりのめぐちゃんアラーム，めぐあーとキッズペイント 配信終了<!--- **08/05** : SHOWROOM 投げギフトシステム再開-->
 - **09/21** : [【MV】Thirsty Thirsty / 東雲めぐ【オリジナル曲】](https://youtu.be/kAwtEG1sh5k) 公開
+- **10/01** : 新2Dアバター
+    - [【新Live2Dお披露目】遂に制服卒業！？うごくぞ！かわいいぞ！【東雲めぐ】](https://youtu.be/GQtCAcNtTUw)
 
 ### 2023
 - **03/01** : [活動5周年記念配信](https://youtu.be/1ztHIbBLDgg)
@@ -139,6 +141,17 @@
 - **03/01** : [活動6周年記念配信](https://youtu.be/DyAAlMxfi3c)
 - **04/06** : 誕生日(22歳)
 	- **04/07** : [２２歳のお姉さんになったよ～～～！！！！！！！！！！！！！](https://youtu.be/RKvG6Hds49U)
+
+### 2025
+- **03/01** : [活動7周年記念配信](https://youtu.be/D1rZijlpFh4)
+- **04/05** : [東雲めぐのすーぱーはっぴーバースデーパーティー](https://t.livepocket.jp/e/diuhx)
+    - [当日物販](https://x.com/megu_shinonome/status/1908008468126347589)
+    - [事後オンライン販売](https://planetmagic.base.shop/categories/6549505)
+- **04/06** : 誕生日(23歳)
+    - [23歳になりました～～～～～～～～～～～～！！！！／東雲めぐ](https://youtu.be/_TVKxrecIJI)
+- **05/12** : 朝配信復活 （[関連投稿(X)](https://x.com/megu_shinonome/status/1921522693125325154)）
+- **09/21** : 新3Dアバター
+    - [【#東雲めぐ新3Dお披露目】はぴふり～✨あなたにHappyを届けたい！東雲めぐです【Another style】](https://youtu.be/LF8MyQi9e5M)
 
 ### 今後の予定
 
