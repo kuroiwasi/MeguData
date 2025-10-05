@@ -332,8 +332,17 @@
     - [【R.E.P.O.】プロ＆初心者パーティ🤖2時間でレベル５まで行く配信！！ トッカ視点【 #REPOれるVコラボ 】](https://youtu.be/opUMCIe9ATM) [name=TSUKUMO TOKKA Ch.]
     - [【 R.E.P.O. / バイン視点 】制限時間2時間でレベル5いける絶対いけるいや無謀では？配信【 #REPOれるVコラボ 】](https://youtu.be/SFewPuP2qIk) [name=ライゼンバイン燐夏]
     - [【 R.E.P.O. 】5階行くぞ行くぞ！！ #REPOれるVコラボ w/燐夏・ライゼンバイン、九十九トッカ、東雲めぐ【 二藍しぃあ / もりもりにゃんこめし 】](https://youtu.be/Qo7KVBlWPnk) [name=二藍しぃあ / Futaai Shia ch.]
+- **08/21** : [【VRChatでおさんぽ】めぐレナ電脳珍道中♥【第一回】#めぐレナ #めぐレナ電脳珍道中](https://youtu.be/1HX4GX248dc)
+- **09/18** : [【VRChatでおさんぽ】めぐレナ電脳珍道中♥【第2回】#めぐレナ #めぐレナ電脳珍道中 #VRChat](https://youtu.be/ZShM8jDZaj4)
+- **09/20** : [【東雲めぐと歌ってみた】3分後に恋が叶う唄(ミディ Remix)](https://youtu.be/sB3KMhYn3iM)[name=Mari Channelかしこまり]
+- **09/26** : [【 R.E.P.O. ／ 東雲めぐ視点 】今日、レベル10に行きます。おそらく最終回。【#REPOれるVコラボ 】](https://youtu.be/v5vmkSaY92Q)
+    - [【R.E.P.O.】私たちならあっという間にレベル10です！よね？ 九十九トッカ視点【 #REPOれるVコラボ 】](https://youtu.be/ig5eDypfyaY)[name=TSUKUMO TOKKA Ch.]
+    - [【 R.E.P.O. 】レベル10の世界が見たくないかい？見せてあげよう配信【 #REPOれるVコラボ 】](https://youtu.be/PYy1LMIel74)[name=ライゼンバイン燐夏]
+    - [【 R.E.P.O. 】この調子なら10階なんて余裕ですね♡ #REPOれるVコラボ w/燐夏・ライゼンバイン、九十九トッカ、東雲めぐ【 二藍しぃあ / もりもりにゃんこめし 】](https://youtu.be/FE_o_FkJ2jQ)[name=二藍しぃあ / Futaai Shia ch.]
+- **09/27** : [【もうすぐリアイベ🍻】まりめぐコラボ！／ #かしこまり ＆ #東雲めぐ](https://youtu.be/f2KsOZN2fig)
+- **10/04** : [#143 東雲めぐ：すごい人が多すぎる！ライバルでもあり憧れでもある、尊敬するVtuber達！](https://youtu.be/125s5_loxOM) [name=シルホドスキ【バーチャルインタビュー】]
 
 ### 今後の予定
-- **08/21** : [【VRChatでおさんぽ】めぐレナ電脳珍道中♥【第一回】#めぐレナ #めぐレナ電脳珍道中](https://youtu.be/1HX4GX248dc)
+
 
 ---
