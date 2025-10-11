@@ -189,6 +189,14 @@ tags: 東雲めぐ
 - [東雲めぐ　防災グッズコンプリートセット](https://shop.snawdy-e.jp/items/78023036)
 
 ---
+## [東雲めぐのすーぱーはっぴーバースデーパーティー (事後通販) PLANET MAGIC](https://planetmagic.base.shop/categories/6549505)
+- [アクリルキーホルダー（東雲めぐ）](https://planetmagic.base.shop/items/102649947)
+- [アクリルスタンド（東雲めぐ）](https://planetmagic.base.shop/items/102649920)
+- [ランダムチェキ（東雲めぐ）](https://planetmagic.base.shop/items/102649301)
+- [キャンバスアート（東雲めぐ）](https://planetmagic.base.shop/items/102650041)
+- [【現地引き取りのみ】イベント会場限定展示パネル（サイン付き）（東雲めぐ）](https://planetmagic.base.shop/items/103622416)
+
+---
 ## その他
 - [東雲めぐ アニメーションスタンプ](https://store.line.me/stickershop/product/4577084/ja)
 - [G-GEAR 東雲めぐ 推奨パソコン](https://www.tsukumo.co.jp/bto/pc/special/shinonome_megu/)
@@ -201,7 +209,43 @@ tags: 東雲めぐ
 	- 東雲めぐ__ランダムブロマイド 2L （商品番号:1038030002） 全4種
 	- 東雲めぐ__ステッカー01 （商品番号:1038030003）
 	- 東雲めぐ__ステッカー02 （商品番号:1038030004）
-	
+
+## [カレル](https://karel.mynavi.jp/)
+- [パペター”東雲めぐ”](https://karel.mynavi.jp/products/papetter_megu)
+
+## [Kuroe](https://kuroellc.shop-pro.jp/)
+- [東雲めぐ「はにしゅわセット」](https://kuroellc.shop-pro.jp/?pid=177774009)
+    - メッセージカード
+- [東雲めぐ　ゆずはぴ](https://kuroellc.shop-pro.jp/?pid=188460583)
+    - メッセージカード
+    - 缶バッジ
+
+## ガチャイチタウン ガチャイチタウン 渋谷MODI店
+- 1等：東雲めぐがあなたに私物のプレゼント
+- 2等：オリジナルクッション
+- 3等：直筆サイン＆イラスト色紙
+- 4等：オリジナル箸・橋箱セット
+- 5等：アクリルキーホルダー
+- 6等：限定ボイスメッセージ
+- 7等：チェキ風イラストカード
+- 8等：限定缶バッジ 3種
+- 9等：ポストカード
+- ラストワン賞：東雲めぐがあなたに向けた30秒動画
+
+
+## [東雲めぐとはっぴーわくわく文化祭！](https://t.livepocket.jp/e/k9-jd)
+### [PLANET MAGIC](https://planetmagic.base.shop/)
+- [アクスタアクキー](https://planetmagic.base.shop/items/120599247)
+- [オリジナルグラス](https://planetmagic.base.shop/items/120598104)
+- [オリジナルTシャツ](https://planetmagic.base.shop/items/120597779)
+- [ステッカーセット](https://planetmagic.base.shop/items/120633475)
+- [ランダムチェキ](https://planetmagic.base.shop/items/120600377)
+- [チケット風アクキー](https://planetmagic.base.shop/items/120599617)
+- [キャンバスアート](https://planetmagic.base.shop/items/120600227)
+### [more than language](https://mtl.base.ec/)
+- [【MTL×東雲めぐ＆かしこまり】「お疲れサマー！文化祭ビール スイカ味」 コラボラベルビール1本＋アクリルコースターセット](https://mtl.base.ec/items/120525807)
+
+
 
 ---
 ## 非売品
@@ -238,3 +282,4 @@ tags: 東雲めぐ
 - 175°DENO担担麺 【特典つき】中華セット・お仕事応援プラン 「お仕事記念名刺」
 - 「企業ブースピックアップ！ vtuberが周るvket2023summer」 サイン入り3Dキーホルダー
 - 「コラボゲーミングPC 東雲めぐモデル by FaVe」ちびキャラ スタンド付き アクリルキーホルダー
+- アメカファーム 山梨のシャインマスカット2房 九十九トッカちゃん＆東雲めぐさん直筆メッセージカード
