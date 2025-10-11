@@ -38,6 +38,7 @@
 - **10/12** : SHOWROOM magazine [【大塚愛×東雲めぐ/特別対談インタビュー】](https://magazine.showroom-live.com/interview/3968)
 - **10/27** : キッズボンボン「[グーチョキパーでなにつくろう](https://youtu.be/ogS4aqczzPA)」公開 [name=キッズボンボン]
 - **10/27** : 「[バーチャルハロウィン VR脱出ゲーム ~伝説のお菓子を求めて](https://vrz.jp/virtual-halloween/)」に参加 （[プレスリリース](https://prtimes.jp/main/html/rd/p/000000002.000037805.html)）
+    - [バーチャルハロウィン VR脱出ゲーム \~伝説のお菓子を求めて\~](https://youtu.be/h6qiYRVI7Wo)[name=なるはやちゃんねる]
 - **11/04** : [バーチャルエンタス](http://cp-site.com/v_entas/)
 	- 第一回メインパーソナリティ
 - **11/24** : キッズボンボン「[赤鼻のトナカイ](https://youtu.be/zA6uk5v6OvI)」公開 [name=キッズボンボン]
@@ -513,8 +514,9 @@
 - **07/11-07/31** : [ETERNAL MEDAL](https://www.eternalmedal.com/) 夏メダル第2弾 （[告知ポスト](https://x.com/eternalmedal/status/1942161670542921894)）
     - [東雲めぐと過ごす海ガチャ](https://www.eternalmedal.com/gacha/507/)
     - 7月推し棚グランプリ 準グランプリ ([関連投稿](https://x.com/eternalmedal/status/1953048407326536146))
+- **10/04** : [1部「東雲めぐとはっぴーわくわく文化祭！」2部「まりめぐと楽しい酔いどれ文化祭」](https://t.livepocket.jp/e/k9-jd)
+- **10/10** : [【アメカファーム】今が旬！シャインマスカット](https://youtu.be/yiX-58VluV4)[name=Virtual Cast Shopping Ch.]
 
 ### 今後の予定
-
 
 ---
