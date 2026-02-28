@@ -341,8 +341,28 @@
     - [【 R.E.P.O. 】この調子なら10階なんて余裕ですね♡ #REPOれるVコラボ w/燐夏・ライゼンバイン、九十九トッカ、東雲めぐ【 二藍しぃあ / もりもりにゃんこめし 】](https://youtu.be/FE_o_FkJ2jQ)[name=二藍しぃあ / Futaai Shia ch.]
 - **09/27** : [【もうすぐリアイベ🍻】まりめぐコラボ！／ #かしこまり ＆ #東雲めぐ](https://youtu.be/f2KsOZN2fig)
 - **10/04** : [#143 東雲めぐ：すごい人が多すぎる！ライバルでもあり憧れでもある、尊敬するVtuber達！](https://youtu.be/125s5_loxOM) [name=シルホドスキ【バーチャルインタビュー】]
+- **10/16** : [【VRChatでおさんぽ】めぐレナ電脳珍道中♥【第3回】#めぐレナ #めぐレナ電脳珍道中 #VRChat](https://youtu.be/lkg7hSXh7GQ)
+- **11/05** : [【ボイスドラマ公開!!】まりめぐ文化祭の打ち上げをしよう!!](https://youtu.be/pDxnbdZnWuU) [name=Mari Channelかしこまり]
+- **11/06** : [【 R.E.P.O. ／ 東雲めぐ視点 】アプデ後、初コラボ！✨【#REPOれるVコラボ 】](https://youtu.be/kO7LcWykdN0) ⇒　体調不良につき欠席
+    - [【 R.E.P.O. 】アプデ後の世界に最強メンバーが集結する予定だった配信【 #REPOれるVコラボ のはずが・・・ 】](https://youtu.be/2hph4IfyXYs)[name=ライゼンバイン燐夏]
+    - [【R.E.P.O.】敵もアプデ！こっちもアプデ！！今度こそレベル10へ！！【 #REPOれるVコラボ 】](https://youtu.be/y7_nH_P3zAE) [name=TSUKUMO TOKKA Ch.]
+- **11/20** : [【VRChatでおさんぽ】めぐレナ電脳珍道中♥【第4回】#めぐレナ #めぐレナ電脳珍道中 #VRChat](https://youtu.be/6z8Um2kQgIU)
+- **12/11** [【第１６回】ゲストは東雲めぐちゃん＆ムシャさん！グミの魅力発信番組【 #ゆめぷかグミライブ 】](https://youtu.be/ZKq6gYMCB_s) [name=琴吹ゆめ【Yume Kotobuki Official】]
+- **12/16** : [引退発表した"あの人"が家に来てくれました。](https://youtu.be/c2Q_urydA3U) [name=おめがシスターズ Ω Sisters]
+- **12/18** : [【VRChatでおさんぽ】めぐレナ電脳珍道中♥【第5回】#めぐレナ #めぐレナ電脳珍道中 #VRChat](https://youtu.be/AUrdWF3uUog)
+- **12/24** : [誕生日カウントダウン!!!!!｜#江戸レナ7周年 記念配信（お披露目/ゲスト）【VRChat配信】](https://youtu.be/7EM_6v-27gM?&t=2431) お祝いメッセージ動画
+
+### 2026
+- **01/15** : [【VRChatでおさんぽ】めぐレナ電脳珍道中♥【第6回】#めぐレナ #めぐレナ電脳珍道中 #VRChat](https://youtu.be/nqUEywvsjs4)
+- **01/21** : [【R.E.P.O.】フルパで挑戦だ～～！！Elsa（犬）に会いたい🐕【#REPO女子会】](https://youtu.be/QLBarOu1cOQ)
+    - [【R.E.P.O.】みんなでわくわく宝探し✨️【 #REPO女子会 】](https://youtu.be/nZUVDu6WlgI) [name=桐谷こむぎ-Komugi Channel-]
+    - [【 #REPO女子会 】女子会で宝探しとか…素敵やん？【 瀬戸乃とと / RK Music / ライブユニオン 】](https://youtu.be/5C4m_VPdGY4) [name=瀬戸乃とと]
+    - [【R.E.P.O.】念願の初R.E.P.O.コラボ！！！なにをしたらいいんですか！！！！！！！【日向奈央視点】 ＃REPO女子会](https://youtu.be/mm8eq1ZXg3s) [name=日向奈央]
+    - [✧︎*.〖 R.E.P.O. ┊︎クララ視点〗目標：頭だけにならない。絶対。。。。 ⋆꙳〖#暁月クララ┊︎#パレプロ〗](https://youtu.bef3IgU9wPJtY) [name=暁月クララ / Akatsuki Clara【パレプロ】]
+    - [〖 R.E.P.O. 〗#REPO女子会 こんな大人数で…はじめて…〖 天川はの/vtuber 〗](https://youtu.be/eSyPa2NooBk) [name=天川はの/AmakawaHano]
+- **02/08** : [【雑談コラボ】ASAKA MEETS 28 #8 ゲスト:東雲めぐ #ASAKA28](https://youtu.be/QfgjIba1G0E) [ASAKAchannel]
+- **02/27** : [【VRChatでおさんぽ】めぐレナ電脳珍道中♥【第7回】#めぐレナ #めぐレナ電脳珍道中 #VRChat](https://youtu.be/AeXzJli3VEY)
 
 ### 今後の予定
-
 
 ---
