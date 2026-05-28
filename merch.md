@@ -102,6 +102,16 @@ tags: 東雲めぐ
 - [東雲防災局マスキングテープ（Yellow×black）](https://takuan-shop.booth.pm/items/5304146)
 - [東雲防災局マスキングテープ（black）](https://takuan-shop.booth.pm/items/5304150)
 - [すーぱーはっぴーアクリルスタンド！](https://takuan-shop.booth.pm/items/5304169)
+- [新3Dモデルオーロラアクリルスタンド](https://takuan-shop.booth.pm/items/7571807)
+- [【新3D東雲めぐ】証明写真風ステッカー](https://takuan-shop.booth.pm/items/7592984)
+- [【直筆サイン入り】郵便屋さんキャンバスアート](https://takuan-shop.booth.pm/items/7725558)
+    - ハート型キャンバス
+    - 丸型キャンバス
+- [郵便屋さんレザーコースター](https://takuan-shop.booth.pm/items/7725784)
+- [郵便屋さんハート型キラキラ缶バッチ](https://takuan-shop.booth.pm/items/7725801)
+- [【サイン入りもあり】郵便屋さんキラキラポストカード](https://takuan-shop.booth.pm/items/7726035)
+    - サイン入り通常ver
+    - サイン無しウインクver
 
 ---
 ## [BOOTH (SPWN-STORE)](https://balus-store.booth.pm/)
@@ -197,18 +207,25 @@ tags: 東雲めぐ
 - [【現地引き取りのみ】イベント会場限定展示パネル（サイン付き）（東雲めぐ）](https://planetmagic.base.shop/items/103622416)
 
 ---
-## その他
-- [東雲めぐ アニメーションスタンプ](https://store.line.me/stickershop/product/4577084/ja)
-- [G-GEAR 東雲めぐ 推奨パソコン](https://www.tsukumo.co.jp/bto/pc/special/shinonome_megu/)
-- [東雲めぐコラボOVO](https://gugenka.jp/ovo_collab/)
-- [東雲めぐ公式アプリ となりのめぐちゃんアラーム](https://gugenka.jp/original/megu-alarm.php)
-- [めぐあーとキッズペイント](https://gugenka.jp/original/kids-paint.php)
-- [【PARCO×SHOWROOM】オリジナルアパレルproject](https://www.showroom-live.com/campaign/apparel_sales)
-- [ローソンプリント オリジナルブロマイド](https://lawson-print.com/products/categories/megu_shinonome)
-	- 東雲めぐ__ランダムブロマイド L （商品番号:1038030001） 全4種
-	- 東雲めぐ__ランダムブロマイド 2L （商品番号:1038030002） 全4種
-	- 東雲めぐ__ステッカー01 （商品番号:1038030003）
-	- 東雲めぐ__ステッカー02 （商品番号:1038030004）
+## 東雲めぐのお誕生日cafe&bar
+### [PLANET MAGIC](https://planetmagic.base.shop/categories/7277916)
+- [ステッカーセット【郵便屋さんセット】（東雲めぐ）](https://planetmagic.base.shop/items/140658290)
+- [ステッカーセット【CAFE &BARセット】（東雲めぐ）](https://planetmagic.base.shop/items/140658261)
+- [チケット風アクリルキーホルダー（東雲めぐ）](https://planetmagic.base.shop/items/140656212)
+- [アクリルスタンド（東雲めぐ）](https://planetmagic.base.shop/items/140656063)
+
+#### [東雲めぐのお誕生日cafe&bar【展示パネル抽選販売】](https://planetmagic.base.shop/categories/7277916)
+- [【抽選販売】東雲めぐ お誕生日cafe&bar 展示 等身大パネル（制服ver.）【会場受取限定】](https://planetmagic.base.shop/items/140857505)
+- [【抽選販売】東雲めぐ お誕生日cafe&bar 展示 等身大パネル（茶色スカートver.）【会場受取限定】](https://planetmagic.base.shop/items/140857386)
+- [【抽選販売】東雲めぐ お誕生日cafe&bar 展示 等身大パネル（水着ver.）【会場受取限定】](https://planetmagic.base.shop/items/140857256)
+- [【抽選販売】東雲めぐ お誕生日cafe&bar 展示 等身大パネル（夜空スカートver.）【会場受取限定】](https://planetmagic.base.shop/items/140857112)
+- [【抽選販売】東雲めぐ お誕生日cafe&bar 展示 等身大パネル（郵便屋さんver.）【会場受取限定】](https://planetmagic.base.shop/items/140856640)
+
+### 現地のみ
+- チョコレート風 ラバーキーホルダー
+- アクスタアクキー
+- フロストグラスマグカップ
+- アクリルマドラー 
 
 ## [カレル](https://karel.mynavi.jp/)
 - [パペター”東雲めぐ”](https://karel.mynavi.jp/products/papetter_megu)
@@ -245,7 +262,32 @@ tags: 東雲めぐ
 ### [more than language](https://mtl.base.ec/)
 - [【MTL×東雲めぐ＆かしこまり】「お疲れサマー！文化祭ビール スイカ味」 コラボラベルビール1本＋アクリルコースターセット](https://mtl.base.ec/items/120525807)
 
+## [mitacleblock](https://store.mitacleblock.com)
+- [【お名前入り直筆サイン付き】東雲めぐ ミタクルブロックコラボフィギュア](https://store.mitacleblock.com/products/vtuber_shinonome_megu01-001)
+- [【お名前入り直筆サイン付き】東雲めぐ＋たくあんマン＋とらんぴセット](https://store.mitacleblock.com/products/vtuber_shinonome_megu01-002)
+- [【お名前入り直筆サイン付き】東雲めぐ＋たくあんマン＋とらんぴ＋ステージセット](https://store.mitacleblock.com/products/vtuber_shinonome_megu01-003)
 
+## めぐレナ電脳珍道中
+### [PLANET MAGIC](https://planetmagic.base.shop/categories/7362144)
+- [よくばり全部セット（めぐレナ）](https://planetmagic.base.shop/items/145369400)
+- [めぐレナ メモリアル フォト風カードセット（6種セット）（めぐレナ）](https://planetmagic.base.shop/items/145369273)
+- [フレークシールセット（10種セット）（めぐレナ）](https://planetmagic.base.shop/items/145369185)
+- [缶バッジセット（3種セット）（めぐレナ）](https://planetmagic.base.shop/items/145369134)
+- [アクリルスタンドキーホルダー（めぐレナ）](https://planetmagic.base.shop/items/145358248)
+
+---
+## その他
+- [東雲めぐ アニメーションスタンプ](https://store.line.me/stickershop/product/4577084/ja)
+- [G-GEAR 東雲めぐ 推奨パソコン](https://www.tsukumo.co.jp/bto/pc/special/shinonome_megu/)
+- [東雲めぐコラボOVO](https://gugenka.jp/ovo_collab/)
+- [東雲めぐ公式アプリ となりのめぐちゃんアラーム](https://gugenka.jp/original/megu-alarm.php)
+- [めぐあーとキッズペイント](https://gugenka.jp/original/kids-paint.php)
+- [【PARCO×SHOWROOM】オリジナルアパレルproject](https://www.showroom-live.com/campaign/apparel_sales)
+- [ローソンプリント オリジナルブロマイド](https://lawson-print.com/products/categories/megu_shinonome)
+	- 東雲めぐ__ランダムブロマイド L （商品番号:1038030001） 全4種
+	- 東雲めぐ__ランダムブロマイド 2L （商品番号:1038030002） 全4種
+	- 東雲めぐ__ステッカー01 （商品番号:1038030003）
+	- 東雲めぐ__ステッカー02 （商品番号:1038030004）
 
 ---
 ## 非売品
