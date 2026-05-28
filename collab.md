@@ -231,7 +231,7 @@
 	- [【JP/EN】せんのいのり杯S4本番！ブロンズ伝説【3分遅延あり】](https://www.twitch.tv/videos/1533394676) (Twitch) [name=sennoinori_jp]
 	- [【APEX】ブロンズ伝説　本番！！！【せんのいのり杯】](https://youtu.be/5VZya9dFkqs)
 	- [【JP/EN】ブロンズ伝説打ち上げ！【VTuber】](https://www.twitch.tv/videos/1538339170) (Twitch) [name=sennoinori_jp]
-- **07/21** : [【ジラ爆誕3】お誕生日３D配信！！！！【ジラ/ビータス】]](https://youtu.be/-nmV5SEmiXk)
+- **07/21** : [【ジラ爆誕3】お誕生日３D配信！！！！【ジラ/ビータス】](https://youtu.be/-nmV5SEmiXk)
 - **07/26** : [【 清らかな水500円 】お誕生日３D 配信 おつかれさま会【ジラ＆東雲めぐ】](https://youtu.be/wCvzHOjlqA0) [name=Gila Channel / ジラ]
 - **07/28** : [【ゲスト有】酒懺悔会Part６～酒の失敗は酒で流す～](https://youtu.be/UE9X-D-t-T4) [name=九条 茘枝 【Kujo Lychee Official】]
 - **07/29** : [【#チーム金髪】マキオ先生にAPEX教えてもらいます！【まったり】](https://www.twitch.tv/videos/1546245864)
@@ -360,8 +360,22 @@
     - [【R.E.P.O.】念願の初R.E.P.O.コラボ！！！なにをしたらいいんですか！！！！！！！【日向奈央視点】 ＃REPO女子会](https://youtu.be/mm8eq1ZXg3s) [name=日向奈央]
     - [✧︎*.〖 R.E.P.O. ┊︎クララ視点〗目標：頭だけにならない。絶対。。。。 ⋆꙳〖#暁月クララ┊︎#パレプロ〗](https://youtu.bef3IgU9wPJtY) [name=暁月クララ / Akatsuki Clara【パレプロ】]
     - [〖 R.E.P.O. 〗#REPO女子会 こんな大人数で…はじめて…〖 天川はの/vtuber 〗](https://youtu.be/eSyPa2NooBk) [name=天川はの/AmakawaHano]
-- **02/08** : [【雑談コラボ】ASAKA MEETS 28 #8 ゲスト:東雲めぐ #ASAKA28](https://youtu.be/QfgjIba1G0E) [ASAKAchannel]
+- **02/08** : [【雑談コラボ】ASAKA MEETS 28 #8 ゲスト:東雲めぐ #ASAKA28](https://youtu.be/QfgjIba1G0E) [name=ASAKAchannel]
 - **02/27** : [【VRChatでおさんぽ】めぐレナ電脳珍道中♥【第7回】#めぐレナ #めぐレナ電脳珍道中 #VRChat](https://youtu.be/AeXzJli3VEY)
+- **04/05** : [【VRChatでおさんぽ】めぐレナ電脳珍道中♥【第8回】#めぐレナ #めぐレナ電脳珍道中 #VRChat](https://youtu.be/E1Gn-ckAM0E)
+- **04/11** : [まさかのAPEX配信 w/Myna,東雲めぐ#ASAKA](https://youtu.beTd9WlQj7EQ0) [name=ASAKAchannel]
+- **04/16** : [【VRChatでおさんぽ】めぐレナ電脳珍道中♥【第9回】#めぐレナ #めぐレナ電脳珍道中 #VRChat](https://youtu.be/Mo2WTh0dVK0)
+- **05/13** : [【 #MIMESIS 】初見プレイ！本物を見極めます👀【 #東雲めぐ 視点 】](https://youtu.be/nuv9-nZqXsY)
+    - [【MIMESIS】あなた本物ですか？👉️ w/東雲めぐ、天道もやし、Myna #ASAKA](https://youtu.be/CBNcxuJDkzM) [name=ASAKAchannel]
+    - [【MIMESIS】初見プレイで、え？これホラーなん？｜Myna POV【GAME】](https://youtu.be/AmtgkbRUS5o) [name=Myna of All Trades🐥]
+    - [\[MIMESIS\]初プレイ！よくわからんが勝てばいいんだろ？？](https://youtu.be/o47gy49hT6k) [name=天道もやしVtuber]
+- **05/27** : [【R.E.P.O.】今度こそエルサに会わせてください🐕🐕🐕【#REPO女子会】](https://youtu.be/f4KgJuDhNgA)
+    - [【R.E.P.O.】久しぶりのみんなでこらぼ！！！【日向奈央視点】 ＃REPO女子会](https://youtu.be/964c9EkuWBA) [name=日向奈央]
+    - [【 #REPO女子会 】アプデ後初のれぽだ～～～！【 #瀬戸乃とと 視点 / #ライブユニオン / #RK Music 】](https://youtu.be/6VH9-srU5xw) [name=瀬戸乃とと]
+    - [✧︎*.〖 R.E.P.O. ┊︎クララ視点〗仲間を！！守りたい！！！ #REPO女子会 ⋆꙳〖#暁月クララ┊︎#パレプロ〗](https://youtu.be/JnkYn45ctYA) [name=暁月クララ / Akatsuki Clara【パレプロ】]
+    - [〖 R.E.P.O. 〗#REPO女子会 大型アプデがあったとか…！！〖 天川はの/vtuber 〗](https://youtu.be/6VQcSs60B2I) [name=天川はの/AmakawaHano]
+    - [アプデ後の世界戦✨️【 #REPO女子会 】](https://youtu.be/Ye65_jtbWh4) [name=桐谷こむぎ-Komugi Channel-]
+- **05/28** : [【重大発表も！？】めぐレナ電脳珍道中♥【第10回】#めぐレナ #めぐレナ電脳珍道中 #VRChat](https://youtu.be/F0nPZAy8RVI)
 
 ### 今後の予定
 
