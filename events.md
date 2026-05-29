@@ -131,7 +131,7 @@
 - **07/02-07/23** : 「たくあんマン」おはスタ出演（毎週火曜「れいぞうこのつけの すけ!」内）
 	- [**07/02**](https://youtu.be/c2qBB9T8vR0)，[**07/08**](https://youtu.be/dzrw9d0ENws)，[**07/15**](https://youtu.be/BVbaKU4jJ4s)，[**07/23**](https://youtu.be/y8hRIn-jfKQ) [name=SHOPRO]
 - **07/12** : キッズボンボン「[パンダうさぎコアラ](https://youtu.be/izlpSSgMThg)」公開 [name=キッズボンボン]
-- **07/22** : となりの研究生マシマヒメコ。のツナましステージ誕生日スペシャル！
+- **07/22** : となりの研究生マシマヒメコ。のツナましステージ誕生日スペシャル！　（[プレスリリース](https://corporate.sanrio.co.jp/news/assets/pdf/2019/20220307141647983s.pdf)）
 - **07/30** : [東雲めぐの はぴふりCh #1](https://cluster.mu/e/422d1ea1-32c0-11ea-ba92-0ef3638656a6) (cluster)
 - **08/01** : 花譜ファーストワンマンライブ「不可解」 応援メッセージ
 - **08/01** : グミの日2019 キックオフグミーティング([プレスリリース](https://prtimes.jp/main/html/rd/p/000000018.000008207.html))
@@ -515,7 +515,8 @@
     - [東雲めぐと過ごす海ガチャ](https://www.eternalmedal.com/gacha/507/)
     - 7月推し棚グランプリ 準グランプリ ([関連投稿](https://x.com/eternalmedal/status/1953048407326536146))
 - **10/04** : [1部「東雲めぐとはっぴーわくわく文化祭！」2部「まりめぐと楽しい酔いどれ文化祭」](https://t.livepocket.jp/e/k9-jd)
-- **10/10** : [【アメカファーム】今が旬！シャインマスカット](https://youtu.be/yiX-58VluV4)[name=Virtual Cast Shopping Ch.]
+- **10/10** : [【アメカファーム】今が旬！シャインマスカット](https://youtu.be/yiX-58VluV4)[name=Virtual Cast Shopping Ch.]<!-- - **11/11** : [多くの人に愛される「東雲めぐ」の活動に区切り　活動をデビューから振り返り（本人・関係者コメントあり）](https://panora.tokyo/archives/122867) -->
+- **11/12** : streamart（旧 ETERNAL MEDAL）とNudgeによるオリジナルデザインクレジットカード [提供開始](https://nudge.cards/streamart) ([関連プレスリリース](https://prtimes.jp/main/html/rd/p/000000276.000073456.html))
 
 ### 今後の予定
 
