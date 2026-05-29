@@ -33,6 +33,10 @@ tags: 東雲めぐ
 		li::marker {
 			content: none !important;
 		}
+        .markdown-body li ul li {
+            margin: 0 0.25em;
+			padding: 0 1em;
+        }
 		div:nth-child(1 of .embed-note)>ul>li {
 			border-left: solid 0.25em #ffcdc7;
 		}
@@ -78,6 +82,14 @@ tags: 東雲めぐ
 		.fa-user:before {
 			content: "\f16a";
 		}
+        .toc-slot-indicators::before {
+            width:3em;
+            text-align:center;
+            content: "目次";
+        }
+        button[aria-label="Open table of contents"]::after {
+			content: "目次";
+        }
 	}
 	@media print {
 		#meta-title-tags {
