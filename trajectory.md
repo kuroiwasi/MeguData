@@ -156,8 +156,15 @@
 - **12/25** : 新衣装発表
     - [【新衣装お披露目】今年は新衣装で一緒にクリスマスを過ごしたい！🎄✨【 #東雲めぐ 】](https://youtu.be/RAEtDf9Z3C4)
 
+### 2026
+- **03/01** : [【活動8周年】お祝いしながらまったり雑談しよ～！【#東雲めぐ】](https://youtu.be/sneDrQSyS-g)
+- **03/18** : [POPOPOアカウント](https://www.popopo.com/ja/users/GU9oA5PPfTNmkWWvh5DAIzcPBDB3)開設（[関連ポスト](https://x.com/megu_shinonome/status/2034214247761322126)）
+- **04/04-04/05** : [東雲めぐのお誕生日 CAFE＆BAR](https://livepocket.jp/e/od9zp) 開催
+- **05/29** : ラストSHOWROOM配信
+
 ### 今後の予定
-- **04/04-04/05** : [東雲めぐのお誕生日 CAFE＆BAR](https://livepocket.jp/e/od9zp)
-<!-- - **2026/09/21** : 活動終了予定 -->
+- **05/30-05/31** : 24時間配信 （[タイムテーブル(X)](https://x.com/megu_shinonome/status/2060005910689526228)）
+
+<!-- - **2026/09/21** : 活動完全終了予定 -->
 
 ---
