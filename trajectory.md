@@ -161,10 +161,14 @@
 - **03/18** : [POPOPOアカウント](https://www.popopo.com/ja/users/GU9oA5PPfTNmkWWvh5DAIzcPBDB3)開設（[関連ポスト](https://x.com/megu_shinonome/status/2034214247761322126)）
 - **04/04-04/05** : [東雲めぐのお誕生日 CAFE＆BAR](https://livepocket.jp/e/od9zp) 開催
 - **05/29** : ラストSHOWROOM配信
+- **05/30-05/31** : 卒業配信 （[タイムテーブル(X)](https://x.com/megu_shinonome/status/2060005910689526228)）
+    - [【第一部】　卒業までの24時間！みんなと楽しく走り切りたい！　【 #東雲めぐ卒業配信24 】](https://youtu.be/vK7qlAa9W9M)
+    - [【第二部】　みんな休憩しながらまったり見てね👀✨　【 #東雲めぐ卒業配信24 】](https://youtu.be/iCzhkMpekpY)
+    - [【第三部】　みんなのと思い出がいっぱいで幸せだ～！ラストスパート！　【 #東雲めぐ卒業配信24 】](https://youtu.be/1K9lY-GaxwA)
 
 ### 今後の予定
-- **05/30-05/31** : 24時間配信 （[タイムテーブル(X)](https://x.com/megu_shinonome/status/2060005910689526228)）
-
+- MOGU （[公式X](https://x.com/MOGU_official_x)）
+ 
 <!-- - **2026/09/21** : 活動完全終了予定 -->
 
 ---
