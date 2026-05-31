@@ -1,6 +1,7 @@
 ## イベント・メディア出演/掲載・企業タイアップ配信等
 ### 2018
 
+- **04/06** : コンテンツ東京2018 登壇 <!--（[関連記事](https://www.itmedia.co.jp/business/articles/1804/13/news052.html)）-->
 - **04/10** : CG WORLD vol.237 <!--「わいわいバーチャルYoutuber」-->特集内インタビュー<!--- **04/19** : [【公式配信】 第34回 『CGWORLD CHANNEL』 新時代のバーチャルアイドルができるまで](https://live.nicovideo.jp/watch/lv312431945)--><!--	- **04/13** : [告知記事](https://cgworld.jp/news/other/1804-niconico.html)--><!--- **04/27** : [バーチャルキャラクターのプロデュース手法とリアルタイムエンジンとの可能性](https://madewithunity.jp/interviews/shinonome-megu/) -->
 - **05/05** : キッズボンボンTV 参加，「[こいのぼり](https://youtu.be/TYjFjhmdZnU)」公開 [name=キッズボンボン]
 - **05/09** : Unite Tokyo 2018 講演に生放送で出演<!--	- [【Unite Tokyo 2018】AniCast！東雲めぐちゃんの魔法ができるまで](https://youtu.be/1rfoFg6LJgU) [name=Unity Japan]-->
